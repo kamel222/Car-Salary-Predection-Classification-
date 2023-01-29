@@ -1,0 +1,11250 @@
+car_id,Price Category
+0,expensive
+1,moderate
+2,moderate
+3,moderate
+4,moderate
+5,moderate
+6,moderate
+7,moderate
+8,moderate
+9,moderate
+10,moderate
+11,moderate
+12,moderate
+13,moderate
+14,moderate
+15,moderate
+16,moderate
+17,moderate
+18,moderate
+19,moderate
+20,moderate
+21,moderate
+22,moderate
+23,moderate
+24,moderate
+25,moderate
+26,moderate
+27,moderate
+28,moderate
+29,moderate
+30,moderate
+31,moderate
+32,moderate
+33,moderate
+34,moderate
+35,moderate
+36,moderate
+37,moderate
+38,moderate
+39,moderate
+40,moderate
+41,moderate
+42,very expensive
+43,very expensive
+44,very expensive
+45,very expensive
+46,very expensive
+47,moderate
+48,very expensive
+49,very expensive
+50,very expensive
+51,very expensive
+52,very expensive
+53,very expensive
+54,very expensive
+55,moderate
+56,very expensive
+57,very expensive
+58,moderate
+59,moderate
+60,moderate
+61,moderate
+62,moderate
+63,moderate
+64,moderate
+65,very expensive
+66,moderate
+67,moderate
+68,moderate
+69,moderate
+70,very expensive
+71,very expensive
+72,moderate
+73,moderate
+74,moderate
+75,moderate
+76,moderate
+77,moderate
+78,moderate
+79,moderate
+80,very expensive
+81,moderate
+82,moderate
+83,moderate
+84,moderate
+85,moderate
+86,moderate
+87,moderate
+88,moderate
+89,moderate
+90,very expensive
+91,moderate
+92,very expensive
+93,moderate
+94,moderate
+95,moderate
+96,very expensive
+97,moderate
+98,moderate
+99,moderate
+100,moderate
+101,moderate
+102,moderate
+103,moderate
+104,moderate
+105,moderate
+106,moderate
+107,very expensive
+108,moderate
+109,moderate
+110,moderate
+111,moderate
+112,moderate
+113,moderate
+114,moderate
+115,very expensive
+116,moderate
+117,moderate
+118,moderate
+119,moderate
+120,moderate
+121,moderate
+122,moderate
+123,moderate
+124,moderate
+125,moderate
+126,moderate
+127,moderate
+128,moderate
+129,very expensive
+130,moderate
+131,moderate
+132,moderate
+133,very expensive
+134,moderate
+135,moderate
+136,moderate
+137,moderate
+138,moderate
+139,moderate
+140,moderate
+141,moderate
+142,moderate
+143,expensive
+144,moderate
+145,moderate
+146,moderate
+147,moderate
+148,moderate
+149,moderate
+150,moderate
+151,moderate
+152,moderate
+153,moderate
+154,moderate
+155,moderate
+156,moderate
+157,moderate
+158,moderate
+159,moderate
+160,moderate
+161,moderate
+162,moderate
+163,moderate
+164,moderate
+165,moderate
+166,moderate
+167,moderate
+168,moderate
+169,moderate
+170,moderate
+171,moderate
+172,moderate
+173,moderate
+174,very expensive
+175,very expensive
+176,very expensive
+177,very expensive
+178,very expensive
+179,very expensive
+180,very expensive
+181,very expensive
+182,very expensive
+183,very expensive
+184,very expensive
+185,very expensive
+186,moderate
+187,very expensive
+188,moderate
+189,moderate
+190,moderate
+191,moderate
+192,moderate
+193,moderate
+194,very expensive
+195,very expensive
+196,very expensive
+197,very expensive
+198,very expensive
+199,very expensive
+200,very expensive
+201,very expensive
+202,very expensive
+203,moderate
+204,moderate
+205,moderate
+206,very expensive
+207,very expensive
+208,very expensive
+209,moderate
+210,moderate
+211,moderate
+212,moderate
+213,moderate
+214,moderate
+215,moderate
+216,moderate
+217,moderate
+218,moderate
+219,moderate
+220,moderate
+221,moderate
+222,moderate
+223,moderate
+224,moderate
+225,moderate
+226,moderate
+227,moderate
+228,moderate
+229,moderate
+230,moderate
+231,moderate
+232,moderate
+233,moderate
+234,moderate
+235,moderate
+236,moderate
+237,very expensive
+238,moderate
+239,very expensive
+240,very expensive
+241,moderate
+242,moderate
+243,very expensive
+244,very expensive
+245,moderate
+246,very expensive
+247,very expensive
+248,moderate
+249,very expensive
+250,very expensive
+251,very expensive
+252,very expensive
+253,moderate
+254,very expensive
+255,very expensive
+256,moderate
+257,very expensive
+258,moderate
+259,very expensive
+260,very expensive
+261,very expensive
+262,moderate
+263,very expensive
+264,very expensive
+265,moderate
+266,moderate
+267,very expensive
+268,very expensive
+269,very expensive
+270,very expensive
+271,very expensive
+272,very expensive
+273,very expensive
+274,very expensive
+275,very expensive
+276,moderate
+277,moderate
+278,moderate
+279,very expensive
+280,moderate
+281,moderate
+282,moderate
+283,very expensive
+284,very expensive
+285,very expensive
+286,very expensive
+287,very expensive
+288,very expensive
+289,very expensive
+290,very expensive
+291,very expensive
+292,moderate
+293,moderate
+294,very expensive
+295,moderate
+296,very expensive
+297,very expensive
+298,very expensive
+299,very expensive
+300,very expensive
+301,very expensive
+302,moderate
+303,moderate
+304,moderate
+305,very expensive
+306,very expensive
+307,very expensive
+308,moderate
+309,very expensive
+310,very expensive
+311,very expensive
+312,very expensive
+313,very expensive
+314,moderate
+315,very expensive
+316,moderate
+317,very expensive
+318,very expensive
+319,very expensive
+320,very expensive
+321,very expensive
+322,very expensive
+323,moderate
+324,moderate
+325,very expensive
+326,moderate
+327,very expensive
+328,very expensive
+329,very expensive
+330,very expensive
+331,moderate
+332,very expensive
+333,moderate
+334,very expensive
+335,moderate
+336,very expensive
+337,very expensive
+338,very expensive
+339,very expensive
+340,very expensive
+341,very expensive
+342,very expensive
+343,moderate
+344,very expensive
+345,very expensive
+346,moderate
+347,very expensive
+348,moderate
+349,very expensive
+350,very expensive
+351,very expensive
+352,moderate
+353,very expensive
+354,very expensive
+355,very expensive
+356,very expensive
+357,moderate
+358,very expensive
+359,moderate
+360,moderate
+361,very expensive
+362,very expensive
+363,moderate
+364,very expensive
+365,very expensive
+366,very expensive
+367,moderate
+368,very expensive
+369,moderate
+370,very expensive
+371,very expensive
+372,moderate
+373,very expensive
+374,very expensive
+375,very expensive
+376,very expensive
+377,moderate
+378,moderate
+379,moderate
+380,very expensive
+381,moderate
+382,very expensive
+383,very expensive
+384,very expensive
+385,moderate
+386,moderate
+387,very expensive
+388,very expensive
+389,very expensive
+390,very expensive
+391,very expensive
+392,very expensive
+393,very expensive
+394,very expensive
+395,very expensive
+396,very expensive
+397,very expensive
+398,moderate
+399,very expensive
+400,moderate
+401,very expensive
+402,moderate
+403,very expensive
+404,very expensive
+405,very expensive
+406,moderate
+407,very expensive
+408,very expensive
+409,very expensive
+410,very expensive
+411,very expensive
+412,very expensive
+413,very expensive
+414,very expensive
+415,very expensive
+416,very expensive
+417,very expensive
+418,very expensive
+419,very expensive
+420,very expensive
+421,moderate
+422,expensive
+423,moderate
+424,moderate
+425,moderate
+426,moderate
+427,moderate
+428,moderate
+429,moderate
+430,moderate
+431,moderate
+432,moderate
+433,moderate
+434,moderate
+435,moderate
+436,moderate
+437,moderate
+438,moderate
+439,moderate
+440,moderate
+441,moderate
+442,moderate
+443,moderate
+444,moderate
+445,moderate
+446,moderate
+447,moderate
+448,very expensive
+449,moderate
+450,moderate
+451,very expensive
+452,very expensive
+453,moderate
+454,moderate
+455,very expensive
+456,very expensive
+457,very expensive
+458,very expensive
+459,moderate
+460,very expensive
+461,very expensive
+462,moderate
+463,very expensive
+464,moderate
+465,very expensive
+466,moderate
+467,very expensive
+468,very expensive
+469,moderate
+470,very expensive
+471,very expensive
+472,very expensive
+473,moderate
+474,very expensive
+475,very expensive
+476,moderate
+477,moderate
+478,very expensive
+479,very expensive
+480,very expensive
+481,moderate
+482,moderate
+483,moderate
+484,moderate
+485,moderate
+486,moderate
+487,moderate
+488,moderate
+489,moderate
+490,moderate
+491,moderate
+492,moderate
+493,moderate
+494,moderate
+495,moderate
+496,moderate
+497,moderate
+498,moderate
+499,moderate
+500,moderate
+501,moderate
+502,moderate
+503,moderate
+504,moderate
+505,moderate
+506,moderate
+507,moderate
+508,moderate
+509,moderate
+510,moderate
+511,moderate
+512,moderate
+513,moderate
+514,moderate
+515,moderate
+516,moderate
+517,moderate
+518,moderate
+519,moderate
+520,moderate
+521,moderate
+522,moderate
+523,moderate
+524,moderate
+525,moderate
+526,moderate
+527,moderate
+528,moderate
+529,moderate
+530,moderate
+531,moderate
+532,moderate
+533,moderate
+534,moderate
+535,moderate
+536,moderate
+537,moderate
+538,moderate
+539,moderate
+540,moderate
+541,moderate
+542,moderate
+543,moderate
+544,moderate
+545,moderate
+546,moderate
+547,moderate
+548,moderate
+549,moderate
+550,moderate
+551,moderate
+552,moderate
+553,moderate
+554,moderate
+555,moderate
+556,moderate
+557,moderate
+558,moderate
+559,moderate
+560,moderate
+561,moderate
+562,moderate
+563,moderate
+564,moderate
+565,moderate
+566,moderate
+567,moderate
+568,moderate
+569,moderate
+570,moderate
+571,moderate
+572,moderate
+573,moderate
+574,moderate
+575,moderate
+576,moderate
+577,moderate
+578,moderate
+579,moderate
+580,moderate
+581,moderate
+582,moderate
+583,moderate
+584,moderate
+585,moderate
+586,moderate
+587,moderate
+588,moderate
+589,moderate
+590,moderate
+591,moderate
+592,moderate
+593,moderate
+594,moderate
+595,moderate
+596,moderate
+597,moderate
+598,moderate
+599,moderate
+600,moderate
+601,moderate
+602,moderate
+603,moderate
+604,moderate
+605,moderate
+606,moderate
+607,moderate
+608,moderate
+609,moderate
+610,moderate
+611,moderate
+612,moderate
+613,moderate
+614,moderate
+615,moderate
+616,moderate
+617,moderate
+618,moderate
+619,moderate
+620,moderate
+621,moderate
+622,moderate
+623,moderate
+624,moderate
+625,moderate
+626,moderate
+627,moderate
+628,moderate
+629,moderate
+630,moderate
+631,moderate
+632,moderate
+633,moderate
+634,moderate
+635,moderate
+636,moderate
+637,moderate
+638,moderate
+639,moderate
+640,moderate
+641,moderate
+642,moderate
+643,moderate
+644,moderate
+645,moderate
+646,moderate
+647,moderate
+648,moderate
+649,moderate
+650,moderate
+651,moderate
+652,moderate
+653,moderate
+654,moderate
+655,moderate
+656,moderate
+657,moderate
+658,moderate
+659,moderate
+660,moderate
+661,moderate
+662,moderate
+663,moderate
+664,moderate
+665,moderate
+666,moderate
+667,moderate
+668,moderate
+669,moderate
+670,moderate
+671,moderate
+672,moderate
+673,moderate
+674,moderate
+675,moderate
+676,moderate
+677,moderate
+678,moderate
+679,moderate
+680,moderate
+681,moderate
+682,moderate
+683,moderate
+684,moderate
+685,moderate
+686,moderate
+687,moderate
+688,moderate
+689,moderate
+690,moderate
+691,moderate
+692,moderate
+693,moderate
+694,moderate
+695,moderate
+696,moderate
+697,moderate
+698,expensive
+699,moderate
+700,moderate
+701,moderate
+702,moderate
+703,moderate
+704,moderate
+705,moderate
+706,moderate
+707,moderate
+708,moderate
+709,moderate
+710,moderate
+711,moderate
+712,moderate
+713,moderate
+714,moderate
+715,moderate
+716,moderate
+717,moderate
+718,expensive
+719,moderate
+720,expensive
+721,moderate
+722,moderate
+723,moderate
+724,moderate
+725,moderate
+726,moderate
+727,moderate
+728,moderate
+729,moderate
+730,moderate
+731,moderate
+732,moderate
+733,moderate
+734,moderate
+735,moderate
+736,moderate
+737,moderate
+738,moderate
+739,moderate
+740,moderate
+741,moderate
+742,moderate
+743,moderate
+744,moderate
+745,moderate
+746,moderate
+747,moderate
+748,moderate
+749,moderate
+750,moderate
+751,moderate
+752,moderate
+753,moderate
+754,moderate
+755,moderate
+756,moderate
+757,moderate
+758,moderate
+759,very expensive
+760,moderate
+761,very expensive
+762,very expensive
+763,moderate
+764,very expensive
+765,very expensive
+766,very expensive
+767,moderate
+768,very expensive
+769,moderate
+770,very expensive
+771,moderate
+772,moderate
+773,very expensive
+774,moderate
+775,very expensive
+776,moderate
+777,moderate
+778,moderate
+779,moderate
+780,very expensive
+781,moderate
+782,very expensive
+783,very expensive
+784,very expensive
+785,very expensive
+786,moderate
+787,very expensive
+788,very expensive
+789,very expensive
+790,very expensive
+791,very expensive
+792,moderate
+793,moderate
+794,moderate
+795,very expensive
+796,moderate
+797,moderate
+798,moderate
+799,moderate
+800,very expensive
+801,very expensive
+802,moderate
+803,moderate
+804,very expensive
+805,moderate
+806,moderate
+807,very expensive
+808,very expensive
+809,very expensive
+810,moderate
+811,very expensive
+812,very expensive
+813,moderate
+814,moderate
+815,very expensive
+816,very expensive
+817,moderate
+818,very expensive
+819,very expensive
+820,very expensive
+821,moderate
+822,very expensive
+823,very expensive
+824,moderate
+825,very expensive
+826,very expensive
+827,moderate
+828,very expensive
+829,very expensive
+830,moderate
+831,very expensive
+832,moderate
+833,moderate
+834,very expensive
+835,moderate
+836,moderate
+837,moderate
+838,moderate
+839,moderate
+840,moderate
+841,moderate
+842,very expensive
+843,very expensive
+844,moderate
+845,very expensive
+846,very expensive
+847,very expensive
+848,moderate
+849,very expensive
+850,moderate
+851,very expensive
+852,moderate
+853,very expensive
+854,moderate
+855,moderate
+856,moderate
+857,very expensive
+858,moderate
+859,very expensive
+860,very expensive
+861,moderate
+862,very expensive
+863,moderate
+864,very expensive
+865,very expensive
+866,moderate
+867,very expensive
+868,moderate
+869,very expensive
+870,moderate
+871,moderate
+872,very expensive
+873,moderate
+874,moderate
+875,very expensive
+876,moderate
+877,moderate
+878,moderate
+879,moderate
+880,very expensive
+881,moderate
+882,moderate
+883,moderate
+884,moderate
+885,moderate
+886,moderate
+887,very expensive
+888,moderate
+889,moderate
+890,moderate
+891,moderate
+892,moderate
+893,moderate
+894,very expensive
+895,very expensive
+896,moderate
+897,moderate
+898,moderate
+899,moderate
+900,moderate
+901,moderate
+902,moderate
+903,moderate
+904,moderate
+905,moderate
+906,moderate
+907,moderate
+908,moderate
+909,moderate
+910,moderate
+911,moderate
+912,moderate
+913,moderate
+914,moderate
+915,moderate
+916,moderate
+917,very expensive
+918,moderate
+919,moderate
+920,moderate
+921,moderate
+922,moderate
+923,moderate
+924,moderate
+925,moderate
+926,moderate
+927,moderate
+928,moderate
+929,moderate
+930,moderate
+931,moderate
+932,very expensive
+933,very expensive
+934,moderate
+935,moderate
+936,very expensive
+937,expensive
+938,expensive
+939,expensive
+940,moderate
+941,moderate
+942,moderate
+943,moderate
+944,moderate
+945,moderate
+946,moderate
+947,moderate
+948,moderate
+949,moderate
+950,moderate
+951,moderate
+952,moderate
+953,moderate
+954,moderate
+955,very expensive
+956,moderate
+957,moderate
+958,moderate
+959,moderate
+960,moderate
+961,very expensive
+962,moderate
+963,moderate
+964,moderate
+965,moderate
+966,very expensive
+967,moderate
+968,moderate
+969,moderate
+970,moderate
+971,moderate
+972,moderate
+973,moderate
+974,moderate
+975,moderate
+976,moderate
+977,moderate
+978,moderate
+979,moderate
+980,moderate
+981,moderate
+982,moderate
+983,moderate
+984,moderate
+985,moderate
+986,very expensive
+987,very expensive
+988,moderate
+989,very expensive
+990,moderate
+991,very expensive
+992,moderate
+993,moderate
+994,very expensive
+995,moderate
+996,moderate
+997,moderate
+998,moderate
+999,very expensive
+1000,moderate
+1001,very expensive
+1002,very expensive
+1003,very expensive
+1004,moderate
+1005,very expensive
+1006,moderate
+1007,very expensive
+1008,very expensive
+1009,very expensive
+1010,very expensive
+1011,very expensive
+1012,very expensive
+1013,very expensive
+1014,very expensive
+1015,very expensive
+1016,very expensive
+1017,very expensive
+1018,very expensive
+1019,very expensive
+1020,very expensive
+1021,very expensive
+1022,moderate
+1023,moderate
+1024,moderate
+1025,moderate
+1026,moderate
+1027,moderate
+1028,moderate
+1029,moderate
+1030,moderate
+1031,moderate
+1032,moderate
+1033,moderate
+1034,moderate
+1035,moderate
+1036,moderate
+1037,moderate
+1038,moderate
+1039,moderate
+1040,moderate
+1041,moderate
+1042,moderate
+1043,moderate
+1044,moderate
+1045,moderate
+1046,moderate
+1047,moderate
+1048,moderate
+1049,moderate
+1050,moderate
+1051,moderate
+1052,moderate
+1053,moderate
+1054,moderate
+1055,moderate
+1056,moderate
+1057,moderate
+1058,moderate
+1059,moderate
+1060,moderate
+1061,moderate
+1062,moderate
+1063,moderate
+1064,moderate
+1065,moderate
+1066,moderate
+1067,moderate
+1068,moderate
+1069,moderate
+1070,moderate
+1071,moderate
+1072,moderate
+1073,moderate
+1074,moderate
+1075,moderate
+1076,moderate
+1077,moderate
+1078,moderate
+1079,moderate
+1080,moderate
+1081,moderate
+1082,moderate
+1083,moderate
+1084,moderate
+1085,moderate
+1086,moderate
+1087,moderate
+1088,moderate
+1089,moderate
+1090,moderate
+1091,moderate
+1092,moderate
+1093,moderate
+1094,moderate
+1095,moderate
+1096,moderate
+1097,moderate
+1098,moderate
+1099,moderate
+1100,moderate
+1101,moderate
+1102,moderate
+1103,moderate
+1104,moderate
+1105,moderate
+1106,very expensive
+1107,very expensive
+1108,very expensive
+1109,very expensive
+1110,very expensive
+1111,very expensive
+1112,very expensive
+1113,very expensive
+1114,very expensive
+1115,very expensive
+1116,very expensive
+1117,very expensive
+1118,very expensive
+1119,very expensive
+1120,very expensive
+1121,very expensive
+1122,very expensive
+1123,very expensive
+1124,very expensive
+1125,very expensive
+1126,moderate
+1127,moderate
+1128,moderate
+1129,moderate
+1130,very expensive
+1131,very expensive
+1132,very expensive
+1133,very expensive
+1134,very expensive
+1135,moderate
+1136,moderate
+1137,moderate
+1138,moderate
+1139,moderate
+1140,moderate
+1141,moderate
+1142,moderate
+1143,moderate
+1144,moderate
+1145,moderate
+1146,moderate
+1147,moderate
+1148,moderate
+1149,moderate
+1150,moderate
+1151,moderate
+1152,moderate
+1153,moderate
+1154,moderate
+1155,moderate
+1156,moderate
+1157,moderate
+1158,moderate
+1159,moderate
+1160,moderate
+1161,moderate
+1162,moderate
+1163,moderate
+1164,moderate
+1165,moderate
+1166,moderate
+1167,moderate
+1168,moderate
+1169,moderate
+1170,moderate
+1171,expensive
+1172,expensive
+1173,expensive
+1174,expensive
+1175,moderate
+1176,expensive
+1177,moderate
+1178,moderate
+1179,expensive
+1180,expensive
+1181,expensive
+1182,moderate
+1183,expensive
+1184,moderate
+1185,expensive
+1186,moderate
+1187,expensive
+1188,moderate
+1189,moderate
+1190,expensive
+1191,expensive
+1192,moderate
+1193,expensive
+1194,moderate
+1195,moderate
+1196,moderate
+1197,moderate
+1198,moderate
+1199,moderate
+1200,moderate
+1201,moderate
+1202,moderate
+1203,expensive
+1204,moderate
+1205,moderate
+1206,moderate
+1207,moderate
+1208,moderate
+1209,moderate
+1210,expensive
+1211,moderate
+1212,moderate
+1213,moderate
+1214,moderate
+1215,moderate
+1216,moderate
+1217,moderate
+1218,moderate
+1219,moderate
+1220,moderate
+1221,expensive
+1222,expensive
+1223,moderate
+1224,moderate
+1225,moderate
+1226,moderate
+1227,expensive
+1228,moderate
+1229,expensive
+1230,moderate
+1231,expensive
+1232,expensive
+1233,expensive
+1234,expensive
+1235,moderate
+1236,expensive
+1237,expensive
+1238,expensive
+1239,moderate
+1240,moderate
+1241,moderate
+1242,expensive
+1243,moderate
+1244,moderate
+1245,moderate
+1246,moderate
+1247,expensive
+1248,moderate
+1249,expensive
+1250,moderate
+1251,moderate
+1252,moderate
+1253,expensive
+1254,moderate
+1255,expensive
+1256,expensive
+1257,moderate
+1258,expensive
+1259,expensive
+1260,expensive
+1261,expensive
+1262,moderate
+1263,expensive
+1264,moderate
+1265,expensive
+1266,expensive
+1267,moderate
+1268,expensive
+1269,expensive
+1270,expensive
+1271,expensive
+1272,moderate
+1273,expensive
+1274,expensive
+1275,moderate
+1276,moderate
+1277,moderate
+1278,moderate
+1279,expensive
+1280,expensive
+1281,expensive
+1282,expensive
+1283,expensive
+1284,expensive
+1285,expensive
+1286,expensive
+1287,expensive
+1288,expensive
+1289,expensive
+1290,moderate
+1291,moderate
+1292,expensive
+1293,expensive
+1294,moderate
+1295,expensive
+1296,moderate
+1297,moderate
+1298,moderate
+1299,moderate
+1300,moderate
+1301,moderate
+1302,moderate
+1303,moderate
+1304,moderate
+1305,moderate
+1306,moderate
+1307,moderate
+1308,moderate
+1309,moderate
+1310,moderate
+1311,moderate
+1312,moderate
+1313,moderate
+1314,moderate
+1315,moderate
+1316,moderate
+1317,moderate
+1318,moderate
+1319,moderate
+1320,moderate
+1321,moderate
+1322,moderate
+1323,moderate
+1324,moderate
+1325,moderate
+1326,moderate
+1327,moderate
+1328,moderate
+1329,moderate
+1330,moderate
+1331,moderate
+1332,moderate
+1333,moderate
+1334,moderate
+1335,moderate
+1336,moderate
+1337,moderate
+1338,moderate
+1339,moderate
+1340,very expensive
+1341,very expensive
+1342,very expensive
+1343,very expensive
+1344,very expensive
+1345,very expensive
+1346,very expensive
+1347,very expensive
+1348,very expensive
+1349,very expensive
+1350,very expensive
+1351,very expensive
+1352,moderate
+1353,moderate
+1354,moderate
+1355,moderate
+1356,moderate
+1357,moderate
+1358,moderate
+1359,moderate
+1360,moderate
+1361,moderate
+1362,moderate
+1363,moderate
+1364,moderate
+1365,moderate
+1366,moderate
+1367,moderate
+1368,moderate
+1369,moderate
+1370,very expensive
+1371,very expensive
+1372,expensive
+1373,expensive
+1374,expensive
+1375,expensive
+1376,moderate
+1377,expensive
+1378,expensive
+1379,very expensive
+1380,very expensive
+1381,very expensive
+1382,moderate
+1383,moderate
+1384,moderate
+1385,moderate
+1386,moderate
+1387,moderate
+1388,moderate
+1389,moderate
+1390,moderate
+1391,moderate
+1392,moderate
+1393,moderate
+1394,moderate
+1395,moderate
+1396,moderate
+1397,moderate
+1398,moderate
+1399,moderate
+1400,moderate
+1401,moderate
+1402,moderate
+1403,moderate
+1404,moderate
+1405,moderate
+1406,moderate
+1407,moderate
+1408,moderate
+1409,moderate
+1410,moderate
+1411,moderate
+1412,moderate
+1413,moderate
+1414,moderate
+1415,moderate
+1416,moderate
+1417,moderate
+1418,moderate
+1419,moderate
+1420,moderate
+1421,moderate
+1422,moderate
+1423,moderate
+1424,moderate
+1425,moderate
+1426,moderate
+1427,moderate
+1428,moderate
+1429,moderate
+1430,moderate
+1431,moderate
+1432,moderate
+1433,moderate
+1434,moderate
+1435,moderate
+1436,moderate
+1437,moderate
+1438,moderate
+1439,moderate
+1440,moderate
+1441,moderate
+1442,moderate
+1443,moderate
+1444,moderate
+1445,moderate
+1446,moderate
+1447,moderate
+1448,moderate
+1449,moderate
+1450,moderate
+1451,very expensive
+1452,moderate
+1453,moderate
+1454,very expensive
+1455,moderate
+1456,very expensive
+1457,moderate
+1458,moderate
+1459,moderate
+1460,moderate
+1461,moderate
+1462,moderate
+1463,moderate
+1464,moderate
+1465,moderate
+1466,very expensive
+1467,moderate
+1468,moderate
+1469,very expensive
+1470,moderate
+1471,very expensive
+1472,very expensive
+1473,moderate
+1474,moderate
+1475,moderate
+1476,very expensive
+1477,moderate
+1478,very expensive
+1479,moderate
+1480,moderate
+1481,moderate
+1482,moderate
+1483,very expensive
+1484,moderate
+1485,moderate
+1486,very expensive
+1487,moderate
+1488,moderate
+1489,moderate
+1490,moderate
+1491,very expensive
+1492,moderate
+1493,moderate
+1494,very expensive
+1495,very expensive
+1496,moderate
+1497,very expensive
+1498,moderate
+1499,moderate
+1500,moderate
+1501,very expensive
+1502,moderate
+1503,moderate
+1504,moderate
+1505,moderate
+1506,moderate
+1507,moderate
+1508,moderate
+1509,moderate
+1510,moderate
+1511,moderate
+1512,very expensive
+1513,moderate
+1514,moderate
+1515,moderate
+1516,moderate
+1517,moderate
+1518,moderate
+1519,moderate
+1520,moderate
+1521,very expensive
+1522,very expensive
+1523,moderate
+1524,very expensive
+1525,moderate
+1526,moderate
+1527,very expensive
+1528,moderate
+1529,moderate
+1530,very expensive
+1531,moderate
+1532,very expensive
+1533,moderate
+1534,very expensive
+1535,very expensive
+1536,moderate
+1537,moderate
+1538,very expensive
+1539,moderate
+1540,moderate
+1541,moderate
+1542,moderate
+1543,moderate
+1544,very expensive
+1545,moderate
+1546,moderate
+1547,very expensive
+1548,moderate
+1549,moderate
+1550,very expensive
+1551,very expensive
+1552,moderate
+1553,very expensive
+1554,moderate
+1555,moderate
+1556,moderate
+1557,very expensive
+1558,moderate
+1559,moderate
+1560,moderate
+1561,very expensive
+1562,moderate
+1563,very expensive
+1564,very expensive
+1565,moderate
+1566,moderate
+1567,moderate
+1568,moderate
+1569,moderate
+1570,moderate
+1571,very expensive
+1572,moderate
+1573,moderate
+1574,moderate
+1575,very expensive
+1576,very expensive
+1577,moderate
+1578,very expensive
+1579,moderate
+1580,moderate
+1581,moderate
+1582,moderate
+1583,moderate
+1584,moderate
+1585,moderate
+1586,very expensive
+1587,moderate
+1588,moderate
+1589,very expensive
+1590,moderate
+1591,moderate
+1592,moderate
+1593,moderate
+1594,very expensive
+1595,moderate
+1596,moderate
+1597,very expensive
+1598,moderate
+1599,moderate
+1600,very expensive
+1601,moderate
+1602,moderate
+1603,moderate
+1604,moderate
+1605,moderate
+1606,very expensive
+1607,moderate
+1608,moderate
+1609,very expensive
+1610,moderate
+1611,moderate
+1612,very expensive
+1613,moderate
+1614,moderate
+1615,moderate
+1616,moderate
+1617,moderate
+1618,moderate
+1619,very expensive
+1620,moderate
+1621,moderate
+1622,moderate
+1623,moderate
+1624,moderate
+1625,moderate
+1626,moderate
+1627,moderate
+1628,moderate
+1629,very expensive
+1630,moderate
+1631,very expensive
+1632,moderate
+1633,very expensive
+1634,very expensive
+1635,moderate
+1636,moderate
+1637,moderate
+1638,moderate
+1639,moderate
+1640,moderate
+1641,moderate
+1642,moderate
+1643,moderate
+1644,moderate
+1645,moderate
+1646,moderate
+1647,moderate
+1648,moderate
+1649,moderate
+1650,moderate
+1651,moderate
+1652,moderate
+1653,moderate
+1654,moderate
+1655,moderate
+1656,moderate
+1657,moderate
+1658,moderate
+1659,expensive
+1660,moderate
+1661,moderate
+1662,moderate
+1663,moderate
+1664,moderate
+1665,moderate
+1666,expensive
+1667,expensive
+1668,moderate
+1669,moderate
+1670,moderate
+1671,moderate
+1672,moderate
+1673,moderate
+1674,moderate
+1675,moderate
+1676,very expensive
+1677,very expensive
+1678,moderate
+1679,moderate
+1680,moderate
+1681,moderate
+1682,moderate
+1683,very expensive
+1684,moderate
+1685,moderate
+1686,moderate
+1687,moderate
+1688,very expensive
+1689,very expensive
+1690,very expensive
+1691,very expensive
+1692,moderate
+1693,moderate
+1694,moderate
+1695,moderate
+1696,very expensive
+1697,moderate
+1698,very expensive
+1699,very expensive
+1700,very expensive
+1701,moderate
+1702,very expensive
+1703,moderate
+1704,moderate
+1705,very expensive
+1706,moderate
+1707,moderate
+1708,very expensive
+1709,very expensive
+1710,moderate
+1711,moderate
+1712,moderate
+1713,very expensive
+1714,very expensive
+1715,moderate
+1716,very expensive
+1717,very expensive
+1718,moderate
+1719,moderate
+1720,moderate
+1721,moderate
+1722,very expensive
+1723,very expensive
+1724,moderate
+1725,moderate
+1726,very expensive
+1727,moderate
+1728,moderate
+1729,moderate
+1730,very expensive
+1731,moderate
+1732,very expensive
+1733,moderate
+1734,very expensive
+1735,very expensive
+1736,very expensive
+1737,moderate
+1738,very expensive
+1739,very expensive
+1740,very expensive
+1741,very expensive
+1742,very expensive
+1743,moderate
+1744,very expensive
+1745,moderate
+1746,very expensive
+1747,moderate
+1748,moderate
+1749,very expensive
+1750,moderate
+1751,moderate
+1752,moderate
+1753,moderate
+1754,very expensive
+1755,moderate
+1756,moderate
+1757,very expensive
+1758,very expensive
+1759,very expensive
+1760,very expensive
+1761,moderate
+1762,very expensive
+1763,very expensive
+1764,moderate
+1765,very expensive
+1766,moderate
+1767,moderate
+1768,very expensive
+1769,moderate
+1770,very expensive
+1771,very expensive
+1772,very expensive
+1773,moderate
+1774,moderate
+1775,moderate
+1776,moderate
+1777,moderate
+1778,moderate
+1779,moderate
+1780,very expensive
+1781,moderate
+1782,moderate
+1783,moderate
+1784,moderate
+1785,moderate
+1786,moderate
+1787,moderate
+1788,moderate
+1789,very expensive
+1790,very expensive
+1791,moderate
+1792,very expensive
+1793,very expensive
+1794,very expensive
+1795,moderate
+1796,moderate
+1797,moderate
+1798,very expensive
+1799,moderate
+1800,moderate
+1801,very expensive
+1802,moderate
+1803,moderate
+1804,very expensive
+1805,very expensive
+1806,moderate
+1807,very expensive
+1808,very expensive
+1809,very expensive
+1810,moderate
+1811,very expensive
+1812,very expensive
+1813,moderate
+1814,moderate
+1815,very expensive
+1816,very expensive
+1817,very expensive
+1818,very expensive
+1819,very expensive
+1820,very expensive
+1821,moderate
+1822,very expensive
+1823,moderate
+1824,moderate
+1825,moderate
+1826,very expensive
+1827,very expensive
+1828,very expensive
+1829,moderate
+1830,very expensive
+1831,very expensive
+1832,moderate
+1833,moderate
+1834,very expensive
+1835,moderate
+1836,very expensive
+1837,very expensive
+1838,moderate
+1839,very expensive
+1840,very expensive
+1841,moderate
+1842,very expensive
+1843,very expensive
+1844,moderate
+1845,very expensive
+1846,moderate
+1847,very expensive
+1848,moderate
+1849,very expensive
+1850,moderate
+1851,very expensive
+1852,very expensive
+1853,moderate
+1854,very expensive
+1855,moderate
+1856,moderate
+1857,very expensive
+1858,moderate
+1859,moderate
+1860,very expensive
+1861,moderate
+1862,very expensive
+1863,very expensive
+1864,very expensive
+1865,moderate
+1866,very expensive
+1867,very expensive
+1868,very expensive
+1869,moderate
+1870,very expensive
+1871,very expensive
+1872,very expensive
+1873,moderate
+1874,moderate
+1875,very expensive
+1876,moderate
+1877,moderate
+1878,very expensive
+1879,moderate
+1880,very expensive
+1881,very expensive
+1882,very expensive
+1883,moderate
+1884,moderate
+1885,very expensive
+1886,moderate
+1887,moderate
+1888,moderate
+1889,moderate
+1890,moderate
+1891,moderate
+1892,very expensive
+1893,moderate
+1894,very expensive
+1895,very expensive
+1896,moderate
+1897,moderate
+1898,moderate
+1899,moderate
+1900,moderate
+1901,moderate
+1902,moderate
+1903,very expensive
+1904,moderate
+1905,very expensive
+1906,very expensive
+1907,moderate
+1908,very expensive
+1909,very expensive
+1910,moderate
+1911,moderate
+1912,very expensive
+1913,very expensive
+1914,moderate
+1915,very expensive
+1916,moderate
+1917,moderate
+1918,moderate
+1919,very expensive
+1920,very expensive
+1921,very expensive
+1922,very expensive
+1923,moderate
+1924,moderate
+1925,moderate
+1926,moderate
+1927,very expensive
+1928,moderate
+1929,moderate
+1930,very expensive
+1931,very expensive
+1932,moderate
+1933,moderate
+1934,very expensive
+1935,moderate
+1936,moderate
+1937,very expensive
+1938,moderate
+1939,very expensive
+1940,very expensive
+1941,moderate
+1942,moderate
+1943,very expensive
+1944,very expensive
+1945,very expensive
+1946,moderate
+1947,very expensive
+1948,very expensive
+1949,moderate
+1950,very expensive
+1951,moderate
+1952,very expensive
+1953,moderate
+1954,very expensive
+1955,very expensive
+1956,moderate
+1957,moderate
+1958,very expensive
+1959,very expensive
+1960,moderate
+1961,moderate
+1962,moderate
+1963,moderate
+1964,very expensive
+1965,very expensive
+1966,very expensive
+1967,very expensive
+1968,moderate
+1969,moderate
+1970,very expensive
+1971,moderate
+1972,very expensive
+1973,very expensive
+1974,very expensive
+1975,very expensive
+1976,moderate
+1977,very expensive
+1978,very expensive
+1979,moderate
+1980,moderate
+1981,very expensive
+1982,very expensive
+1983,very expensive
+1984,moderate
+1985,moderate
+1986,moderate
+1987,moderate
+1988,very expensive
+1989,very expensive
+1990,very expensive
+1991,very expensive
+1992,moderate
+1993,moderate
+1994,moderate
+1995,very expensive
+1996,very expensive
+1997,very expensive
+1998,very expensive
+1999,very expensive
+2000,very expensive
+2001,very expensive
+2002,very expensive
+2003,very expensive
+2004,very expensive
+2005,very expensive
+2006,very expensive
+2007,very expensive
+2008,very expensive
+2009,very expensive
+2010,moderate
+2011,very expensive
+2012,moderate
+2013,moderate
+2014,moderate
+2015,very expensive
+2016,moderate
+2017,moderate
+2018,moderate
+2019,very expensive
+2020,moderate
+2021,very expensive
+2022,very expensive
+2023,moderate
+2024,moderate
+2025,moderate
+2026,very expensive
+2027,moderate
+2028,very expensive
+2029,very expensive
+2030,very expensive
+2031,very expensive
+2032,moderate
+2033,moderate
+2034,moderate
+2035,moderate
+2036,very expensive
+2037,moderate
+2038,very expensive
+2039,moderate
+2040,moderate
+2041,moderate
+2042,moderate
+2043,very expensive
+2044,very expensive
+2045,very expensive
+2046,very expensive
+2047,moderate
+2048,very expensive
+2049,moderate
+2050,moderate
+2051,moderate
+2052,moderate
+2053,very expensive
+2054,very expensive
+2055,moderate
+2056,very expensive
+2057,very expensive
+2058,moderate
+2059,moderate
+2060,moderate
+2061,very expensive
+2062,moderate
+2063,very expensive
+2064,moderate
+2065,moderate
+2066,very expensive
+2067,very expensive
+2068,very expensive
+2069,very expensive
+2070,very expensive
+2071,very expensive
+2072,moderate
+2073,very expensive
+2074,very expensive
+2075,very expensive
+2076,very expensive
+2077,very expensive
+2078,moderate
+2079,very expensive
+2080,very expensive
+2081,very expensive
+2082,very expensive
+2083,very expensive
+2084,moderate
+2085,very expensive
+2086,moderate
+2087,very expensive
+2088,very expensive
+2089,moderate
+2090,very expensive
+2091,very expensive
+2092,very expensive
+2093,very expensive
+2094,very expensive
+2095,moderate
+2096,moderate
+2097,very expensive
+2098,very expensive
+2099,moderate
+2100,moderate
+2101,moderate
+2102,very expensive
+2103,moderate
+2104,moderate
+2105,moderate
+2106,moderate
+2107,moderate
+2108,moderate
+2109,moderate
+2110,very expensive
+2111,moderate
+2112,very expensive
+2113,moderate
+2114,very expensive
+2115,moderate
+2116,very expensive
+2117,moderate
+2118,very expensive
+2119,moderate
+2120,moderate
+2121,moderate
+2122,moderate
+2123,moderate
+2124,very expensive
+2125,very expensive
+2126,very expensive
+2127,moderate
+2128,moderate
+2129,moderate
+2130,moderate
+2131,moderate
+2132,very expensive
+2133,moderate
+2134,moderate
+2135,very expensive
+2136,very expensive
+2137,very expensive
+2138,very expensive
+2139,very expensive
+2140,very expensive
+2141,very expensive
+2142,very expensive
+2143,moderate
+2144,moderate
+2145,moderate
+2146,moderate
+2147,moderate
+2148,expensive
+2149,moderate
+2150,moderate
+2151,moderate
+2152,moderate
+2153,moderate
+2154,moderate
+2155,moderate
+2156,moderate
+2157,moderate
+2158,moderate
+2159,moderate
+2160,moderate
+2161,moderate
+2162,moderate
+2163,moderate
+2164,expensive
+2165,moderate
+2166,moderate
+2167,moderate
+2168,moderate
+2169,moderate
+2170,moderate
+2171,moderate
+2172,moderate
+2173,moderate
+2174,moderate
+2175,moderate
+2176,moderate
+2177,expensive
+2178,expensive
+2179,expensive
+2180,expensive
+2181,expensive
+2182,expensive
+2183,moderate
+2184,moderate
+2185,moderate
+2186,moderate
+2187,moderate
+2188,moderate
+2189,moderate
+2190,moderate
+2191,moderate
+2192,moderate
+2193,moderate
+2194,moderate
+2195,moderate
+2196,moderate
+2197,moderate
+2198,moderate
+2199,moderate
+2200,moderate
+2201,moderate
+2202,moderate
+2203,moderate
+2204,moderate
+2205,moderate
+2206,moderate
+2207,moderate
+2208,moderate
+2209,moderate
+2210,moderate
+2211,very expensive
+2212,moderate
+2213,very expensive
+2214,very expensive
+2215,very expensive
+2216,very expensive
+2217,moderate
+2218,moderate
+2219,very expensive
+2220,moderate
+2221,moderate
+2222,moderate
+2223,moderate
+2224,moderate
+2225,moderate
+2226,very expensive
+2227,very expensive
+2228,very expensive
+2229,very expensive
+2230,very expensive
+2231,very expensive
+2232,moderate
+2233,very expensive
+2234,very expensive
+2235,very expensive
+2236,moderate
+2237,moderate
+2238,very expensive
+2239,very expensive
+2240,moderate
+2241,very expensive
+2242,very expensive
+2243,moderate
+2244,moderate
+2245,moderate
+2246,moderate
+2247,very expensive
+2248,moderate
+2249,very expensive
+2250,very expensive
+2251,very expensive
+2252,moderate
+2253,moderate
+2254,moderate
+2255,very expensive
+2256,very expensive
+2257,moderate
+2258,moderate
+2259,moderate
+2260,moderate
+2261,very expensive
+2262,very expensive
+2263,very expensive
+2264,very expensive
+2265,moderate
+2266,moderate
+2267,very expensive
+2268,moderate
+2269,very expensive
+2270,very expensive
+2271,moderate
+2272,moderate
+2273,very expensive
+2274,moderate
+2275,very expensive
+2276,moderate
+2277,moderate
+2278,very expensive
+2279,moderate
+2280,very expensive
+2281,very expensive
+2282,moderate
+2283,moderate
+2284,moderate
+2285,very expensive
+2286,moderate
+2287,very expensive
+2288,very expensive
+2289,moderate
+2290,very expensive
+2291,very expensive
+2292,moderate
+2293,very expensive
+2294,very expensive
+2295,moderate
+2296,very expensive
+2297,moderate
+2298,very expensive
+2299,very expensive
+2300,very expensive
+2301,very expensive
+2302,very expensive
+2303,moderate
+2304,moderate
+2305,moderate
+2306,moderate
+2307,moderate
+2308,moderate
+2309,very expensive
+2310,very expensive
+2311,very expensive
+2312,very expensive
+2313,moderate
+2314,very expensive
+2315,moderate
+2316,very expensive
+2317,moderate
+2318,very expensive
+2319,very expensive
+2320,very expensive
+2321,very expensive
+2322,moderate
+2323,moderate
+2324,moderate
+2325,very expensive
+2326,very expensive
+2327,very expensive
+2328,very expensive
+2329,very expensive
+2330,moderate
+2331,very expensive
+2332,very expensive
+2333,very expensive
+2334,moderate
+2335,moderate
+2336,moderate
+2337,moderate
+2338,very expensive
+2339,moderate
+2340,moderate
+2341,moderate
+2342,very expensive
+2343,very expensive
+2344,very expensive
+2345,moderate
+2346,moderate
+2347,very expensive
+2348,very expensive
+2349,moderate
+2350,moderate
+2351,moderate
+2352,moderate
+2353,moderate
+2354,moderate
+2355,moderate
+2356,very expensive
+2357,moderate
+2358,moderate
+2359,moderate
+2360,moderate
+2361,very expensive
+2362,very expensive
+2363,very expensive
+2364,very expensive
+2365,very expensive
+2366,moderate
+2367,moderate
+2368,moderate
+2369,moderate
+2370,very expensive
+2371,very expensive
+2372,very expensive
+2373,very expensive
+2374,moderate
+2375,moderate
+2376,moderate
+2377,very expensive
+2378,very expensive
+2379,very expensive
+2380,moderate
+2381,moderate
+2382,moderate
+2383,very expensive
+2384,very expensive
+2385,moderate
+2386,very expensive
+2387,very expensive
+2388,very expensive
+2389,very expensive
+2390,very expensive
+2391,moderate
+2392,very expensive
+2393,very expensive
+2394,moderate
+2395,moderate
+2396,very expensive
+2397,moderate
+2398,very expensive
+2399,very expensive
+2400,moderate
+2401,moderate
+2402,very expensive
+2403,very expensive
+2404,very expensive
+2405,very expensive
+2406,very expensive
+2407,very expensive
+2408,very expensive
+2409,very expensive
+2410,very expensive
+2411,moderate
+2412,moderate
+2413,very expensive
+2414,moderate
+2415,very expensive
+2416,very expensive
+2417,very expensive
+2418,very expensive
+2419,very expensive
+2420,very expensive
+2421,very expensive
+2422,very expensive
+2423,very expensive
+2424,moderate
+2425,moderate
+2426,very expensive
+2427,very expensive
+2428,very expensive
+2429,moderate
+2430,very expensive
+2431,very expensive
+2432,moderate
+2433,moderate
+2434,very expensive
+2435,very expensive
+2436,moderate
+2437,very expensive
+2438,moderate
+2439,very expensive
+2440,moderate
+2441,very expensive
+2442,very expensive
+2443,moderate
+2444,moderate
+2445,very expensive
+2446,very expensive
+2447,very expensive
+2448,very expensive
+2449,moderate
+2450,moderate
+2451,moderate
+2452,very expensive
+2453,very expensive
+2454,moderate
+2455,very expensive
+2456,very expensive
+2457,very expensive
+2458,very expensive
+2459,very expensive
+2460,moderate
+2461,very expensive
+2462,moderate
+2463,very expensive
+2464,very expensive
+2465,moderate
+2466,very expensive
+2467,moderate
+2468,moderate
+2469,very expensive
+2470,moderate
+2471,moderate
+2472,very expensive
+2473,very expensive
+2474,moderate
+2475,very expensive
+2476,very expensive
+2477,very expensive
+2478,moderate
+2479,moderate
+2480,very expensive
+2481,moderate
+2482,very expensive
+2483,very expensive
+2484,moderate
+2485,very expensive
+2486,very expensive
+2487,very expensive
+2488,moderate
+2489,very expensive
+2490,very expensive
+2491,very expensive
+2492,very expensive
+2493,very expensive
+2494,very expensive
+2495,very expensive
+2496,very expensive
+2497,very expensive
+2498,moderate
+2499,very expensive
+2500,very expensive
+2501,very expensive
+2502,moderate
+2503,moderate
+2504,very expensive
+2505,very expensive
+2506,very expensive
+2507,very expensive
+2508,very expensive
+2509,very expensive
+2510,very expensive
+2511,very expensive
+2512,very expensive
+2513,very expensive
+2514,very expensive
+2515,very expensive
+2516,very expensive
+2517,very expensive
+2518,very expensive
+2519,very expensive
+2520,very expensive
+2521,very expensive
+2522,very expensive
+2523,very expensive
+2524,very expensive
+2525,very expensive
+2526,moderate
+2527,very expensive
+2528,moderate
+2529,very expensive
+2530,moderate
+2531,moderate
+2532,very expensive
+2533,moderate
+2534,very expensive
+2535,moderate
+2536,moderate
+2537,very expensive
+2538,very expensive
+2539,very expensive
+2540,very expensive
+2541,very expensive
+2542,very expensive
+2543,moderate
+2544,moderate
+2545,very expensive
+2546,moderate
+2547,very expensive
+2548,very expensive
+2549,very expensive
+2550,moderate
+2551,very expensive
+2552,very expensive
+2553,moderate
+2554,very expensive
+2555,very expensive
+2556,very expensive
+2557,very expensive
+2558,very expensive
+2559,moderate
+2560,very expensive
+2561,moderate
+2562,moderate
+2563,very expensive
+2564,very expensive
+2565,very expensive
+2566,very expensive
+2567,moderate
+2568,moderate
+2569,moderate
+2570,very expensive
+2571,moderate
+2572,very expensive
+2573,very expensive
+2574,moderate
+2575,moderate
+2576,very expensive
+2577,moderate
+2578,moderate
+2579,very expensive
+2580,very expensive
+2581,moderate
+2582,very expensive
+2583,very expensive
+2584,moderate
+2585,moderate
+2586,very expensive
+2587,moderate
+2588,very expensive
+2589,very expensive
+2590,moderate
+2591,very expensive
+2592,very expensive
+2593,very expensive
+2594,very expensive
+2595,moderate
+2596,very expensive
+2597,moderate
+2598,very expensive
+2599,very expensive
+2600,very expensive
+2601,moderate
+2602,very expensive
+2603,moderate
+2604,moderate
+2605,very expensive
+2606,moderate
+2607,very expensive
+2608,very expensive
+2609,moderate
+2610,moderate
+2611,very expensive
+2612,moderate
+2613,very expensive
+2614,moderate
+2615,very expensive
+2616,moderate
+2617,very expensive
+2618,very expensive
+2619,very expensive
+2620,very expensive
+2621,very expensive
+2622,very expensive
+2623,very expensive
+2624,very expensive
+2625,very expensive
+2626,very expensive
+2627,very expensive
+2628,very expensive
+2629,very expensive
+2630,very expensive
+2631,very expensive
+2632,very expensive
+2633,very expensive
+2634,very expensive
+2635,very expensive
+2636,moderate
+2637,very expensive
+2638,moderate
+2639,very expensive
+2640,moderate
+2641,moderate
+2642,very expensive
+2643,very expensive
+2644,very expensive
+2645,very expensive
+2646,moderate
+2647,very expensive
+2648,very expensive
+2649,moderate
+2650,very expensive
+2651,very expensive
+2652,very expensive
+2653,very expensive
+2654,moderate
+2655,very expensive
+2656,very expensive
+2657,moderate
+2658,very expensive
+2659,moderate
+2660,very expensive
+2661,very expensive
+2662,very expensive
+2663,very expensive
+2664,very expensive
+2665,very expensive
+2666,very expensive
+2667,very expensive
+2668,very expensive
+2669,very expensive
+2670,very expensive
+2671,moderate
+2672,very expensive
+2673,very expensive
+2674,very expensive
+2675,moderate
+2676,moderate
+2677,moderate
+2678,very expensive
+2679,moderate
+2680,moderate
+2681,very expensive
+2682,very expensive
+2683,moderate
+2684,very expensive
+2685,very expensive
+2686,very expensive
+2687,very expensive
+2688,moderate
+2689,moderate
+2690,moderate
+2691,expensive
+2692,moderate
+2693,moderate
+2694,moderate
+2695,moderate
+2696,moderate
+2697,moderate
+2698,moderate
+2699,expensive
+2700,moderate
+2701,moderate
+2702,moderate
+2703,moderate
+2704,moderate
+2705,moderate
+2706,moderate
+2707,expensive
+2708,moderate
+2709,moderate
+2710,expensive
+2711,moderate
+2712,moderate
+2713,moderate
+2714,moderate
+2715,moderate
+2716,moderate
+2717,expensive
+2718,moderate
+2719,moderate
+2720,moderate
+2721,moderate
+2722,moderate
+2723,expensive
+2724,moderate
+2725,moderate
+2726,very expensive
+2727,moderate
+2728,moderate
+2729,moderate
+2730,moderate
+2731,moderate
+2732,very expensive
+2733,moderate
+2734,moderate
+2735,moderate
+2736,moderate
+2737,very expensive
+2738,moderate
+2739,moderate
+2740,moderate
+2741,moderate
+2742,very expensive
+2743,moderate
+2744,moderate
+2745,moderate
+2746,moderate
+2747,moderate
+2748,very expensive
+2749,moderate
+2750,moderate
+2751,moderate
+2752,moderate
+2753,moderate
+2754,moderate
+2755,moderate
+2756,very expensive
+2757,moderate
+2758,moderate
+2759,moderate
+2760,moderate
+2761,very expensive
+2762,moderate
+2763,moderate
+2764,moderate
+2765,moderate
+2766,moderate
+2767,moderate
+2768,moderate
+2769,moderate
+2770,moderate
+2771,moderate
+2772,moderate
+2773,moderate
+2774,very expensive
+2775,moderate
+2776,moderate
+2777,moderate
+2778,moderate
+2779,moderate
+2780,moderate
+2781,moderate
+2782,moderate
+2783,moderate
+2784,moderate
+2785,moderate
+2786,moderate
+2787,very expensive
+2788,moderate
+2789,moderate
+2790,moderate
+2791,moderate
+2792,moderate
+2793,moderate
+2794,moderate
+2795,moderate
+2796,moderate
+2797,moderate
+2798,moderate
+2799,moderate
+2800,moderate
+2801,moderate
+2802,moderate
+2803,moderate
+2804,moderate
+2805,moderate
+2806,moderate
+2807,very expensive
+2808,very expensive
+2809,very expensive
+2810,very expensive
+2811,very expensive
+2812,very expensive
+2813,very expensive
+2814,very expensive
+2815,very expensive
+2816,very expensive
+2817,very expensive
+2818,very expensive
+2819,very expensive
+2820,very expensive
+2821,moderate
+2822,very expensive
+2823,very expensive
+2824,very expensive
+2825,very expensive
+2826,very expensive
+2827,very expensive
+2828,very expensive
+2829,very expensive
+2830,very expensive
+2831,very expensive
+2832,very expensive
+2833,very expensive
+2834,very expensive
+2835,very expensive
+2836,very expensive
+2837,very expensive
+2838,very expensive
+2839,very expensive
+2840,very expensive
+2841,very expensive
+2842,moderate
+2843,moderate
+2844,moderate
+2845,moderate
+2846,moderate
+2847,moderate
+2848,moderate
+2849,moderate
+2850,moderate
+2851,moderate
+2852,moderate
+2853,moderate
+2854,moderate
+2855,moderate
+2856,moderate
+2857,moderate
+2858,expensive
+2859,moderate
+2860,moderate
+2861,moderate
+2862,moderate
+2863,moderate
+2864,moderate
+2865,moderate
+2866,moderate
+2867,moderate
+2868,moderate
+2869,moderate
+2870,moderate
+2871,moderate
+2872,moderate
+2873,moderate
+2874,expensive
+2875,moderate
+2876,moderate
+2877,moderate
+2878,moderate
+2879,moderate
+2880,moderate
+2881,expensive
+2882,moderate
+2883,moderate
+2884,moderate
+2885,moderate
+2886,moderate
+2887,moderate
+2888,moderate
+2889,moderate
+2890,moderate
+2891,moderate
+2892,moderate
+2893,moderate
+2894,moderate
+2895,moderate
+2896,very expensive
+2897,very expensive
+2898,very expensive
+2899,very expensive
+2900,very expensive
+2901,very expensive
+2902,very expensive
+2903,very expensive
+2904,very expensive
+2905,very expensive
+2906,moderate
+2907,very expensive
+2908,moderate
+2909,expensive
+2910,very expensive
+2911,very expensive
+2912,very expensive
+2913,very expensive
+2914,very expensive
+2915,very expensive
+2916,very expensive
+2917,very expensive
+2918,very expensive
+2919,moderate
+2920,moderate
+2921,moderate
+2922,moderate
+2923,moderate
+2924,very expensive
+2925,moderate
+2926,moderate
+2927,moderate
+2928,moderate
+2929,very expensive
+2930,moderate
+2931,moderate
+2932,moderate
+2933,moderate
+2934,moderate
+2935,moderate
+2936,very expensive
+2937,moderate
+2938,moderate
+2939,moderate
+2940,moderate
+2941,moderate
+2942,moderate
+2943,moderate
+2944,moderate
+2945,moderate
+2946,moderate
+2947,moderate
+2948,moderate
+2949,moderate
+2950,moderate
+2951,moderate
+2952,moderate
+2953,moderate
+2954,moderate
+2955,moderate
+2956,moderate
+2957,moderate
+2958,moderate
+2959,expensive
+2960,moderate
+2961,moderate
+2962,moderate
+2963,moderate
+2964,moderate
+2965,moderate
+2966,moderate
+2967,moderate
+2968,moderate
+2969,moderate
+2970,moderate
+2971,moderate
+2972,moderate
+2973,moderate
+2974,moderate
+2975,moderate
+2976,expensive
+2977,moderate
+2978,moderate
+2979,moderate
+2980,moderate
+2981,moderate
+2982,moderate
+2983,moderate
+2984,moderate
+2985,moderate
+2986,moderate
+2987,moderate
+2988,moderate
+2989,moderate
+2990,moderate
+2991,moderate
+2992,moderate
+2993,moderate
+2994,moderate
+2995,moderate
+2996,moderate
+2997,moderate
+2998,moderate
+2999,moderate
+3000,moderate
+3001,moderate
+3002,moderate
+3003,moderate
+3004,moderate
+3005,moderate
+3006,moderate
+3007,moderate
+3008,moderate
+3009,moderate
+3010,moderate
+3011,moderate
+3012,moderate
+3013,moderate
+3014,moderate
+3015,moderate
+3016,moderate
+3017,moderate
+3018,moderate
+3019,moderate
+3020,moderate
+3021,moderate
+3022,moderate
+3023,moderate
+3024,moderate
+3025,moderate
+3026,expensive
+3027,moderate
+3028,moderate
+3029,moderate
+3030,moderate
+3031,moderate
+3032,moderate
+3033,moderate
+3034,moderate
+3035,moderate
+3036,moderate
+3037,moderate
+3038,moderate
+3039,moderate
+3040,moderate
+3041,moderate
+3042,moderate
+3043,moderate
+3044,moderate
+3045,moderate
+3046,moderate
+3047,moderate
+3048,moderate
+3049,moderate
+3050,moderate
+3051,moderate
+3052,moderate
+3053,moderate
+3054,moderate
+3055,moderate
+3056,moderate
+3057,moderate
+3058,moderate
+3059,moderate
+3060,moderate
+3061,moderate
+3062,moderate
+3063,moderate
+3064,moderate
+3065,moderate
+3066,moderate
+3067,moderate
+3068,moderate
+3069,moderate
+3070,moderate
+3071,moderate
+3072,moderate
+3073,moderate
+3074,moderate
+3075,moderate
+3076,moderate
+3077,moderate
+3078,moderate
+3079,moderate
+3080,moderate
+3081,moderate
+3082,moderate
+3083,moderate
+3084,moderate
+3085,moderate
+3086,moderate
+3087,moderate
+3088,moderate
+3089,moderate
+3090,moderate
+3091,moderate
+3092,moderate
+3093,moderate
+3094,moderate
+3095,moderate
+3096,moderate
+3097,moderate
+3098,moderate
+3099,moderate
+3100,expensive
+3101,moderate
+3102,moderate
+3103,moderate
+3104,moderate
+3105,moderate
+3106,moderate
+3107,moderate
+3108,moderate
+3109,moderate
+3110,moderate
+3111,moderate
+3112,moderate
+3113,moderate
+3114,moderate
+3115,moderate
+3116,moderate
+3117,expensive
+3118,moderate
+3119,moderate
+3120,moderate
+3121,moderate
+3122,moderate
+3123,moderate
+3124,moderate
+3125,moderate
+3126,moderate
+3127,moderate
+3128,moderate
+3129,moderate
+3130,moderate
+3131,moderate
+3132,moderate
+3133,moderate
+3134,moderate
+3135,moderate
+3136,moderate
+3137,moderate
+3138,moderate
+3139,very expensive
+3140,very expensive
+3141,moderate
+3142,moderate
+3143,moderate
+3144,moderate
+3145,moderate
+3146,moderate
+3147,moderate
+3148,moderate
+3149,moderate
+3150,moderate
+3151,moderate
+3152,moderate
+3153,moderate
+3154,moderate
+3155,moderate
+3156,moderate
+3157,moderate
+3158,moderate
+3159,moderate
+3160,moderate
+3161,moderate
+3162,moderate
+3163,moderate
+3164,moderate
+3165,moderate
+3166,moderate
+3167,moderate
+3168,moderate
+3169,very expensive
+3170,moderate
+3171,moderate
+3172,moderate
+3173,moderate
+3174,very expensive
+3175,very expensive
+3176,moderate
+3177,moderate
+3178,moderate
+3179,moderate
+3180,moderate
+3181,very expensive
+3182,very expensive
+3183,moderate
+3184,moderate
+3185,moderate
+3186,very expensive
+3187,moderate
+3188,moderate
+3189,very expensive
+3190,moderate
+3191,moderate
+3192,moderate
+3193,moderate
+3194,very expensive
+3195,moderate
+3196,moderate
+3197,moderate
+3198,moderate
+3199,moderate
+3200,very expensive
+3201,very expensive
+3202,moderate
+3203,very expensive
+3204,moderate
+3205,moderate
+3206,moderate
+3207,very expensive
+3208,moderate
+3209,moderate
+3210,very expensive
+3211,moderate
+3212,moderate
+3213,moderate
+3214,moderate
+3215,moderate
+3216,very expensive
+3217,very expensive
+3218,very expensive
+3219,moderate
+3220,moderate
+3221,moderate
+3222,moderate
+3223,very expensive
+3224,moderate
+3225,moderate
+3226,moderate
+3227,moderate
+3228,moderate
+3229,moderate
+3230,moderate
+3231,moderate
+3232,moderate
+3233,moderate
+3234,moderate
+3235,moderate
+3236,moderate
+3237,moderate
+3238,moderate
+3239,moderate
+3240,moderate
+3241,moderate
+3242,moderate
+3243,moderate
+3244,moderate
+3245,moderate
+3246,moderate
+3247,moderate
+3248,moderate
+3249,moderate
+3250,moderate
+3251,moderate
+3252,moderate
+3253,moderate
+3254,moderate
+3255,moderate
+3256,very expensive
+3257,moderate
+3258,moderate
+3259,moderate
+3260,moderate
+3261,moderate
+3262,moderate
+3263,very expensive
+3264,moderate
+3265,very expensive
+3266,very expensive
+3267,moderate
+3268,moderate
+3269,very expensive
+3270,very expensive
+3271,moderate
+3272,moderate
+3273,moderate
+3274,moderate
+3275,moderate
+3276,very expensive
+3277,moderate
+3278,moderate
+3279,moderate
+3280,moderate
+3281,moderate
+3282,moderate
+3283,moderate
+3284,moderate
+3285,moderate
+3286,moderate
+3287,moderate
+3288,moderate
+3289,moderate
+3290,moderate
+3291,moderate
+3292,moderate
+3293,moderate
+3294,moderate
+3295,moderate
+3296,moderate
+3297,very expensive
+3298,very expensive
+3299,moderate
+3300,moderate
+3301,moderate
+3302,moderate
+3303,moderate
+3304,moderate
+3305,moderate
+3306,very expensive
+3307,moderate
+3308,moderate
+3309,moderate
+3310,very expensive
+3311,very expensive
+3312,very expensive
+3313,moderate
+3314,moderate
+3315,moderate
+3316,moderate
+3317,moderate
+3318,moderate
+3319,moderate
+3320,moderate
+3321,moderate
+3322,very expensive
+3323,moderate
+3324,moderate
+3325,moderate
+3326,moderate
+3327,moderate
+3328,moderate
+3329,moderate
+3330,moderate
+3331,moderate
+3332,moderate
+3333,moderate
+3334,moderate
+3335,moderate
+3336,moderate
+3337,moderate
+3338,moderate
+3339,moderate
+3340,moderate
+3341,moderate
+3342,moderate
+3343,moderate
+3344,moderate
+3345,moderate
+3346,moderate
+3347,moderate
+3348,moderate
+3349,moderate
+3350,moderate
+3351,moderate
+3352,moderate
+3353,moderate
+3354,moderate
+3355,moderate
+3356,moderate
+3357,moderate
+3358,moderate
+3359,moderate
+3360,moderate
+3361,moderate
+3362,moderate
+3363,moderate
+3364,expensive
+3365,moderate
+3366,moderate
+3367,moderate
+3368,moderate
+3369,moderate
+3370,moderate
+3371,moderate
+3372,moderate
+3373,moderate
+3374,moderate
+3375,moderate
+3376,moderate
+3377,moderate
+3378,moderate
+3379,very expensive
+3380,moderate
+3381,moderate
+3382,moderate
+3383,moderate
+3384,moderate
+3385,very expensive
+3386,moderate
+3387,very expensive
+3388,moderate
+3389,moderate
+3390,very expensive
+3391,moderate
+3392,moderate
+3393,very expensive
+3394,very expensive
+3395,moderate
+3396,moderate
+3397,very expensive
+3398,very expensive
+3399,very expensive
+3400,moderate
+3401,very expensive
+3402,very expensive
+3403,moderate
+3404,very expensive
+3405,very expensive
+3406,moderate
+3407,moderate
+3408,moderate
+3409,very expensive
+3410,moderate
+3411,very expensive
+3412,very expensive
+3413,moderate
+3414,very expensive
+3415,moderate
+3416,very expensive
+3417,moderate
+3418,moderate
+3419,moderate
+3420,moderate
+3421,moderate
+3422,moderate
+3423,very expensive
+3424,very expensive
+3425,very expensive
+3426,moderate
+3427,moderate
+3428,moderate
+3429,moderate
+3430,very expensive
+3431,moderate
+3432,very expensive
+3433,moderate
+3434,moderate
+3435,very expensive
+3436,very expensive
+3437,very expensive
+3438,moderate
+3439,moderate
+3440,moderate
+3441,very expensive
+3442,moderate
+3443,very expensive
+3444,very expensive
+3445,moderate
+3446,moderate
+3447,moderate
+3448,moderate
+3449,very expensive
+3450,moderate
+3451,moderate
+3452,moderate
+3453,very expensive
+3454,moderate
+3455,very expensive
+3456,moderate
+3457,very expensive
+3458,very expensive
+3459,very expensive
+3460,moderate
+3461,very expensive
+3462,moderate
+3463,very expensive
+3464,moderate
+3465,moderate
+3466,very expensive
+3467,moderate
+3468,very expensive
+3469,very expensive
+3470,very expensive
+3471,moderate
+3472,very expensive
+3473,moderate
+3474,very expensive
+3475,very expensive
+3476,very expensive
+3477,very expensive
+3478,moderate
+3479,very expensive
+3480,very expensive
+3481,moderate
+3482,very expensive
+3483,very expensive
+3484,moderate
+3485,very expensive
+3486,very expensive
+3487,very expensive
+3488,very expensive
+3489,very expensive
+3490,moderate
+3491,very expensive
+3492,moderate
+3493,moderate
+3494,moderate
+3495,moderate
+3496,moderate
+3497,very expensive
+3498,very expensive
+3499,very expensive
+3500,moderate
+3501,moderate
+3502,very expensive
+3503,moderate
+3504,very expensive
+3505,moderate
+3506,moderate
+3507,moderate
+3508,moderate
+3509,moderate
+3510,moderate
+3511,moderate
+3512,moderate
+3513,moderate
+3514,moderate
+3515,moderate
+3516,moderate
+3517,moderate
+3518,moderate
+3519,moderate
+3520,moderate
+3521,moderate
+3522,moderate
+3523,moderate
+3524,moderate
+3525,moderate
+3526,moderate
+3527,moderate
+3528,moderate
+3529,moderate
+3530,moderate
+3531,moderate
+3532,moderate
+3533,very expensive
+3534,moderate
+3535,moderate
+3536,moderate
+3537,moderate
+3538,moderate
+3539,moderate
+3540,moderate
+3541,moderate
+3542,moderate
+3543,moderate
+3544,moderate
+3545,moderate
+3546,moderate
+3547,moderate
+3548,moderate
+3549,moderate
+3550,moderate
+3551,moderate
+3552,moderate
+3553,moderate
+3554,moderate
+3555,moderate
+3556,moderate
+3557,moderate
+3558,moderate
+3559,moderate
+3560,moderate
+3561,moderate
+3562,moderate
+3563,moderate
+3564,moderate
+3565,moderate
+3566,moderate
+3567,moderate
+3568,moderate
+3569,moderate
+3570,moderate
+3571,moderate
+3572,moderate
+3573,moderate
+3574,moderate
+3575,moderate
+3576,moderate
+3577,moderate
+3578,moderate
+3579,moderate
+3580,moderate
+3581,moderate
+3582,moderate
+3583,moderate
+3584,moderate
+3585,moderate
+3586,moderate
+3587,moderate
+3588,moderate
+3589,moderate
+3590,moderate
+3591,moderate
+3592,moderate
+3593,moderate
+3594,moderate
+3595,moderate
+3596,moderate
+3597,moderate
+3598,moderate
+3599,moderate
+3600,moderate
+3601,moderate
+3602,moderate
+3603,moderate
+3604,moderate
+3605,moderate
+3606,moderate
+3607,moderate
+3608,moderate
+3609,moderate
+3610,moderate
+3611,moderate
+3612,moderate
+3613,moderate
+3614,moderate
+3615,moderate
+3616,moderate
+3617,moderate
+3618,moderate
+3619,moderate
+3620,moderate
+3621,moderate
+3622,moderate
+3623,moderate
+3624,moderate
+3625,moderate
+3626,moderate
+3627,moderate
+3628,moderate
+3629,moderate
+3630,moderate
+3631,moderate
+3632,moderate
+3633,moderate
+3634,moderate
+3635,moderate
+3636,moderate
+3637,moderate
+3638,moderate
+3639,moderate
+3640,moderate
+3641,moderate
+3642,very expensive
+3643,moderate
+3644,moderate
+3645,very expensive
+3646,moderate
+3647,very expensive
+3648,moderate
+3649,very expensive
+3650,moderate
+3651,moderate
+3652,moderate
+3653,moderate
+3654,moderate
+3655,moderate
+3656,moderate
+3657,moderate
+3658,moderate
+3659,moderate
+3660,moderate
+3661,moderate
+3662,moderate
+3663,moderate
+3664,moderate
+3665,moderate
+3666,moderate
+3667,moderate
+3668,very expensive
+3669,moderate
+3670,very expensive
+3671,moderate
+3672,moderate
+3673,moderate
+3674,moderate
+3675,moderate
+3676,moderate
+3677,very expensive
+3678,moderate
+3679,moderate
+3680,very expensive
+3681,very expensive
+3682,very expensive
+3683,very expensive
+3684,very expensive
+3685,very expensive
+3686,very expensive
+3687,very expensive
+3688,very expensive
+3689,very expensive
+3690,very expensive
+3691,very expensive
+3692,very expensive
+3693,very expensive
+3694,moderate
+3695,moderate
+3696,very expensive
+3697,moderate
+3698,very expensive
+3699,moderate
+3700,moderate
+3701,moderate
+3702,very expensive
+3703,very expensive
+3704,very expensive
+3705,very expensive
+3706,moderate
+3707,expensive
+3708,very expensive
+3709,very expensive
+3710,moderate
+3711,moderate
+3712,very expensive
+3713,very expensive
+3714,very expensive
+3715,moderate
+3716,very expensive
+3717,moderate
+3718,very expensive
+3719,very expensive
+3720,very expensive
+3721,moderate
+3722,very expensive
+3723,moderate
+3724,moderate
+3725,moderate
+3726,moderate
+3727,moderate
+3728,moderate
+3729,moderate
+3730,moderate
+3731,moderate
+3732,moderate
+3733,moderate
+3734,moderate
+3735,moderate
+3736,moderate
+3737,moderate
+3738,moderate
+3739,moderate
+3740,moderate
+3741,moderate
+3742,moderate
+3743,moderate
+3744,moderate
+3745,moderate
+3746,moderate
+3747,moderate
+3748,moderate
+3749,moderate
+3750,moderate
+3751,moderate
+3752,moderate
+3753,moderate
+3754,moderate
+3755,moderate
+3756,moderate
+3757,moderate
+3758,moderate
+3759,moderate
+3760,moderate
+3761,moderate
+3762,moderate
+3763,moderate
+3764,moderate
+3765,moderate
+3766,moderate
+3767,moderate
+3768,moderate
+3769,moderate
+3770,moderate
+3771,moderate
+3772,moderate
+3773,moderate
+3774,moderate
+3775,moderate
+3776,moderate
+3777,moderate
+3778,moderate
+3779,moderate
+3780,moderate
+3781,moderate
+3782,moderate
+3783,moderate
+3784,moderate
+3785,moderate
+3786,moderate
+3787,moderate
+3788,moderate
+3789,moderate
+3790,moderate
+3791,very expensive
+3792,very expensive
+3793,moderate
+3794,moderate
+3795,moderate
+3796,very expensive
+3797,very expensive
+3798,very expensive
+3799,very expensive
+3800,very expensive
+3801,very expensive
+3802,very expensive
+3803,very expensive
+3804,very expensive
+3805,very expensive
+3806,very expensive
+3807,very expensive
+3808,very expensive
+3809,very expensive
+3810,very expensive
+3811,very expensive
+3812,very expensive
+3813,very expensive
+3814,very expensive
+3815,very expensive
+3816,very expensive
+3817,very expensive
+3818,very expensive
+3819,very expensive
+3820,very expensive
+3821,very expensive
+3822,very expensive
+3823,very expensive
+3824,very expensive
+3825,very expensive
+3826,very expensive
+3827,very expensive
+3828,very expensive
+3829,very expensive
+3830,very expensive
+3831,very expensive
+3832,very expensive
+3833,very expensive
+3834,very expensive
+3835,very expensive
+3836,very expensive
+3837,very expensive
+3838,very expensive
+3839,very expensive
+3840,very expensive
+3841,very expensive
+3842,very expensive
+3843,very expensive
+3844,very expensive
+3845,very expensive
+3846,very expensive
+3847,very expensive
+3848,very expensive
+3849,very expensive
+3850,very expensive
+3851,very expensive
+3852,very expensive
+3853,very expensive
+3854,very expensive
+3855,very expensive
+3856,very expensive
+3857,very expensive
+3858,very expensive
+3859,very expensive
+3860,very expensive
+3861,very expensive
+3862,moderate
+3863,moderate
+3864,moderate
+3865,moderate
+3866,moderate
+3867,moderate
+3868,moderate
+3869,moderate
+3870,moderate
+3871,very expensive
+3872,moderate
+3873,moderate
+3874,moderate
+3875,moderate
+3876,moderate
+3877,moderate
+3878,very expensive
+3879,moderate
+3880,very expensive
+3881,very expensive
+3882,moderate
+3883,very expensive
+3884,very expensive
+3885,very expensive
+3886,very expensive
+3887,moderate
+3888,moderate
+3889,very expensive
+3890,moderate
+3891,moderate
+3892,moderate
+3893,very expensive
+3894,moderate
+3895,very expensive
+3896,very expensive
+3897,very expensive
+3898,very expensive
+3899,very expensive
+3900,very expensive
+3901,very expensive
+3902,very expensive
+3903,very expensive
+3904,very expensive
+3905,very expensive
+3906,very expensive
+3907,very expensive
+3908,very expensive
+3909,very expensive
+3910,very expensive
+3911,very expensive
+3912,very expensive
+3913,very expensive
+3914,very expensive
+3915,very expensive
+3916,very expensive
+3917,very expensive
+3918,moderate
+3919,very expensive
+3920,very expensive
+3921,very expensive
+3922,very expensive
+3923,moderate
+3924,very expensive
+3925,very expensive
+3926,very expensive
+3927,moderate
+3928,very expensive
+3929,very expensive
+3930,very expensive
+3931,very expensive
+3932,very expensive
+3933,moderate
+3934,moderate
+3935,moderate
+3936,moderate
+3937,moderate
+3938,moderate
+3939,moderate
+3940,moderate
+3941,moderate
+3942,moderate
+3943,moderate
+3944,moderate
+3945,moderate
+3946,moderate
+3947,moderate
+3948,moderate
+3949,moderate
+3950,moderate
+3951,moderate
+3952,moderate
+3953,moderate
+3954,moderate
+3955,moderate
+3956,very expensive
+3957,very expensive
+3958,very expensive
+3959,very expensive
+3960,very expensive
+3961,very expensive
+3962,very expensive
+3963,very expensive
+3964,very expensive
+3965,moderate
+3966,moderate
+3967,moderate
+3968,moderate
+3969,moderate
+3970,moderate
+3971,moderate
+3972,moderate
+3973,very expensive
+3974,moderate
+3975,moderate
+3976,moderate
+3977,very expensive
+3978,moderate
+3979,very expensive
+3980,moderate
+3981,moderate
+3982,moderate
+3983,moderate
+3984,moderate
+3985,moderate
+3986,moderate
+3987,moderate
+3988,moderate
+3989,moderate
+3990,moderate
+3991,moderate
+3992,moderate
+3993,moderate
+3994,moderate
+3995,moderate
+3996,moderate
+3997,moderate
+3998,moderate
+3999,moderate
+4000,moderate
+4001,moderate
+4002,moderate
+4003,moderate
+4004,moderate
+4005,moderate
+4006,moderate
+4007,moderate
+4008,moderate
+4009,moderate
+4010,moderate
+4011,expensive
+4012,moderate
+4013,moderate
+4014,moderate
+4015,moderate
+4016,moderate
+4017,moderate
+4018,moderate
+4019,moderate
+4020,moderate
+4021,moderate
+4022,moderate
+4023,moderate
+4024,moderate
+4025,moderate
+4026,moderate
+4027,moderate
+4028,moderate
+4029,moderate
+4030,moderate
+4031,moderate
+4032,moderate
+4033,moderate
+4034,moderate
+4035,moderate
+4036,moderate
+4037,moderate
+4038,moderate
+4039,moderate
+4040,moderate
+4041,moderate
+4042,moderate
+4043,moderate
+4044,moderate
+4045,moderate
+4046,moderate
+4047,moderate
+4048,moderate
+4049,moderate
+4050,moderate
+4051,moderate
+4052,moderate
+4053,moderate
+4054,moderate
+4055,very expensive
+4056,very expensive
+4057,very expensive
+4058,very expensive
+4059,very expensive
+4060,moderate
+4061,moderate
+4062,moderate
+4063,moderate
+4064,moderate
+4065,moderate
+4066,moderate
+4067,moderate
+4068,moderate
+4069,moderate
+4070,very expensive
+4071,very expensive
+4072,very expensive
+4073,expensive
+4074,moderate
+4075,moderate
+4076,moderate
+4077,moderate
+4078,moderate
+4079,moderate
+4080,moderate
+4081,moderate
+4082,expensive
+4083,expensive
+4084,moderate
+4085,moderate
+4086,moderate
+4087,expensive
+4088,moderate
+4089,moderate
+4090,moderate
+4091,moderate
+4092,moderate
+4093,moderate
+4094,moderate
+4095,moderate
+4096,moderate
+4097,moderate
+4098,moderate
+4099,expensive
+4100,moderate
+4101,moderate
+4102,very expensive
+4103,moderate
+4104,moderate
+4105,moderate
+4106,moderate
+4107,moderate
+4108,moderate
+4109,moderate
+4110,moderate
+4111,very expensive
+4112,moderate
+4113,very expensive
+4114,very expensive
+4115,very expensive
+4116,very expensive
+4117,very expensive
+4118,very expensive
+4119,very expensive
+4120,very expensive
+4121,very expensive
+4122,very expensive
+4123,very expensive
+4124,very expensive
+4125,very expensive
+4126,moderate
+4127,moderate
+4128,moderate
+4129,moderate
+4130,moderate
+4131,moderate
+4132,moderate
+4133,moderate
+4134,moderate
+4135,moderate
+4136,moderate
+4137,moderate
+4138,moderate
+4139,moderate
+4140,moderate
+4141,moderate
+4142,expensive
+4143,moderate
+4144,moderate
+4145,expensive
+4146,moderate
+4147,moderate
+4148,moderate
+4149,moderate
+4150,moderate
+4151,moderate
+4152,moderate
+4153,moderate
+4154,moderate
+4155,moderate
+4156,moderate
+4157,moderate
+4158,moderate
+4159,moderate
+4160,moderate
+4161,moderate
+4162,moderate
+4163,moderate
+4164,moderate
+4165,moderate
+4166,moderate
+4167,moderate
+4168,moderate
+4169,very expensive
+4170,moderate
+4171,moderate
+4172,moderate
+4173,very expensive
+4174,moderate
+4175,moderate
+4176,moderate
+4177,moderate
+4178,moderate
+4179,moderate
+4180,moderate
+4181,expensive
+4182,moderate
+4183,moderate
+4184,moderate
+4185,moderate
+4186,moderate
+4187,expensive
+4188,moderate
+4189,expensive
+4190,expensive
+4191,moderate
+4192,moderate
+4193,moderate
+4194,moderate
+4195,moderate
+4196,moderate
+4197,moderate
+4198,moderate
+4199,moderate
+4200,moderate
+4201,moderate
+4202,moderate
+4203,moderate
+4204,moderate
+4205,moderate
+4206,moderate
+4207,moderate
+4208,moderate
+4209,moderate
+4210,moderate
+4211,moderate
+4212,moderate
+4213,moderate
+4214,moderate
+4215,moderate
+4216,moderate
+4217,moderate
+4218,moderate
+4219,moderate
+4220,moderate
+4221,moderate
+4222,moderate
+4223,moderate
+4224,moderate
+4225,moderate
+4226,moderate
+4227,moderate
+4228,moderate
+4229,moderate
+4230,moderate
+4231,moderate
+4232,moderate
+4233,moderate
+4234,moderate
+4235,moderate
+4236,moderate
+4237,moderate
+4238,moderate
+4239,moderate
+4240,moderate
+4241,moderate
+4242,moderate
+4243,moderate
+4244,moderate
+4245,moderate
+4246,moderate
+4247,moderate
+4248,moderate
+4249,moderate
+4250,moderate
+4251,moderate
+4252,moderate
+4253,moderate
+4254,moderate
+4255,moderate
+4256,moderate
+4257,moderate
+4258,moderate
+4259,very expensive
+4260,very expensive
+4261,very expensive
+4262,very expensive
+4263,very expensive
+4264,very expensive
+4265,very expensive
+4266,very expensive
+4267,very expensive
+4268,very expensive
+4269,very expensive
+4270,very expensive
+4271,very expensive
+4272,very expensive
+4273,very expensive
+4274,moderate
+4275,moderate
+4276,moderate
+4277,moderate
+4278,moderate
+4279,moderate
+4280,moderate
+4281,moderate
+4282,moderate
+4283,moderate
+4284,moderate
+4285,moderate
+4286,moderate
+4287,moderate
+4288,moderate
+4289,moderate
+4290,moderate
+4291,moderate
+4292,moderate
+4293,moderate
+4294,moderate
+4295,moderate
+4296,moderate
+4297,moderate
+4298,moderate
+4299,moderate
+4300,moderate
+4301,moderate
+4302,moderate
+4303,moderate
+4304,moderate
+4305,moderate
+4306,moderate
+4307,moderate
+4308,moderate
+4309,moderate
+4310,moderate
+4311,moderate
+4312,moderate
+4313,moderate
+4314,moderate
+4315,moderate
+4316,moderate
+4317,moderate
+4318,moderate
+4319,moderate
+4320,moderate
+4321,moderate
+4322,very expensive
+4323,moderate
+4324,very expensive
+4325,moderate
+4326,moderate
+4327,moderate
+4328,moderate
+4329,moderate
+4330,moderate
+4331,moderate
+4332,moderate
+4333,moderate
+4334,moderate
+4335,moderate
+4336,moderate
+4337,moderate
+4338,moderate
+4339,moderate
+4340,moderate
+4341,moderate
+4342,moderate
+4343,moderate
+4344,moderate
+4345,moderate
+4346,moderate
+4347,moderate
+4348,moderate
+4349,moderate
+4350,moderate
+4351,moderate
+4352,moderate
+4353,moderate
+4354,moderate
+4355,moderate
+4356,moderate
+4357,moderate
+4358,moderate
+4359,moderate
+4360,moderate
+4361,moderate
+4362,moderate
+4363,moderate
+4364,very expensive
+4365,moderate
+4366,moderate
+4367,moderate
+4368,moderate
+4369,moderate
+4370,moderate
+4371,moderate
+4372,moderate
+4373,moderate
+4374,moderate
+4375,moderate
+4376,moderate
+4377,moderate
+4378,moderate
+4379,moderate
+4380,moderate
+4381,moderate
+4382,moderate
+4383,moderate
+4384,moderate
+4385,moderate
+4386,moderate
+4387,moderate
+4388,moderate
+4389,moderate
+4390,moderate
+4391,moderate
+4392,moderate
+4393,moderate
+4394,moderate
+4395,moderate
+4396,moderate
+4397,moderate
+4398,moderate
+4399,moderate
+4400,moderate
+4401,moderate
+4402,moderate
+4403,moderate
+4404,moderate
+4405,moderate
+4406,moderate
+4407,moderate
+4408,moderate
+4409,moderate
+4410,moderate
+4411,moderate
+4412,moderate
+4413,moderate
+4414,moderate
+4415,moderate
+4416,moderate
+4417,moderate
+4418,moderate
+4419,moderate
+4420,moderate
+4421,moderate
+4422,moderate
+4423,moderate
+4424,moderate
+4425,moderate
+4426,moderate
+4427,moderate
+4428,moderate
+4429,moderate
+4430,moderate
+4431,moderate
+4432,moderate
+4433,moderate
+4434,moderate
+4435,moderate
+4436,moderate
+4437,moderate
+4438,moderate
+4439,moderate
+4440,moderate
+4441,moderate
+4442,moderate
+4443,moderate
+4444,very expensive
+4445,very expensive
+4446,very expensive
+4447,very expensive
+4448,moderate
+4449,moderate
+4450,moderate
+4451,moderate
+4452,moderate
+4453,moderate
+4454,moderate
+4455,moderate
+4456,moderate
+4457,expensive
+4458,moderate
+4459,very expensive
+4460,very expensive
+4461,very expensive
+4462,very expensive
+4463,very expensive
+4464,very expensive
+4465,very expensive
+4466,very expensive
+4467,moderate
+4468,moderate
+4469,moderate
+4470,very expensive
+4471,very expensive
+4472,very expensive
+4473,moderate
+4474,moderate
+4475,moderate
+4476,moderate
+4477,moderate
+4478,very expensive
+4479,moderate
+4480,moderate
+4481,moderate
+4482,moderate
+4483,moderate
+4484,moderate
+4485,moderate
+4486,moderate
+4487,moderate
+4488,moderate
+4489,moderate
+4490,moderate
+4491,moderate
+4492,moderate
+4493,moderate
+4494,moderate
+4495,moderate
+4496,moderate
+4497,moderate
+4498,moderate
+4499,moderate
+4500,moderate
+4501,moderate
+4502,moderate
+4503,moderate
+4504,moderate
+4505,moderate
+4506,moderate
+4507,moderate
+4508,moderate
+4509,moderate
+4510,moderate
+4511,very expensive
+4512,moderate
+4513,moderate
+4514,moderate
+4515,moderate
+4516,moderate
+4517,very expensive
+4518,very expensive
+4519,moderate
+4520,very expensive
+4521,very expensive
+4522,moderate
+4523,very expensive
+4524,moderate
+4525,moderate
+4526,moderate
+4527,moderate
+4528,moderate
+4529,very expensive
+4530,moderate
+4531,very expensive
+4532,moderate
+4533,very expensive
+4534,very expensive
+4535,moderate
+4536,moderate
+4537,very expensive
+4538,very expensive
+4539,moderate
+4540,very expensive
+4541,very expensive
+4542,very expensive
+4543,moderate
+4544,very expensive
+4545,very expensive
+4546,very expensive
+4547,moderate
+4548,moderate
+4549,very expensive
+4550,very expensive
+4551,moderate
+4552,very expensive
+4553,moderate
+4554,very expensive
+4555,very expensive
+4556,moderate
+4557,moderate
+4558,moderate
+4559,moderate
+4560,very expensive
+4561,very expensive
+4562,moderate
+4563,very expensive
+4564,very expensive
+4565,very expensive
+4566,very expensive
+4567,very expensive
+4568,very expensive
+4569,very expensive
+4570,moderate
+4571,very expensive
+4572,very expensive
+4573,very expensive
+4574,very expensive
+4575,very expensive
+4576,very expensive
+4577,very expensive
+4578,very expensive
+4579,moderate
+4580,very expensive
+4581,very expensive
+4582,very expensive
+4583,very expensive
+4584,very expensive
+4585,moderate
+4586,moderate
+4587,very expensive
+4588,very expensive
+4589,very expensive
+4590,very expensive
+4591,moderate
+4592,very expensive
+4593,moderate
+4594,moderate
+4595,very expensive
+4596,very expensive
+4597,very expensive
+4598,moderate
+4599,very expensive
+4600,very expensive
+4601,moderate
+4602,very expensive
+4603,very expensive
+4604,very expensive
+4605,very expensive
+4606,very expensive
+4607,very expensive
+4608,very expensive
+4609,very expensive
+4610,very expensive
+4611,very expensive
+4612,moderate
+4613,very expensive
+4614,moderate
+4615,moderate
+4616,very expensive
+4617,moderate
+4618,moderate
+4619,very expensive
+4620,moderate
+4621,very expensive
+4622,very expensive
+4623,moderate
+4624,moderate
+4625,very expensive
+4626,very expensive
+4627,very expensive
+4628,moderate
+4629,very expensive
+4630,moderate
+4631,very expensive
+4632,very expensive
+4633,very expensive
+4634,very expensive
+4635,very expensive
+4636,moderate
+4637,moderate
+4638,very expensive
+4639,moderate
+4640,very expensive
+4641,very expensive
+4642,very expensive
+4643,very expensive
+4644,very expensive
+4645,very expensive
+4646,very expensive
+4647,very expensive
+4648,moderate
+4649,moderate
+4650,moderate
+4651,moderate
+4652,moderate
+4653,very expensive
+4654,very expensive
+4655,very expensive
+4656,very expensive
+4657,very expensive
+4658,very expensive
+4659,moderate
+4660,moderate
+4661,moderate
+4662,very expensive
+4663,very expensive
+4664,very expensive
+4665,moderate
+4666,moderate
+4667,very expensive
+4668,very expensive
+4669,very expensive
+4670,moderate
+4671,very expensive
+4672,very expensive
+4673,very expensive
+4674,very expensive
+4675,very expensive
+4676,very expensive
+4677,very expensive
+4678,moderate
+4679,very expensive
+4680,moderate
+4681,moderate
+4682,moderate
+4683,moderate
+4684,very expensive
+4685,very expensive
+4686,very expensive
+4687,moderate
+4688,very expensive
+4689,very expensive
+4690,very expensive
+4691,very expensive
+4692,moderate
+4693,very expensive
+4694,very expensive
+4695,very expensive
+4696,moderate
+4697,very expensive
+4698,moderate
+4699,very expensive
+4700,very expensive
+4701,moderate
+4702,moderate
+4703,moderate
+4704,very expensive
+4705,very expensive
+4706,very expensive
+4707,very expensive
+4708,moderate
+4709,very expensive
+4710,moderate
+4711,moderate
+4712,moderate
+4713,very expensive
+4714,very expensive
+4715,very expensive
+4716,moderate
+4717,moderate
+4718,moderate
+4719,moderate
+4720,moderate
+4721,moderate
+4722,moderate
+4723,moderate
+4724,moderate
+4725,moderate
+4726,moderate
+4727,moderate
+4728,moderate
+4729,moderate
+4730,moderate
+4731,moderate
+4732,moderate
+4733,moderate
+4734,moderate
+4735,moderate
+4736,moderate
+4737,moderate
+4738,moderate
+4739,moderate
+4740,moderate
+4741,moderate
+4742,moderate
+4743,moderate
+4744,moderate
+4745,moderate
+4746,moderate
+4747,moderate
+4748,moderate
+4749,moderate
+4750,moderate
+4751,moderate
+4752,moderate
+4753,moderate
+4754,moderate
+4755,moderate
+4756,moderate
+4757,moderate
+4758,moderate
+4759,very expensive
+4760,very expensive
+4761,very expensive
+4762,very expensive
+4763,very expensive
+4764,very expensive
+4765,moderate
+4766,moderate
+4767,moderate
+4768,moderate
+4769,moderate
+4770,moderate
+4771,moderate
+4772,moderate
+4773,moderate
+4774,moderate
+4775,moderate
+4776,moderate
+4777,moderate
+4778,moderate
+4779,moderate
+4780,moderate
+4781,moderate
+4782,moderate
+4783,moderate
+4784,moderate
+4785,moderate
+4786,moderate
+4787,expensive
+4788,moderate
+4789,moderate
+4790,moderate
+4791,moderate
+4792,moderate
+4793,moderate
+4794,moderate
+4795,moderate
+4796,expensive
+4797,expensive
+4798,moderate
+4799,moderate
+4800,moderate
+4801,moderate
+4802,moderate
+4803,moderate
+4804,moderate
+4805,moderate
+4806,moderate
+4807,moderate
+4808,moderate
+4809,moderate
+4810,moderate
+4811,moderate
+4812,moderate
+4813,moderate
+4814,moderate
+4815,moderate
+4816,moderate
+4817,moderate
+4818,moderate
+4819,moderate
+4820,moderate
+4821,moderate
+4822,moderate
+4823,moderate
+4824,moderate
+4825,moderate
+4826,moderate
+4827,moderate
+4828,moderate
+4829,moderate
+4830,moderate
+4831,moderate
+4832,moderate
+4833,very expensive
+4834,moderate
+4835,moderate
+4836,very expensive
+4837,moderate
+4838,moderate
+4839,moderate
+4840,moderate
+4841,moderate
+4842,moderate
+4843,moderate
+4844,moderate
+4845,moderate
+4846,moderate
+4847,moderate
+4848,moderate
+4849,moderate
+4850,moderate
+4851,moderate
+4852,moderate
+4853,moderate
+4854,moderate
+4855,moderate
+4856,moderate
+4857,very expensive
+4858,moderate
+4859,moderate
+4860,moderate
+4861,moderate
+4862,moderate
+4863,moderate
+4864,moderate
+4865,moderate
+4866,very expensive
+4867,moderate
+4868,moderate
+4869,moderate
+4870,moderate
+4871,moderate
+4872,very expensive
+4873,moderate
+4874,very expensive
+4875,moderate
+4876,moderate
+4877,moderate
+4878,very expensive
+4879,moderate
+4880,moderate
+4881,moderate
+4882,moderate
+4883,very expensive
+4884,very expensive
+4885,very expensive
+4886,moderate
+4887,very expensive
+4888,very expensive
+4889,very expensive
+4890,very expensive
+4891,very expensive
+4892,very expensive
+4893,very expensive
+4894,very expensive
+4895,very expensive
+4896,very expensive
+4897,very expensive
+4898,very expensive
+4899,very expensive
+4900,very expensive
+4901,very expensive
+4902,very expensive
+4903,very expensive
+4904,very expensive
+4905,very expensive
+4906,very expensive
+4907,very expensive
+4908,very expensive
+4909,very expensive
+4910,moderate
+4911,moderate
+4912,very expensive
+4913,very expensive
+4914,very expensive
+4915,very expensive
+4916,moderate
+4917,very expensive
+4918,very expensive
+4919,moderate
+4920,very expensive
+4921,very expensive
+4922,moderate
+4923,very expensive
+4924,very expensive
+4925,very expensive
+4926,moderate
+4927,very expensive
+4928,moderate
+4929,very expensive
+4930,very expensive
+4931,very expensive
+4932,very expensive
+4933,moderate
+4934,moderate
+4935,moderate
+4936,moderate
+4937,moderate
+4938,moderate
+4939,moderate
+4940,moderate
+4941,moderate
+4942,moderate
+4943,moderate
+4944,moderate
+4945,moderate
+4946,moderate
+4947,moderate
+4948,moderate
+4949,moderate
+4950,expensive
+4951,moderate
+4952,moderate
+4953,moderate
+4954,moderate
+4955,moderate
+4956,moderate
+4957,moderate
+4958,moderate
+4959,moderate
+4960,moderate
+4961,moderate
+4962,moderate
+4963,moderate
+4964,moderate
+4965,moderate
+4966,moderate
+4967,moderate
+4968,moderate
+4969,moderate
+4970,moderate
+4971,moderate
+4972,moderate
+4973,moderate
+4974,moderate
+4975,moderate
+4976,moderate
+4977,moderate
+4978,moderate
+4979,moderate
+4980,moderate
+4981,moderate
+4982,moderate
+4983,moderate
+4984,moderate
+4985,moderate
+4986,moderate
+4987,moderate
+4988,moderate
+4989,moderate
+4990,moderate
+4991,moderate
+4992,moderate
+4993,moderate
+4994,moderate
+4995,moderate
+4996,moderate
+4997,moderate
+4998,moderate
+4999,moderate
+5000,moderate
+5001,moderate
+5002,moderate
+5003,moderate
+5004,moderate
+5005,moderate
+5006,moderate
+5007,moderate
+5008,moderate
+5009,moderate
+5010,moderate
+5011,moderate
+5012,moderate
+5013,moderate
+5014,moderate
+5015,expensive
+5016,expensive
+5017,expensive
+5018,moderate
+5019,moderate
+5020,moderate
+5021,moderate
+5022,moderate
+5023,moderate
+5024,moderate
+5025,moderate
+5026,moderate
+5027,moderate
+5028,moderate
+5029,moderate
+5030,moderate
+5031,moderate
+5032,moderate
+5033,moderate
+5034,moderate
+5035,moderate
+5036,moderate
+5037,moderate
+5038,moderate
+5039,moderate
+5040,moderate
+5041,moderate
+5042,moderate
+5043,moderate
+5044,moderate
+5045,moderate
+5046,moderate
+5047,moderate
+5048,moderate
+5049,moderate
+5050,moderate
+5051,moderate
+5052,moderate
+5053,moderate
+5054,moderate
+5055,moderate
+5056,moderate
+5057,moderate
+5058,moderate
+5059,moderate
+5060,moderate
+5061,moderate
+5062,moderate
+5063,moderate
+5064,moderate
+5065,moderate
+5066,moderate
+5067,moderate
+5068,moderate
+5069,moderate
+5070,moderate
+5071,moderate
+5072,moderate
+5073,moderate
+5074,moderate
+5075,moderate
+5076,moderate
+5077,moderate
+5078,moderate
+5079,moderate
+5080,moderate
+5081,moderate
+5082,moderate
+5083,moderate
+5084,moderate
+5085,moderate
+5086,moderate
+5087,moderate
+5088,moderate
+5089,moderate
+5090,moderate
+5091,moderate
+5092,moderate
+5093,moderate
+5094,moderate
+5095,moderate
+5096,moderate
+5097,moderate
+5098,moderate
+5099,moderate
+5100,moderate
+5101,moderate
+5102,moderate
+5103,moderate
+5104,moderate
+5105,moderate
+5106,moderate
+5107,moderate
+5108,moderate
+5109,moderate
+5110,moderate
+5111,moderate
+5112,moderate
+5113,moderate
+5114,moderate
+5115,moderate
+5116,moderate
+5117,moderate
+5118,moderate
+5119,moderate
+5120,moderate
+5121,moderate
+5122,moderate
+5123,moderate
+5124,moderate
+5125,moderate
+5126,moderate
+5127,moderate
+5128,moderate
+5129,moderate
+5130,moderate
+5131,moderate
+5132,moderate
+5133,moderate
+5134,moderate
+5135,moderate
+5136,moderate
+5137,moderate
+5138,moderate
+5139,moderate
+5140,moderate
+5141,moderate
+5142,moderate
+5143,moderate
+5144,moderate
+5145,moderate
+5146,moderate
+5147,moderate
+5148,moderate
+5149,moderate
+5150,moderate
+5151,moderate
+5152,moderate
+5153,moderate
+5154,moderate
+5155,moderate
+5156,moderate
+5157,moderate
+5158,moderate
+5159,moderate
+5160,moderate
+5161,moderate
+5162,moderate
+5163,moderate
+5164,moderate
+5165,moderate
+5166,moderate
+5167,moderate
+5168,moderate
+5169,very expensive
+5170,moderate
+5171,moderate
+5172,moderate
+5173,moderate
+5174,moderate
+5175,very expensive
+5176,moderate
+5177,moderate
+5178,moderate
+5179,moderate
+5180,moderate
+5181,moderate
+5182,moderate
+5183,moderate
+5184,moderate
+5185,moderate
+5186,moderate
+5187,moderate
+5188,moderate
+5189,moderate
+5190,moderate
+5191,moderate
+5192,moderate
+5193,moderate
+5194,moderate
+5195,moderate
+5196,moderate
+5197,moderate
+5198,moderate
+5199,moderate
+5200,moderate
+5201,moderate
+5202,moderate
+5203,moderate
+5204,moderate
+5205,very expensive
+5206,moderate
+5207,moderate
+5208,moderate
+5209,moderate
+5210,very expensive
+5211,moderate
+5212,moderate
+5213,moderate
+5214,moderate
+5215,moderate
+5216,moderate
+5217,moderate
+5218,moderate
+5219,moderate
+5220,moderate
+5221,moderate
+5222,moderate
+5223,moderate
+5224,moderate
+5225,moderate
+5226,moderate
+5227,moderate
+5228,moderate
+5229,very expensive
+5230,moderate
+5231,very expensive
+5232,moderate
+5233,moderate
+5234,moderate
+5235,very expensive
+5236,moderate
+5237,moderate
+5238,moderate
+5239,moderate
+5240,moderate
+5241,very expensive
+5242,very expensive
+5243,moderate
+5244,moderate
+5245,moderate
+5246,moderate
+5247,moderate
+5248,moderate
+5249,moderate
+5250,moderate
+5251,moderate
+5252,moderate
+5253,moderate
+5254,moderate
+5255,very expensive
+5256,moderate
+5257,moderate
+5258,moderate
+5259,moderate
+5260,moderate
+5261,moderate
+5262,moderate
+5263,moderate
+5264,moderate
+5265,moderate
+5266,moderate
+5267,moderate
+5268,moderate
+5269,very expensive
+5270,very expensive
+5271,very expensive
+5272,very expensive
+5273,very expensive
+5274,very expensive
+5275,moderate
+5276,very expensive
+5277,very expensive
+5278,very expensive
+5279,moderate
+5280,moderate
+5281,very expensive
+5282,moderate
+5283,very expensive
+5284,moderate
+5285,moderate
+5286,moderate
+5287,moderate
+5288,very expensive
+5289,moderate
+5290,moderate
+5291,moderate
+5292,moderate
+5293,moderate
+5294,very expensive
+5295,moderate
+5296,moderate
+5297,very expensive
+5298,moderate
+5299,moderate
+5300,moderate
+5301,moderate
+5302,very expensive
+5303,moderate
+5304,moderate
+5305,moderate
+5306,moderate
+5307,moderate
+5308,very expensive
+5309,moderate
+5310,moderate
+5311,very expensive
+5312,very expensive
+5313,very expensive
+5314,very expensive
+5315,very expensive
+5316,very expensive
+5317,very expensive
+5318,very expensive
+5319,very expensive
+5320,very expensive
+5321,very expensive
+5322,very expensive
+5323,very expensive
+5324,very expensive
+5325,very expensive
+5326,very expensive
+5327,very expensive
+5328,very expensive
+5329,very expensive
+5330,very expensive
+5331,very expensive
+5332,very expensive
+5333,very expensive
+5334,very expensive
+5335,very expensive
+5336,very expensive
+5337,very expensive
+5338,very expensive
+5339,very expensive
+5340,very expensive
+5341,very expensive
+5342,very expensive
+5343,very expensive
+5344,very expensive
+5345,very expensive
+5346,very expensive
+5347,very expensive
+5348,very expensive
+5349,very expensive
+5350,very expensive
+5351,very expensive
+5352,very expensive
+5353,very expensive
+5354,very expensive
+5355,very expensive
+5356,very expensive
+5357,very expensive
+5358,very expensive
+5359,very expensive
+5360,very expensive
+5361,very expensive
+5362,very expensive
+5363,very expensive
+5364,very expensive
+5365,very expensive
+5366,very expensive
+5367,very expensive
+5368,very expensive
+5369,very expensive
+5370,very expensive
+5371,very expensive
+5372,very expensive
+5373,very expensive
+5374,very expensive
+5375,very expensive
+5376,very expensive
+5377,very expensive
+5378,very expensive
+5379,very expensive
+5380,very expensive
+5381,very expensive
+5382,very expensive
+5383,very expensive
+5384,very expensive
+5385,very expensive
+5386,very expensive
+5387,very expensive
+5388,very expensive
+5389,very expensive
+5390,very expensive
+5391,very expensive
+5392,very expensive
+5393,very expensive
+5394,very expensive
+5395,moderate
+5396,moderate
+5397,moderate
+5398,moderate
+5399,moderate
+5400,moderate
+5401,moderate
+5402,moderate
+5403,expensive
+5404,expensive
+5405,expensive
+5406,moderate
+5407,very expensive
+5408,very expensive
+5409,very expensive
+5410,very expensive
+5411,very expensive
+5412,very expensive
+5413,very expensive
+5414,very expensive
+5415,very expensive
+5416,very expensive
+5417,very expensive
+5418,very expensive
+5419,moderate
+5420,very expensive
+5421,very expensive
+5422,very expensive
+5423,moderate
+5424,moderate
+5425,moderate
+5426,moderate
+5427,moderate
+5428,moderate
+5429,moderate
+5430,moderate
+5431,moderate
+5432,moderate
+5433,moderate
+5434,very expensive
+5435,very expensive
+5436,very expensive
+5437,very expensive
+5438,moderate
+5439,moderate
+5440,moderate
+5441,moderate
+5442,moderate
+5443,moderate
+5444,moderate
+5445,moderate
+5446,moderate
+5447,very expensive
+5448,very expensive
+5449,very expensive
+5450,moderate
+5451,moderate
+5452,moderate
+5453,moderate
+5454,moderate
+5455,moderate
+5456,moderate
+5457,moderate
+5458,moderate
+5459,moderate
+5460,moderate
+5461,moderate
+5462,moderate
+5463,moderate
+5464,moderate
+5465,moderate
+5466,moderate
+5467,moderate
+5468,moderate
+5469,moderate
+5470,moderate
+5471,moderate
+5472,moderate
+5473,moderate
+5474,moderate
+5475,moderate
+5476,moderate
+5477,moderate
+5478,moderate
+5479,moderate
+5480,moderate
+5481,moderate
+5482,moderate
+5483,moderate
+5484,moderate
+5485,moderate
+5486,moderate
+5487,moderate
+5488,moderate
+5489,moderate
+5490,moderate
+5491,moderate
+5492,moderate
+5493,moderate
+5494,moderate
+5495,moderate
+5496,moderate
+5497,moderate
+5498,moderate
+5499,moderate
+5500,moderate
+5501,moderate
+5502,moderate
+5503,moderate
+5504,moderate
+5505,moderate
+5506,moderate
+5507,moderate
+5508,moderate
+5509,moderate
+5510,moderate
+5511,moderate
+5512,moderate
+5513,moderate
+5514,moderate
+5515,moderate
+5516,moderate
+5517,moderate
+5518,moderate
+5519,moderate
+5520,moderate
+5521,moderate
+5522,moderate
+5523,moderate
+5524,moderate
+5525,moderate
+5526,moderate
+5527,moderate
+5528,moderate
+5529,moderate
+5530,moderate
+5531,moderate
+5532,moderate
+5533,moderate
+5534,moderate
+5535,moderate
+5536,moderate
+5537,moderate
+5538,moderate
+5539,moderate
+5540,moderate
+5541,moderate
+5542,moderate
+5543,moderate
+5544,moderate
+5545,moderate
+5546,moderate
+5547,moderate
+5548,moderate
+5549,moderate
+5550,moderate
+5551,moderate
+5552,moderate
+5553,moderate
+5554,moderate
+5555,moderate
+5556,moderate
+5557,moderate
+5558,moderate
+5559,moderate
+5560,moderate
+5561,moderate
+5562,moderate
+5563,moderate
+5564,moderate
+5565,moderate
+5566,moderate
+5567,moderate
+5568,moderate
+5569,moderate
+5570,moderate
+5571,moderate
+5572,moderate
+5573,moderate
+5574,moderate
+5575,moderate
+5576,moderate
+5577,moderate
+5578,moderate
+5579,moderate
+5580,moderate
+5581,moderate
+5582,moderate
+5583,moderate
+5584,moderate
+5585,moderate
+5586,moderate
+5587,moderate
+5588,moderate
+5589,moderate
+5590,moderate
+5591,moderate
+5592,moderate
+5593,moderate
+5594,moderate
+5595,moderate
+5596,moderate
+5597,moderate
+5598,moderate
+5599,moderate
+5600,moderate
+5601,moderate
+5602,moderate
+5603,moderate
+5604,expensive
+5605,moderate
+5606,moderate
+5607,moderate
+5608,moderate
+5609,moderate
+5610,expensive
+5611,moderate
+5612,moderate
+5613,moderate
+5614,moderate
+5615,moderate
+5616,moderate
+5617,moderate
+5618,moderate
+5619,moderate
+5620,moderate
+5621,moderate
+5622,moderate
+5623,moderate
+5624,moderate
+5625,moderate
+5626,moderate
+5627,moderate
+5628,moderate
+5629,moderate
+5630,moderate
+5631,moderate
+5632,moderate
+5633,moderate
+5634,moderate
+5635,moderate
+5636,moderate
+5637,moderate
+5638,moderate
+5639,moderate
+5640,moderate
+5641,moderate
+5642,moderate
+5643,moderate
+5644,moderate
+5645,moderate
+5646,moderate
+5647,moderate
+5648,moderate
+5649,moderate
+5650,moderate
+5651,moderate
+5652,moderate
+5653,moderate
+5654,moderate
+5655,moderate
+5656,moderate
+5657,moderate
+5658,moderate
+5659,moderate
+5660,moderate
+5661,moderate
+5662,moderate
+5663,moderate
+5664,moderate
+5665,moderate
+5666,moderate
+5667,moderate
+5668,moderate
+5669,moderate
+5670,moderate
+5671,moderate
+5672,moderate
+5673,moderate
+5674,moderate
+5675,moderate
+5676,moderate
+5677,moderate
+5678,moderate
+5679,moderate
+5680,moderate
+5681,moderate
+5682,moderate
+5683,moderate
+5684,moderate
+5685,moderate
+5686,moderate
+5687,moderate
+5688,moderate
+5689,moderate
+5690,moderate
+5691,moderate
+5692,moderate
+5693,moderate
+5694,moderate
+5695,moderate
+5696,moderate
+5697,moderate
+5698,moderate
+5699,moderate
+5700,moderate
+5701,moderate
+5702,moderate
+5703,moderate
+5704,moderate
+5705,moderate
+5706,very expensive
+5707,very expensive
+5708,very expensive
+5709,very expensive
+5710,moderate
+5711,very expensive
+5712,very expensive
+5713,very expensive
+5714,very expensive
+5715,very expensive
+5716,very expensive
+5717,very expensive
+5718,moderate
+5719,very expensive
+5720,very expensive
+5721,moderate
+5722,very expensive
+5723,moderate
+5724,moderate
+5725,very expensive
+5726,very expensive
+5727,very expensive
+5728,moderate
+5729,very expensive
+5730,very expensive
+5731,very expensive
+5732,very expensive
+5733,very expensive
+5734,moderate
+5735,very expensive
+5736,very expensive
+5737,very expensive
+5738,moderate
+5739,moderate
+5740,moderate
+5741,moderate
+5742,moderate
+5743,moderate
+5744,moderate
+5745,moderate
+5746,moderate
+5747,moderate
+5748,moderate
+5749,moderate
+5750,moderate
+5751,moderate
+5752,moderate
+5753,moderate
+5754,moderate
+5755,moderate
+5756,moderate
+5757,moderate
+5758,moderate
+5759,moderate
+5760,moderate
+5761,moderate
+5762,moderate
+5763,moderate
+5764,moderate
+5765,moderate
+5766,moderate
+5767,moderate
+5768,moderate
+5769,very expensive
+5770,moderate
+5771,moderate
+5772,moderate
+5773,very expensive
+5774,moderate
+5775,moderate
+5776,moderate
+5777,moderate
+5778,moderate
+5779,moderate
+5780,moderate
+5781,very expensive
+5782,moderate
+5783,moderate
+5784,moderate
+5785,moderate
+5786,moderate
+5787,moderate
+5788,moderate
+5789,moderate
+5790,moderate
+5791,very expensive
+5792,moderate
+5793,moderate
+5794,moderate
+5795,very expensive
+5796,moderate
+5797,moderate
+5798,moderate
+5799,moderate
+5800,moderate
+5801,moderate
+5802,moderate
+5803,moderate
+5804,moderate
+5805,moderate
+5806,moderate
+5807,moderate
+5808,moderate
+5809,moderate
+5810,moderate
+5811,very expensive
+5812,moderate
+5813,moderate
+5814,moderate
+5815,moderate
+5816,moderate
+5817,very expensive
+5818,moderate
+5819,moderate
+5820,very expensive
+5821,very expensive
+5822,moderate
+5823,moderate
+5824,moderate
+5825,very expensive
+5826,very expensive
+5827,very expensive
+5828,very expensive
+5829,moderate
+5830,very expensive
+5831,very expensive
+5832,very expensive
+5833,moderate
+5834,moderate
+5835,moderate
+5836,moderate
+5837,moderate
+5838,moderate
+5839,moderate
+5840,moderate
+5841,very expensive
+5842,very expensive
+5843,very expensive
+5844,very expensive
+5845,very expensive
+5846,very expensive
+5847,moderate
+5848,moderate
+5849,moderate
+5850,moderate
+5851,moderate
+5852,moderate
+5853,moderate
+5854,moderate
+5855,moderate
+5856,moderate
+5857,moderate
+5858,moderate
+5859,moderate
+5860,moderate
+5861,very expensive
+5862,moderate
+5863,moderate
+5864,moderate
+5865,moderate
+5866,moderate
+5867,moderate
+5868,very expensive
+5869,very expensive
+5870,very expensive
+5871,very expensive
+5872,very expensive
+5873,very expensive
+5874,very expensive
+5875,very expensive
+5876,moderate
+5877,very expensive
+5878,very expensive
+5879,very expensive
+5880,very expensive
+5881,very expensive
+5882,very expensive
+5883,very expensive
+5884,very expensive
+5885,very expensive
+5886,very expensive
+5887,moderate
+5888,moderate
+5889,very expensive
+5890,very expensive
+5891,moderate
+5892,moderate
+5893,moderate
+5894,moderate
+5895,moderate
+5896,moderate
+5897,moderate
+5898,very expensive
+5899,moderate
+5900,moderate
+5901,moderate
+5902,moderate
+5903,very expensive
+5904,moderate
+5905,very expensive
+5906,moderate
+5907,moderate
+5908,very expensive
+5909,moderate
+5910,very expensive
+5911,moderate
+5912,moderate
+5913,moderate
+5914,moderate
+5915,moderate
+5916,moderate
+5917,very expensive
+5918,moderate
+5919,very expensive
+5920,very expensive
+5921,moderate
+5922,moderate
+5923,moderate
+5924,moderate
+5925,moderate
+5926,moderate
+5927,moderate
+5928,moderate
+5929,moderate
+5930,moderate
+5931,moderate
+5932,moderate
+5933,moderate
+5934,moderate
+5935,moderate
+5936,moderate
+5937,moderate
+5938,moderate
+5939,moderate
+5940,moderate
+5941,moderate
+5942,moderate
+5943,moderate
+5944,moderate
+5945,moderate
+5946,moderate
+5947,moderate
+5948,moderate
+5949,moderate
+5950,moderate
+5951,moderate
+5952,moderate
+5953,moderate
+5954,moderate
+5955,moderate
+5956,moderate
+5957,moderate
+5958,moderate
+5959,moderate
+5960,moderate
+5961,moderate
+5962,moderate
+5963,moderate
+5964,moderate
+5965,moderate
+5966,moderate
+5967,moderate
+5968,moderate
+5969,moderate
+5970,moderate
+5971,moderate
+5972,moderate
+5973,moderate
+5974,moderate
+5975,moderate
+5976,moderate
+5977,moderate
+5978,moderate
+5979,moderate
+5980,moderate
+5981,moderate
+5982,moderate
+5983,moderate
+5984,moderate
+5985,moderate
+5986,moderate
+5987,moderate
+5988,moderate
+5989,moderate
+5990,moderate
+5991,moderate
+5992,moderate
+5993,moderate
+5994,moderate
+5995,moderate
+5996,moderate
+5997,moderate
+5998,moderate
+5999,moderate
+6000,moderate
+6001,moderate
+6002,moderate
+6003,moderate
+6004,moderate
+6005,moderate
+6006,moderate
+6007,moderate
+6008,moderate
+6009,moderate
+6010,moderate
+6011,moderate
+6012,moderate
+6013,very expensive
+6014,very expensive
+6015,very expensive
+6016,moderate
+6017,moderate
+6018,very expensive
+6019,moderate
+6020,moderate
+6021,moderate
+6022,moderate
+6023,very expensive
+6024,moderate
+6025,very expensive
+6026,moderate
+6027,moderate
+6028,moderate
+6029,moderate
+6030,moderate
+6031,moderate
+6032,moderate
+6033,moderate
+6034,moderate
+6035,very expensive
+6036,very expensive
+6037,very expensive
+6038,moderate
+6039,moderate
+6040,moderate
+6041,moderate
+6042,moderate
+6043,very expensive
+6044,moderate
+6045,moderate
+6046,moderate
+6047,moderate
+6048,moderate
+6049,moderate
+6050,moderate
+6051,moderate
+6052,moderate
+6053,moderate
+6054,moderate
+6055,moderate
+6056,moderate
+6057,moderate
+6058,moderate
+6059,very expensive
+6060,moderate
+6061,moderate
+6062,moderate
+6063,moderate
+6064,moderate
+6065,moderate
+6066,moderate
+6067,moderate
+6068,moderate
+6069,moderate
+6070,moderate
+6071,moderate
+6072,moderate
+6073,moderate
+6074,moderate
+6075,moderate
+6076,moderate
+6077,moderate
+6078,moderate
+6079,moderate
+6080,moderate
+6081,moderate
+6082,moderate
+6083,moderate
+6084,moderate
+6085,moderate
+6086,moderate
+6087,moderate
+6088,moderate
+6089,moderate
+6090,moderate
+6091,moderate
+6092,moderate
+6093,moderate
+6094,moderate
+6095,moderate
+6096,moderate
+6097,moderate
+6098,moderate
+6099,moderate
+6100,moderate
+6101,moderate
+6102,moderate
+6103,moderate
+6104,moderate
+6105,moderate
+6106,moderate
+6107,moderate
+6108,moderate
+6109,moderate
+6110,moderate
+6111,moderate
+6112,moderate
+6113,moderate
+6114,moderate
+6115,moderate
+6116,moderate
+6117,expensive
+6118,moderate
+6119,moderate
+6120,moderate
+6121,moderate
+6122,moderate
+6123,moderate
+6124,moderate
+6125,moderate
+6126,moderate
+6127,moderate
+6128,moderate
+6129,moderate
+6130,moderate
+6131,moderate
+6132,moderate
+6133,moderate
+6134,moderate
+6135,moderate
+6136,moderate
+6137,moderate
+6138,moderate
+6139,moderate
+6140,moderate
+6141,moderate
+6142,moderate
+6143,moderate
+6144,moderate
+6145,moderate
+6146,moderate
+6147,moderate
+6148,moderate
+6149,moderate
+6150,moderate
+6151,moderate
+6152,moderate
+6153,moderate
+6154,moderate
+6155,moderate
+6156,moderate
+6157,moderate
+6158,moderate
+6159,moderate
+6160,very expensive
+6161,very expensive
+6162,very expensive
+6163,moderate
+6164,moderate
+6165,very expensive
+6166,very expensive
+6167,moderate
+6168,moderate
+6169,moderate
+6170,moderate
+6171,moderate
+6172,moderate
+6173,moderate
+6174,moderate
+6175,moderate
+6176,moderate
+6177,moderate
+6178,moderate
+6179,moderate
+6180,moderate
+6181,moderate
+6182,moderate
+6183,expensive
+6184,moderate
+6185,expensive
+6186,moderate
+6187,moderate
+6188,moderate
+6189,moderate
+6190,expensive
+6191,moderate
+6192,moderate
+6193,moderate
+6194,moderate
+6195,moderate
+6196,very expensive
+6197,moderate
+6198,moderate
+6199,very expensive
+6200,moderate
+6201,moderate
+6202,moderate
+6203,very expensive
+6204,moderate
+6205,moderate
+6206,moderate
+6207,very expensive
+6208,moderate
+6209,moderate
+6210,moderate
+6211,moderate
+6212,very expensive
+6213,moderate
+6214,moderate
+6215,moderate
+6216,moderate
+6217,moderate
+6218,moderate
+6219,moderate
+6220,moderate
+6221,moderate
+6222,moderate
+6223,moderate
+6224,moderate
+6225,moderate
+6226,moderate
+6227,moderate
+6228,moderate
+6229,moderate
+6230,moderate
+6231,moderate
+6232,moderate
+6233,moderate
+6234,moderate
+6235,moderate
+6236,moderate
+6237,moderate
+6238,moderate
+6239,moderate
+6240,moderate
+6241,moderate
+6242,moderate
+6243,moderate
+6244,moderate
+6245,moderate
+6246,moderate
+6247,moderate
+6248,moderate
+6249,moderate
+6250,moderate
+6251,moderate
+6252,moderate
+6253,moderate
+6254,moderate
+6255,moderate
+6256,moderate
+6257,moderate
+6258,moderate
+6259,moderate
+6260,moderate
+6261,moderate
+6262,moderate
+6263,moderate
+6264,moderate
+6265,moderate
+6266,very expensive
+6267,very expensive
+6268,very expensive
+6269,very expensive
+6270,moderate
+6271,very expensive
+6272,very expensive
+6273,moderate
+6274,moderate
+6275,very expensive
+6276,very expensive
+6277,moderate
+6278,very expensive
+6279,very expensive
+6280,very expensive
+6281,moderate
+6282,very expensive
+6283,very expensive
+6284,moderate
+6285,very expensive
+6286,moderate
+6287,very expensive
+6288,moderate
+6289,very expensive
+6290,very expensive
+6291,moderate
+6292,moderate
+6293,very expensive
+6294,moderate
+6295,very expensive
+6296,moderate
+6297,moderate
+6298,moderate
+6299,moderate
+6300,very expensive
+6301,very expensive
+6302,moderate
+6303,very expensive
+6304,very expensive
+6305,very expensive
+6306,very expensive
+6307,very expensive
+6308,very expensive
+6309,very expensive
+6310,very expensive
+6311,very expensive
+6312,very expensive
+6313,moderate
+6314,moderate
+6315,moderate
+6316,moderate
+6317,moderate
+6318,very expensive
+6319,very expensive
+6320,moderate
+6321,moderate
+6322,moderate
+6323,very expensive
+6324,very expensive
+6325,moderate
+6326,very expensive
+6327,very expensive
+6328,very expensive
+6329,very expensive
+6330,very expensive
+6331,moderate
+6332,very expensive
+6333,very expensive
+6334,moderate
+6335,very expensive
+6336,very expensive
+6337,moderate
+6338,moderate
+6339,very expensive
+6340,very expensive
+6341,moderate
+6342,very expensive
+6343,moderate
+6344,very expensive
+6345,moderate
+6346,moderate
+6347,moderate
+6348,very expensive
+6349,very expensive
+6350,moderate
+6351,very expensive
+6352,very expensive
+6353,very expensive
+6354,moderate
+6355,moderate
+6356,moderate
+6357,moderate
+6358,very expensive
+6359,very expensive
+6360,moderate
+6361,moderate
+6362,very expensive
+6363,very expensive
+6364,moderate
+6365,moderate
+6366,very expensive
+6367,moderate
+6368,very expensive
+6369,moderate
+6370,very expensive
+6371,very expensive
+6372,moderate
+6373,moderate
+6374,moderate
+6375,moderate
+6376,moderate
+6377,very expensive
+6378,very expensive
+6379,very expensive
+6380,moderate
+6381,very expensive
+6382,very expensive
+6383,very expensive
+6384,very expensive
+6385,very expensive
+6386,very expensive
+6387,very expensive
+6388,moderate
+6389,very expensive
+6390,moderate
+6391,very expensive
+6392,very expensive
+6393,very expensive
+6394,very expensive
+6395,moderate
+6396,moderate
+6397,moderate
+6398,moderate
+6399,very expensive
+6400,moderate
+6401,moderate
+6402,moderate
+6403,moderate
+6404,moderate
+6405,moderate
+6406,moderate
+6407,moderate
+6408,moderate
+6409,expensive
+6410,moderate
+6411,moderate
+6412,moderate
+6413,moderate
+6414,moderate
+6415,moderate
+6416,moderate
+6417,moderate
+6418,moderate
+6419,moderate
+6420,moderate
+6421,moderate
+6422,moderate
+6423,moderate
+6424,moderate
+6425,moderate
+6426,moderate
+6427,expensive
+6428,moderate
+6429,moderate
+6430,moderate
+6431,moderate
+6432,moderate
+6433,moderate
+6434,moderate
+6435,moderate
+6436,moderate
+6437,moderate
+6438,moderate
+6439,moderate
+6440,moderate
+6441,very expensive
+6442,very expensive
+6443,very expensive
+6444,very expensive
+6445,very expensive
+6446,very expensive
+6447,very expensive
+6448,very expensive
+6449,very expensive
+6450,very expensive
+6451,very expensive
+6452,very expensive
+6453,very expensive
+6454,very expensive
+6455,very expensive
+6456,very expensive
+6457,very expensive
+6458,very expensive
+6459,very expensive
+6460,very expensive
+6461,very expensive
+6462,very expensive
+6463,very expensive
+6464,very expensive
+6465,very expensive
+6466,very expensive
+6467,very expensive
+6468,very expensive
+6469,very expensive
+6470,very expensive
+6471,very expensive
+6472,very expensive
+6473,very expensive
+6474,very expensive
+6475,very expensive
+6476,very expensive
+6477,very expensive
+6478,very expensive
+6479,very expensive
+6480,very expensive
+6481,very expensive
+6482,very expensive
+6483,very expensive
+6484,very expensive
+6485,very expensive
+6486,very expensive
+6487,moderate
+6488,very expensive
+6489,very expensive
+6490,very expensive
+6491,very expensive
+6492,very expensive
+6493,moderate
+6494,expensive
+6495,moderate
+6496,moderate
+6497,expensive
+6498,moderate
+6499,moderate
+6500,moderate
+6501,moderate
+6502,expensive
+6503,moderate
+6504,moderate
+6505,moderate
+6506,moderate
+6507,moderate
+6508,moderate
+6509,moderate
+6510,moderate
+6511,moderate
+6512,expensive
+6513,moderate
+6514,moderate
+6515,moderate
+6516,moderate
+6517,moderate
+6518,moderate
+6519,moderate
+6520,moderate
+6521,moderate
+6522,moderate
+6523,moderate
+6524,moderate
+6525,moderate
+6526,moderate
+6527,moderate
+6528,moderate
+6529,moderate
+6530,moderate
+6531,moderate
+6532,moderate
+6533,moderate
+6534,moderate
+6535,moderate
+6536,moderate
+6537,very expensive
+6538,moderate
+6539,moderate
+6540,moderate
+6541,moderate
+6542,moderate
+6543,moderate
+6544,moderate
+6545,moderate
+6546,moderate
+6547,moderate
+6548,moderate
+6549,very expensive
+6550,moderate
+6551,moderate
+6552,moderate
+6553,moderate
+6554,moderate
+6555,moderate
+6556,moderate
+6557,moderate
+6558,moderate
+6559,moderate
+6560,moderate
+6561,expensive
+6562,moderate
+6563,moderate
+6564,moderate
+6565,moderate
+6566,moderate
+6567,moderate
+6568,moderate
+6569,moderate
+6570,moderate
+6571,expensive
+6572,moderate
+6573,moderate
+6574,moderate
+6575,moderate
+6576,moderate
+6577,moderate
+6578,expensive
+6579,moderate
+6580,expensive
+6581,moderate
+6582,expensive
+6583,moderate
+6584,expensive
+6585,moderate
+6586,moderate
+6587,moderate
+6588,expensive
+6589,moderate
+6590,moderate
+6591,moderate
+6592,moderate
+6593,moderate
+6594,moderate
+6595,moderate
+6596,moderate
+6597,moderate
+6598,moderate
+6599,moderate
+6600,moderate
+6601,moderate
+6602,moderate
+6603,very expensive
+6604,very expensive
+6605,very expensive
+6606,very expensive
+6607,very expensive
+6608,very expensive
+6609,very expensive
+6610,expensive
+6611,moderate
+6612,expensive
+6613,moderate
+6614,very expensive
+6615,very expensive
+6616,very expensive
+6617,very expensive
+6618,very expensive
+6619,very expensive
+6620,very expensive
+6621,very expensive
+6622,moderate
+6623,moderate
+6624,moderate
+6625,moderate
+6626,moderate
+6627,moderate
+6628,moderate
+6629,moderate
+6630,moderate
+6631,very expensive
+6632,very expensive
+6633,moderate
+6634,very expensive
+6635,moderate
+6636,moderate
+6637,very expensive
+6638,moderate
+6639,very expensive
+6640,moderate
+6641,moderate
+6642,moderate
+6643,very expensive
+6644,moderate
+6645,moderate
+6646,very expensive
+6647,moderate
+6648,very expensive
+6649,moderate
+6650,moderate
+6651,moderate
+6652,very expensive
+6653,very expensive
+6654,very expensive
+6655,moderate
+6656,very expensive
+6657,moderate
+6658,very expensive
+6659,moderate
+6660,very expensive
+6661,moderate
+6662,moderate
+6663,very expensive
+6664,very expensive
+6665,very expensive
+6666,moderate
+6667,very expensive
+6668,moderate
+6669,very expensive
+6670,very expensive
+6671,very expensive
+6672,moderate
+6673,moderate
+6674,very expensive
+6675,very expensive
+6676,very expensive
+6677,very expensive
+6678,moderate
+6679,very expensive
+6680,very expensive
+6681,very expensive
+6682,very expensive
+6683,very expensive
+6684,very expensive
+6685,very expensive
+6686,very expensive
+6687,very expensive
+6688,very expensive
+6689,very expensive
+6690,moderate
+6691,very expensive
+6692,very expensive
+6693,very expensive
+6694,very expensive
+6695,very expensive
+6696,very expensive
+6697,moderate
+6698,moderate
+6699,moderate
+6700,moderate
+6701,moderate
+6702,moderate
+6703,moderate
+6704,moderate
+6705,moderate
+6706,moderate
+6707,moderate
+6708,moderate
+6709,moderate
+6710,moderate
+6711,moderate
+6712,moderate
+6713,moderate
+6714,moderate
+6715,moderate
+6716,moderate
+6717,moderate
+6718,moderate
+6719,moderate
+6720,moderate
+6721,moderate
+6722,moderate
+6723,moderate
+6724,moderate
+6725,moderate
+6726,moderate
+6727,moderate
+6728,moderate
+6729,moderate
+6730,moderate
+6731,moderate
+6732,moderate
+6733,moderate
+6734,moderate
+6735,moderate
+6736,moderate
+6737,moderate
+6738,moderate
+6739,moderate
+6740,moderate
+6741,moderate
+6742,moderate
+6743,moderate
+6744,moderate
+6745,moderate
+6746,moderate
+6747,moderate
+6748,moderate
+6749,moderate
+6750,moderate
+6751,very expensive
+6752,moderate
+6753,moderate
+6754,moderate
+6755,very expensive
+6756,moderate
+6757,moderate
+6758,very expensive
+6759,very expensive
+6760,very expensive
+6761,moderate
+6762,very expensive
+6763,very expensive
+6764,moderate
+6765,very expensive
+6766,very expensive
+6767,very expensive
+6768,very expensive
+6769,very expensive
+6770,very expensive
+6771,very expensive
+6772,moderate
+6773,moderate
+6774,moderate
+6775,moderate
+6776,moderate
+6777,moderate
+6778,moderate
+6779,moderate
+6780,moderate
+6781,moderate
+6782,moderate
+6783,moderate
+6784,moderate
+6785,moderate
+6786,moderate
+6787,moderate
+6788,moderate
+6789,moderate
+6790,moderate
+6791,moderate
+6792,moderate
+6793,moderate
+6794,moderate
+6795,moderate
+6796,moderate
+6797,expensive
+6798,moderate
+6799,moderate
+6800,moderate
+6801,moderate
+6802,moderate
+6803,moderate
+6804,moderate
+6805,moderate
+6806,moderate
+6807,moderate
+6808,moderate
+6809,moderate
+6810,moderate
+6811,moderate
+6812,moderate
+6813,moderate
+6814,moderate
+6815,moderate
+6816,moderate
+6817,moderate
+6818,moderate
+6819,moderate
+6820,moderate
+6821,moderate
+6822,moderate
+6823,moderate
+6824,moderate
+6825,moderate
+6826,moderate
+6827,moderate
+6828,moderate
+6829,moderate
+6830,moderate
+6831,moderate
+6832,moderate
+6833,moderate
+6834,moderate
+6835,moderate
+6836,moderate
+6837,moderate
+6838,moderate
+6839,moderate
+6840,moderate
+6841,moderate
+6842,moderate
+6843,moderate
+6844,moderate
+6845,moderate
+6846,moderate
+6847,moderate
+6848,moderate
+6849,moderate
+6850,moderate
+6851,moderate
+6852,moderate
+6853,moderate
+6854,moderate
+6855,moderate
+6856,moderate
+6857,moderate
+6858,moderate
+6859,moderate
+6860,moderate
+6861,moderate
+6862,moderate
+6863,moderate
+6864,moderate
+6865,moderate
+6866,moderate
+6867,moderate
+6868,moderate
+6869,moderate
+6870,moderate
+6871,moderate
+6872,moderate
+6873,moderate
+6874,moderate
+6875,moderate
+6876,moderate
+6877,moderate
+6878,moderate
+6879,moderate
+6880,moderate
+6881,moderate
+6882,moderate
+6883,moderate
+6884,moderate
+6885,moderate
+6886,moderate
+6887,moderate
+6888,moderate
+6889,moderate
+6890,moderate
+6891,moderate
+6892,moderate
+6893,moderate
+6894,moderate
+6895,moderate
+6896,moderate
+6897,moderate
+6898,moderate
+6899,moderate
+6900,moderate
+6901,moderate
+6902,moderate
+6903,moderate
+6904,moderate
+6905,moderate
+6906,moderate
+6907,moderate
+6908,moderate
+6909,moderate
+6910,moderate
+6911,very expensive
+6912,moderate
+6913,moderate
+6914,moderate
+6915,moderate
+6916,moderate
+6917,moderate
+6918,moderate
+6919,moderate
+6920,moderate
+6921,moderate
+6922,moderate
+6923,moderate
+6924,moderate
+6925,moderate
+6926,moderate
+6927,moderate
+6928,moderate
+6929,moderate
+6930,moderate
+6931,moderate
+6932,moderate
+6933,moderate
+6934,moderate
+6935,moderate
+6936,moderate
+6937,moderate
+6938,moderate
+6939,moderate
+6940,moderate
+6941,moderate
+6942,moderate
+6943,moderate
+6944,moderate
+6945,moderate
+6946,moderate
+6947,moderate
+6948,very expensive
+6949,very expensive
+6950,very expensive
+6951,very expensive
+6952,very expensive
+6953,moderate
+6954,moderate
+6955,very expensive
+6956,moderate
+6957,very expensive
+6958,very expensive
+6959,very expensive
+6960,very expensive
+6961,moderate
+6962,moderate
+6963,moderate
+6964,moderate
+6965,moderate
+6966,moderate
+6967,moderate
+6968,very expensive
+6969,very expensive
+6970,moderate
+6971,moderate
+6972,very expensive
+6973,very expensive
+6974,moderate
+6975,moderate
+6976,moderate
+6977,moderate
+6978,very expensive
+6979,moderate
+6980,very expensive
+6981,very expensive
+6982,moderate
+6983,very expensive
+6984,very expensive
+6985,very expensive
+6986,very expensive
+6987,moderate
+6988,very expensive
+6989,moderate
+6990,moderate
+6991,moderate
+6992,moderate
+6993,very expensive
+6994,very expensive
+6995,moderate
+6996,very expensive
+6997,moderate
+6998,moderate
+6999,moderate
+7000,very expensive
+7001,moderate
+7002,very expensive
+7003,very expensive
+7004,moderate
+7005,very expensive
+7006,moderate
+7007,very expensive
+7008,moderate
+7009,very expensive
+7010,moderate
+7011,very expensive
+7012,very expensive
+7013,moderate
+7014,moderate
+7015,moderate
+7016,moderate
+7017,moderate
+7018,very expensive
+7019,moderate
+7020,moderate
+7021,moderate
+7022,very expensive
+7023,very expensive
+7024,moderate
+7025,moderate
+7026,very expensive
+7027,moderate
+7028,very expensive
+7029,moderate
+7030,moderate
+7031,moderate
+7032,very expensive
+7033,moderate
+7034,moderate
+7035,very expensive
+7036,very expensive
+7037,moderate
+7038,very expensive
+7039,moderate
+7040,moderate
+7041,very expensive
+7042,moderate
+7043,very expensive
+7044,very expensive
+7045,moderate
+7046,moderate
+7047,very expensive
+7048,moderate
+7049,very expensive
+7050,moderate
+7051,very expensive
+7052,moderate
+7053,very expensive
+7054,moderate
+7055,very expensive
+7056,very expensive
+7057,very expensive
+7058,moderate
+7059,moderate
+7060,moderate
+7061,very expensive
+7062,very expensive
+7063,moderate
+7064,moderate
+7065,moderate
+7066,moderate
+7067,moderate
+7068,very expensive
+7069,moderate
+7070,very expensive
+7071,very expensive
+7072,very expensive
+7073,moderate
+7074,moderate
+7075,moderate
+7076,very expensive
+7077,very expensive
+7078,very expensive
+7079,very expensive
+7080,moderate
+7081,very expensive
+7082,very expensive
+7083,very expensive
+7084,moderate
+7085,very expensive
+7086,very expensive
+7087,moderate
+7088,moderate
+7089,very expensive
+7090,very expensive
+7091,moderate
+7092,moderate
+7093,very expensive
+7094,very expensive
+7095,moderate
+7096,very expensive
+7097,very expensive
+7098,very expensive
+7099,very expensive
+7100,very expensive
+7101,very expensive
+7102,very expensive
+7103,very expensive
+7104,very expensive
+7105,very expensive
+7106,very expensive
+7107,very expensive
+7108,very expensive
+7109,very expensive
+7110,very expensive
+7111,very expensive
+7112,very expensive
+7113,very expensive
+7114,very expensive
+7115,very expensive
+7116,very expensive
+7117,moderate
+7118,very expensive
+7119,very expensive
+7120,very expensive
+7121,very expensive
+7122,moderate
+7123,very expensive
+7124,very expensive
+7125,very expensive
+7126,very expensive
+7127,very expensive
+7128,very expensive
+7129,very expensive
+7130,very expensive
+7131,very expensive
+7132,very expensive
+7133,very expensive
+7134,very expensive
+7135,very expensive
+7136,very expensive
+7137,very expensive
+7138,very expensive
+7139,very expensive
+7140,very expensive
+7141,very expensive
+7142,very expensive
+7143,very expensive
+7144,very expensive
+7145,very expensive
+7146,very expensive
+7147,very expensive
+7148,very expensive
+7149,very expensive
+7150,very expensive
+7151,very expensive
+7152,very expensive
+7153,very expensive
+7154,very expensive
+7155,very expensive
+7156,very expensive
+7157,very expensive
+7158,very expensive
+7159,very expensive
+7160,very expensive
+7161,very expensive
+7162,very expensive
+7163,very expensive
+7164,very expensive
+7165,very expensive
+7166,very expensive
+7167,very expensive
+7168,very expensive
+7169,very expensive
+7170,very expensive
+7171,moderate
+7172,moderate
+7173,moderate
+7174,moderate
+7175,moderate
+7176,moderate
+7177,moderate
+7178,moderate
+7179,moderate
+7180,moderate
+7181,moderate
+7182,moderate
+7183,moderate
+7184,moderate
+7185,moderate
+7186,moderate
+7187,moderate
+7188,moderate
+7189,moderate
+7190,moderate
+7191,moderate
+7192,moderate
+7193,very expensive
+7194,moderate
+7195,very expensive
+7196,very expensive
+7197,very expensive
+7198,very expensive
+7199,very expensive
+7200,very expensive
+7201,very expensive
+7202,very expensive
+7203,very expensive
+7204,very expensive
+7205,moderate
+7206,very expensive
+7207,very expensive
+7208,very expensive
+7209,very expensive
+7210,very expensive
+7211,moderate
+7212,moderate
+7213,moderate
+7214,very expensive
+7215,moderate
+7216,moderate
+7217,moderate
+7218,moderate
+7219,moderate
+7220,moderate
+7221,moderate
+7222,expensive
+7223,moderate
+7224,moderate
+7225,expensive
+7226,moderate
+7227,moderate
+7228,moderate
+7229,expensive
+7230,moderate
+7231,expensive
+7232,expensive
+7233,moderate
+7234,moderate
+7235,moderate
+7236,moderate
+7237,moderate
+7238,moderate
+7239,moderate
+7240,moderate
+7241,moderate
+7242,moderate
+7243,moderate
+7244,moderate
+7245,moderate
+7246,moderate
+7247,moderate
+7248,moderate
+7249,moderate
+7250,moderate
+7251,moderate
+7252,moderate
+7253,moderate
+7254,moderate
+7255,moderate
+7256,moderate
+7257,moderate
+7258,moderate
+7259,moderate
+7260,moderate
+7261,moderate
+7262,moderate
+7263,moderate
+7264,moderate
+7265,moderate
+7266,moderate
+7267,moderate
+7268,moderate
+7269,moderate
+7270,moderate
+7271,moderate
+7272,moderate
+7273,moderate
+7274,moderate
+7275,moderate
+7276,moderate
+7277,moderate
+7278,moderate
+7279,moderate
+7280,moderate
+7281,moderate
+7282,moderate
+7283,moderate
+7284,moderate
+7285,moderate
+7286,moderate
+7287,moderate
+7288,moderate
+7289,moderate
+7290,moderate
+7291,moderate
+7292,moderate
+7293,moderate
+7294,moderate
+7295,moderate
+7296,moderate
+7297,moderate
+7298,moderate
+7299,moderate
+7300,moderate
+7301,moderate
+7302,moderate
+7303,moderate
+7304,moderate
+7305,moderate
+7306,moderate
+7307,moderate
+7308,moderate
+7309,moderate
+7310,moderate
+7311,moderate
+7312,moderate
+7313,moderate
+7314,moderate
+7315,moderate
+7316,moderate
+7317,moderate
+7318,moderate
+7319,moderate
+7320,moderate
+7321,moderate
+7322,moderate
+7323,moderate
+7324,moderate
+7325,moderate
+7326,moderate
+7327,moderate
+7328,moderate
+7329,moderate
+7330,moderate
+7331,moderate
+7332,moderate
+7333,moderate
+7334,moderate
+7335,moderate
+7336,moderate
+7337,moderate
+7338,moderate
+7339,moderate
+7340,moderate
+7341,moderate
+7342,moderate
+7343,moderate
+7344,moderate
+7345,moderate
+7346,moderate
+7347,moderate
+7348,moderate
+7349,moderate
+7350,moderate
+7351,moderate
+7352,moderate
+7353,moderate
+7354,moderate
+7355,moderate
+7356,moderate
+7357,moderate
+7358,moderate
+7359,moderate
+7360,moderate
+7361,moderate
+7362,moderate
+7363,moderate
+7364,moderate
+7365,moderate
+7366,moderate
+7367,moderate
+7368,moderate
+7369,moderate
+7370,moderate
+7371,very expensive
+7372,moderate
+7373,very expensive
+7374,very expensive
+7375,very expensive
+7376,moderate
+7377,moderate
+7378,moderate
+7379,moderate
+7380,moderate
+7381,moderate
+7382,moderate
+7383,very expensive
+7384,very expensive
+7385,very expensive
+7386,moderate
+7387,moderate
+7388,moderate
+7389,moderate
+7390,moderate
+7391,moderate
+7392,very expensive
+7393,very expensive
+7394,very expensive
+7395,moderate
+7396,moderate
+7397,very expensive
+7398,very expensive
+7399,moderate
+7400,moderate
+7401,moderate
+7402,moderate
+7403,moderate
+7404,very expensive
+7405,moderate
+7406,moderate
+7407,very expensive
+7408,moderate
+7409,moderate
+7410,moderate
+7411,very expensive
+7412,moderate
+7413,very expensive
+7414,moderate
+7415,very expensive
+7416,moderate
+7417,very expensive
+7418,very expensive
+7419,very expensive
+7420,very expensive
+7421,moderate
+7422,very expensive
+7423,very expensive
+7424,moderate
+7425,moderate
+7426,moderate
+7427,very expensive
+7428,very expensive
+7429,moderate
+7430,moderate
+7431,moderate
+7432,very expensive
+7433,very expensive
+7434,moderate
+7435,very expensive
+7436,moderate
+7437,moderate
+7438,very expensive
+7439,very expensive
+7440,very expensive
+7441,moderate
+7442,moderate
+7443,moderate
+7444,moderate
+7445,moderate
+7446,moderate
+7447,moderate
+7448,moderate
+7449,moderate
+7450,moderate
+7451,moderate
+7452,moderate
+7453,expensive
+7454,moderate
+7455,moderate
+7456,expensive
+7457,moderate
+7458,moderate
+7459,moderate
+7460,moderate
+7461,moderate
+7462,very expensive
+7463,very expensive
+7464,very expensive
+7465,very expensive
+7466,very expensive
+7467,moderate
+7468,moderate
+7469,moderate
+7470,moderate
+7471,moderate
+7472,moderate
+7473,moderate
+7474,moderate
+7475,moderate
+7476,moderate
+7477,moderate
+7478,moderate
+7479,moderate
+7480,moderate
+7481,moderate
+7482,moderate
+7483,moderate
+7484,moderate
+7485,moderate
+7486,moderate
+7487,very expensive
+7488,moderate
+7489,very expensive
+7490,moderate
+7491,moderate
+7492,moderate
+7493,moderate
+7494,moderate
+7495,very expensive
+7496,very expensive
+7497,moderate
+7498,moderate
+7499,moderate
+7500,moderate
+7501,moderate
+7502,moderate
+7503,moderate
+7504,very expensive
+7505,moderate
+7506,moderate
+7507,moderate
+7508,moderate
+7509,moderate
+7510,very expensive
+7511,moderate
+7512,very expensive
+7513,moderate
+7514,moderate
+7515,moderate
+7516,moderate
+7517,moderate
+7518,very expensive
+7519,very expensive
+7520,moderate
+7521,moderate
+7522,moderate
+7523,moderate
+7524,moderate
+7525,moderate
+7526,very expensive
+7527,moderate
+7528,very expensive
+7529,moderate
+7530,moderate
+7531,moderate
+7532,moderate
+7533,very expensive
+7534,very expensive
+7535,very expensive
+7536,moderate
+7537,very expensive
+7538,moderate
+7539,moderate
+7540,very expensive
+7541,very expensive
+7542,very expensive
+7543,very expensive
+7544,very expensive
+7545,very expensive
+7546,moderate
+7547,moderate
+7548,very expensive
+7549,very expensive
+7550,very expensive
+7551,very expensive
+7552,very expensive
+7553,very expensive
+7554,moderate
+7555,moderate
+7556,very expensive
+7557,very expensive
+7558,very expensive
+7559,very expensive
+7560,very expensive
+7561,very expensive
+7562,moderate
+7563,moderate
+7564,moderate
+7565,moderate
+7566,moderate
+7567,moderate
+7568,moderate
+7569,moderate
+7570,very expensive
+7571,very expensive
+7572,moderate
+7573,moderate
+7574,very expensive
+7575,moderate
+7576,moderate
+7577,moderate
+7578,moderate
+7579,moderate
+7580,moderate
+7581,moderate
+7582,moderate
+7583,moderate
+7584,moderate
+7585,moderate
+7586,moderate
+7587,moderate
+7588,very expensive
+7589,very expensive
+7590,very expensive
+7591,very expensive
+7592,very expensive
+7593,expensive
+7594,expensive
+7595,expensive
+7596,expensive
+7597,very expensive
+7598,moderate
+7599,very expensive
+7600,very expensive
+7601,very expensive
+7602,very expensive
+7603,moderate
+7604,moderate
+7605,moderate
+7606,very expensive
+7607,moderate
+7608,moderate
+7609,moderate
+7610,very expensive
+7611,very expensive
+7612,moderate
+7613,moderate
+7614,moderate
+7615,moderate
+7616,moderate
+7617,moderate
+7618,very expensive
+7619,moderate
+7620,moderate
+7621,moderate
+7622,very expensive
+7623,very expensive
+7624,moderate
+7625,very expensive
+7626,moderate
+7627,very expensive
+7628,very expensive
+7629,moderate
+7630,moderate
+7631,very expensive
+7632,very expensive
+7633,moderate
+7634,moderate
+7635,very expensive
+7636,moderate
+7637,very expensive
+7638,very expensive
+7639,very expensive
+7640,moderate
+7641,very expensive
+7642,very expensive
+7643,very expensive
+7644,very expensive
+7645,moderate
+7646,moderate
+7647,very expensive
+7648,moderate
+7649,very expensive
+7650,very expensive
+7651,very expensive
+7652,moderate
+7653,very expensive
+7654,very expensive
+7655,very expensive
+7656,very expensive
+7657,moderate
+7658,moderate
+7659,very expensive
+7660,very expensive
+7661,very expensive
+7662,very expensive
+7663,moderate
+7664,moderate
+7665,moderate
+7666,very expensive
+7667,very expensive
+7668,very expensive
+7669,very expensive
+7670,very expensive
+7671,very expensive
+7672,very expensive
+7673,very expensive
+7674,very expensive
+7675,very expensive
+7676,very expensive
+7677,very expensive
+7678,moderate
+7679,moderate
+7680,very expensive
+7681,very expensive
+7682,moderate
+7683,very expensive
+7684,very expensive
+7685,very expensive
+7686,very expensive
+7687,very expensive
+7688,moderate
+7689,moderate
+7690,very expensive
+7691,very expensive
+7692,very expensive
+7693,moderate
+7694,moderate
+7695,moderate
+7696,moderate
+7697,very expensive
+7698,moderate
+7699,moderate
+7700,very expensive
+7701,very expensive
+7702,very expensive
+7703,very expensive
+7704,very expensive
+7705,very expensive
+7706,very expensive
+7707,moderate
+7708,very expensive
+7709,moderate
+7710,very expensive
+7711,moderate
+7712,very expensive
+7713,moderate
+7714,very expensive
+7715,very expensive
+7716,very expensive
+7717,very expensive
+7718,very expensive
+7719,moderate
+7720,very expensive
+7721,very expensive
+7722,very expensive
+7723,very expensive
+7724,very expensive
+7725,moderate
+7726,very expensive
+7727,very expensive
+7728,very expensive
+7729,very expensive
+7730,moderate
+7731,very expensive
+7732,moderate
+7733,moderate
+7734,moderate
+7735,moderate
+7736,very expensive
+7737,very expensive
+7738,moderate
+7739,very expensive
+7740,very expensive
+7741,very expensive
+7742,moderate
+7743,moderate
+7744,moderate
+7745,very expensive
+7746,very expensive
+7747,very expensive
+7748,moderate
+7749,moderate
+7750,very expensive
+7751,very expensive
+7752,very expensive
+7753,very expensive
+7754,very expensive
+7755,very expensive
+7756,very expensive
+7757,very expensive
+7758,moderate
+7759,moderate
+7760,moderate
+7761,very expensive
+7762,very expensive
+7763,very expensive
+7764,moderate
+7765,very expensive
+7766,very expensive
+7767,moderate
+7768,moderate
+7769,very expensive
+7770,very expensive
+7771,very expensive
+7772,very expensive
+7773,very expensive
+7774,very expensive
+7775,moderate
+7776,moderate
+7777,moderate
+7778,very expensive
+7779,moderate
+7780,moderate
+7781,very expensive
+7782,moderate
+7783,very expensive
+7784,moderate
+7785,very expensive
+7786,very expensive
+7787,moderate
+7788,moderate
+7789,very expensive
+7790,moderate
+7791,very expensive
+7792,moderate
+7793,very expensive
+7794,very expensive
+7795,very expensive
+7796,very expensive
+7797,moderate
+7798,moderate
+7799,very expensive
+7800,very expensive
+7801,moderate
+7802,very expensive
+7803,moderate
+7804,very expensive
+7805,moderate
+7806,very expensive
+7807,moderate
+7808,moderate
+7809,moderate
+7810,very expensive
+7811,very expensive
+7812,moderate
+7813,moderate
+7814,very expensive
+7815,moderate
+7816,moderate
+7817,very expensive
+7818,very expensive
+7819,very expensive
+7820,moderate
+7821,very expensive
+7822,very expensive
+7823,moderate
+7824,moderate
+7825,very expensive
+7826,very expensive
+7827,very expensive
+7828,moderate
+7829,very expensive
+7830,moderate
+7831,moderate
+7832,moderate
+7833,moderate
+7834,very expensive
+7835,very expensive
+7836,very expensive
+7837,very expensive
+7838,very expensive
+7839,very expensive
+7840,very expensive
+7841,moderate
+7842,moderate
+7843,very expensive
+7844,moderate
+7845,moderate
+7846,very expensive
+7847,very expensive
+7848,moderate
+7849,very expensive
+7850,very expensive
+7851,very expensive
+7852,very expensive
+7853,moderate
+7854,moderate
+7855,very expensive
+7856,very expensive
+7857,very expensive
+7858,very expensive
+7859,very expensive
+7860,moderate
+7861,very expensive
+7862,very expensive
+7863,moderate
+7864,very expensive
+7865,moderate
+7866,moderate
+7867,very expensive
+7868,very expensive
+7869,moderate
+7870,very expensive
+7871,very expensive
+7872,moderate
+7873,moderate
+7874,moderate
+7875,moderate
+7876,very expensive
+7877,very expensive
+7878,moderate
+7879,moderate
+7880,moderate
+7881,moderate
+7882,very expensive
+7883,very expensive
+7884,moderate
+7885,moderate
+7886,very expensive
+7887,very expensive
+7888,moderate
+7889,moderate
+7890,very expensive
+7891,moderate
+7892,very expensive
+7893,very expensive
+7894,moderate
+7895,very expensive
+7896,very expensive
+7897,moderate
+7898,very expensive
+7899,moderate
+7900,very expensive
+7901,very expensive
+7902,very expensive
+7903,moderate
+7904,very expensive
+7905,very expensive
+7906,moderate
+7907,very expensive
+7908,moderate
+7909,very expensive
+7910,very expensive
+7911,moderate
+7912,moderate
+7913,moderate
+7914,moderate
+7915,very expensive
+7916,very expensive
+7917,very expensive
+7918,very expensive
+7919,moderate
+7920,moderate
+7921,moderate
+7922,moderate
+7923,very expensive
+7924,moderate
+7925,moderate
+7926,very expensive
+7927,moderate
+7928,very expensive
+7929,very expensive
+7930,very expensive
+7931,very expensive
+7932,very expensive
+7933,moderate
+7934,very expensive
+7935,very expensive
+7936,moderate
+7937,very expensive
+7938,moderate
+7939,very expensive
+7940,very expensive
+7941,moderate
+7942,very expensive
+7943,moderate
+7944,moderate
+7945,moderate
+7946,moderate
+7947,moderate
+7948,moderate
+7949,moderate
+7950,very expensive
+7951,very expensive
+7952,very expensive
+7953,very expensive
+7954,very expensive
+7955,very expensive
+7956,moderate
+7957,very expensive
+7958,very expensive
+7959,very expensive
+7960,moderate
+7961,very expensive
+7962,very expensive
+7963,moderate
+7964,very expensive
+7965,very expensive
+7966,very expensive
+7967,moderate
+7968,moderate
+7969,moderate
+7970,very expensive
+7971,very expensive
+7972,very expensive
+7973,moderate
+7974,very expensive
+7975,very expensive
+7976,moderate
+7977,moderate
+7978,moderate
+7979,very expensive
+7980,very expensive
+7981,moderate
+7982,very expensive
+7983,moderate
+7984,moderate
+7985,very expensive
+7986,moderate
+7987,moderate
+7988,very expensive
+7989,moderate
+7990,very expensive
+7991,very expensive
+7992,moderate
+7993,very expensive
+7994,very expensive
+7995,very expensive
+7996,very expensive
+7997,moderate
+7998,moderate
+7999,very expensive
+8000,very expensive
+8001,very expensive
+8002,very expensive
+8003,moderate
+8004,very expensive
+8005,very expensive
+8006,very expensive
+8007,very expensive
+8008,very expensive
+8009,very expensive
+8010,very expensive
+8011,moderate
+8012,very expensive
+8013,very expensive
+8014,very expensive
+8015,moderate
+8016,very expensive
+8017,moderate
+8018,very expensive
+8019,moderate
+8020,very expensive
+8021,moderate
+8022,very expensive
+8023,very expensive
+8024,very expensive
+8025,moderate
+8026,moderate
+8027,moderate
+8028,moderate
+8029,very expensive
+8030,very expensive
+8031,moderate
+8032,moderate
+8033,moderate
+8034,moderate
+8035,very expensive
+8036,moderate
+8037,moderate
+8038,very expensive
+8039,very expensive
+8040,moderate
+8041,very expensive
+8042,moderate
+8043,moderate
+8044,moderate
+8045,moderate
+8046,moderate
+8047,moderate
+8048,moderate
+8049,very expensive
+8050,moderate
+8051,moderate
+8052,moderate
+8053,moderate
+8054,very expensive
+8055,very expensive
+8056,moderate
+8057,moderate
+8058,moderate
+8059,moderate
+8060,moderate
+8061,moderate
+8062,very expensive
+8063,very expensive
+8064,very expensive
+8065,very expensive
+8066,very expensive
+8067,very expensive
+8068,very expensive
+8069,very expensive
+8070,very expensive
+8071,very expensive
+8072,very expensive
+8073,very expensive
+8074,very expensive
+8075,very expensive
+8076,very expensive
+8077,moderate
+8078,moderate
+8079,moderate
+8080,moderate
+8081,very expensive
+8082,moderate
+8083,very expensive
+8084,very expensive
+8085,very expensive
+8086,very expensive
+8087,moderate
+8088,very expensive
+8089,moderate
+8090,moderate
+8091,moderate
+8092,moderate
+8093,moderate
+8094,moderate
+8095,very expensive
+8096,very expensive
+8097,very expensive
+8098,very expensive
+8099,very expensive
+8100,moderate
+8101,moderate
+8102,moderate
+8103,moderate
+8104,moderate
+8105,moderate
+8106,moderate
+8107,moderate
+8108,moderate
+8109,moderate
+8110,moderate
+8111,moderate
+8112,moderate
+8113,moderate
+8114,moderate
+8115,moderate
+8116,moderate
+8117,moderate
+8118,moderate
+8119,moderate
+8120,moderate
+8121,moderate
+8122,moderate
+8123,moderate
+8124,moderate
+8125,moderate
+8126,moderate
+8127,moderate
+8128,moderate
+8129,moderate
+8130,moderate
+8131,moderate
+8132,expensive
+8133,moderate
+8134,moderate
+8135,moderate
+8136,moderate
+8137,moderate
+8138,moderate
+8139,moderate
+8140,moderate
+8141,moderate
+8142,moderate
+8143,moderate
+8144,moderate
+8145,moderate
+8146,moderate
+8147,moderate
+8148,moderate
+8149,moderate
+8150,moderate
+8151,moderate
+8152,moderate
+8153,moderate
+8154,expensive
+8155,moderate
+8156,moderate
+8157,moderate
+8158,moderate
+8159,moderate
+8160,moderate
+8161,moderate
+8162,moderate
+8163,moderate
+8164,moderate
+8165,moderate
+8166,moderate
+8167,moderate
+8168,moderate
+8169,moderate
+8170,moderate
+8171,moderate
+8172,moderate
+8173,moderate
+8174,moderate
+8175,moderate
+8176,moderate
+8177,moderate
+8178,moderate
+8179,moderate
+8180,very expensive
+8181,very expensive
+8182,very expensive
+8183,very expensive
+8184,very expensive
+8185,very expensive
+8186,very expensive
+8187,very expensive
+8188,very expensive
+8189,very expensive
+8190,very expensive
+8191,very expensive
+8192,very expensive
+8193,very expensive
+8194,very expensive
+8195,very expensive
+8196,very expensive
+8197,very expensive
+8198,very expensive
+8199,very expensive
+8200,very expensive
+8201,very expensive
+8202,very expensive
+8203,moderate
+8204,moderate
+8205,moderate
+8206,very expensive
+8207,very expensive
+8208,moderate
+8209,very expensive
+8210,moderate
+8211,moderate
+8212,moderate
+8213,moderate
+8214,moderate
+8215,moderate
+8216,moderate
+8217,very expensive
+8218,moderate
+8219,moderate
+8220,very expensive
+8221,moderate
+8222,moderate
+8223,moderate
+8224,moderate
+8225,very expensive
+8226,moderate
+8227,moderate
+8228,moderate
+8229,moderate
+8230,moderate
+8231,moderate
+8232,moderate
+8233,very expensive
+8234,moderate
+8235,very expensive
+8236,moderate
+8237,very expensive
+8238,moderate
+8239,moderate
+8240,very expensive
+8241,moderate
+8242,very expensive
+8243,moderate
+8244,moderate
+8245,moderate
+8246,very expensive
+8247,moderate
+8248,moderate
+8249,very expensive
+8250,moderate
+8251,moderate
+8252,moderate
+8253,very expensive
+8254,moderate
+8255,moderate
+8256,moderate
+8257,moderate
+8258,moderate
+8259,moderate
+8260,moderate
+8261,very expensive
+8262,moderate
+8263,moderate
+8264,moderate
+8265,moderate
+8266,moderate
+8267,moderate
+8268,moderate
+8269,moderate
+8270,moderate
+8271,moderate
+8272,moderate
+8273,moderate
+8274,moderate
+8275,moderate
+8276,moderate
+8277,very expensive
+8278,moderate
+8279,moderate
+8280,moderate
+8281,moderate
+8282,moderate
+8283,moderate
+8284,moderate
+8285,moderate
+8286,moderate
+8287,moderate
+8288,moderate
+8289,moderate
+8290,moderate
+8291,very expensive
+8292,moderate
+8293,moderate
+8294,very expensive
+8295,moderate
+8296,moderate
+8297,very expensive
+8298,moderate
+8299,moderate
+8300,moderate
+8301,moderate
+8302,moderate
+8303,expensive
+8304,moderate
+8305,moderate
+8306,moderate
+8307,moderate
+8308,moderate
+8309,expensive
+8310,moderate
+8311,expensive
+8312,expensive
+8313,expensive
+8314,expensive
+8315,expensive
+8316,very expensive
+8317,very expensive
+8318,very expensive
+8319,very expensive
+8320,very expensive
+8321,very expensive
+8322,very expensive
+8323,very expensive
+8324,very expensive
+8325,very expensive
+8326,very expensive
+8327,very expensive
+8328,very expensive
+8329,moderate
+8330,very expensive
+8331,very expensive
+8332,very expensive
+8333,very expensive
+8334,very expensive
+8335,very expensive
+8336,very expensive
+8337,very expensive
+8338,very expensive
+8339,very expensive
+8340,very expensive
+8341,very expensive
+8342,moderate
+8343,moderate
+8344,moderate
+8345,moderate
+8346,moderate
+8347,moderate
+8348,moderate
+8349,moderate
+8350,moderate
+8351,moderate
+8352,moderate
+8353,moderate
+8354,moderate
+8355,moderate
+8356,moderate
+8357,moderate
+8358,moderate
+8359,moderate
+8360,moderate
+8361,moderate
+8362,moderate
+8363,moderate
+8364,moderate
+8365,moderate
+8366,moderate
+8367,moderate
+8368,moderate
+8369,moderate
+8370,moderate
+8371,moderate
+8372,moderate
+8373,very expensive
+8374,moderate
+8375,moderate
+8376,moderate
+8377,moderate
+8378,moderate
+8379,moderate
+8380,moderate
+8381,moderate
+8382,moderate
+8383,moderate
+8384,moderate
+8385,moderate
+8386,moderate
+8387,moderate
+8388,moderate
+8389,moderate
+8390,moderate
+8391,moderate
+8392,very expensive
+8393,very expensive
+8394,moderate
+8395,moderate
+8396,very expensive
+8397,very expensive
+8398,very expensive
+8399,very expensive
+8400,moderate
+8401,very expensive
+8402,very expensive
+8403,moderate
+8404,moderate
+8405,very expensive
+8406,very expensive
+8407,very expensive
+8408,very expensive
+8409,very expensive
+8410,very expensive
+8411,very expensive
+8412,very expensive
+8413,moderate
+8414,very expensive
+8415,very expensive
+8416,very expensive
+8417,very expensive
+8418,very expensive
+8419,very expensive
+8420,very expensive
+8421,very expensive
+8422,very expensive
+8423,very expensive
+8424,very expensive
+8425,very expensive
+8426,very expensive
+8427,moderate
+8428,moderate
+8429,moderate
+8430,moderate
+8431,moderate
+8432,moderate
+8433,moderate
+8434,moderate
+8435,moderate
+8436,moderate
+8437,moderate
+8438,moderate
+8439,moderate
+8440,moderate
+8441,moderate
+8442,moderate
+8443,moderate
+8444,moderate
+8445,moderate
+8446,moderate
+8447,moderate
+8448,moderate
+8449,moderate
+8450,moderate
+8451,moderate
+8452,moderate
+8453,moderate
+8454,moderate
+8455,moderate
+8456,moderate
+8457,moderate
+8458,moderate
+8459,moderate
+8460,moderate
+8461,moderate
+8462,moderate
+8463,moderate
+8464,moderate
+8465,moderate
+8466,moderate
+8467,moderate
+8468,moderate
+8469,moderate
+8470,moderate
+8471,moderate
+8472,moderate
+8473,moderate
+8474,moderate
+8475,moderate
+8476,moderate
+8477,moderate
+8478,moderate
+8479,moderate
+8480,moderate
+8481,moderate
+8482,moderate
+8483,moderate
+8484,moderate
+8485,moderate
+8486,moderate
+8487,moderate
+8488,moderate
+8489,moderate
+8490,moderate
+8491,moderate
+8492,moderate
+8493,moderate
+8494,moderate
+8495,moderate
+8496,moderate
+8497,moderate
+8498,moderate
+8499,moderate
+8500,moderate
+8501,moderate
+8502,moderate
+8503,moderate
+8504,very expensive
+8505,very expensive
+8506,very expensive
+8507,moderate
+8508,moderate
+8509,very expensive
+8510,very expensive
+8511,very expensive
+8512,moderate
+8513,very expensive
+8514,moderate
+8515,very expensive
+8516,very expensive
+8517,very expensive
+8518,moderate
+8519,moderate
+8520,very expensive
+8521,very expensive
+8522,very expensive
+8523,very expensive
+8524,very expensive
+8525,moderate
+8526,moderate
+8527,moderate
+8528,very expensive
+8529,very expensive
+8530,very expensive
+8531,moderate
+8532,very expensive
+8533,very expensive
+8534,very expensive
+8535,very expensive
+8536,moderate
+8537,moderate
+8538,moderate
+8539,moderate
+8540,very expensive
+8541,very expensive
+8542,very expensive
+8543,very expensive
+8544,very expensive
+8545,very expensive
+8546,very expensive
+8547,very expensive
+8548,very expensive
+8549,very expensive
+8550,moderate
+8551,moderate
+8552,moderate
+8553,moderate
+8554,expensive
+8555,moderate
+8556,moderate
+8557,moderate
+8558,moderate
+8559,moderate
+8560,moderate
+8561,moderate
+8562,moderate
+8563,moderate
+8564,moderate
+8565,moderate
+8566,moderate
+8567,moderate
+8568,moderate
+8569,moderate
+8570,moderate
+8571,moderate
+8572,moderate
+8573,moderate
+8574,moderate
+8575,very expensive
+8576,moderate
+8577,moderate
+8578,moderate
+8579,moderate
+8580,moderate
+8581,moderate
+8582,moderate
+8583,moderate
+8584,moderate
+8585,moderate
+8586,moderate
+8587,moderate
+8588,moderate
+8589,moderate
+8590,moderate
+8591,moderate
+8592,moderate
+8593,moderate
+8594,moderate
+8595,moderate
+8596,moderate
+8597,moderate
+8598,moderate
+8599,moderate
+8600,moderate
+8601,moderate
+8602,moderate
+8603,moderate
+8604,moderate
+8605,moderate
+8606,moderate
+8607,moderate
+8608,moderate
+8609,moderate
+8610,moderate
+8611,moderate
+8612,moderate
+8613,moderate
+8614,moderate
+8615,moderate
+8616,very expensive
+8617,moderate
+8618,moderate
+8619,very expensive
+8620,very expensive
+8621,very expensive
+8622,very expensive
+8623,very expensive
+8624,very expensive
+8625,very expensive
+8626,very expensive
+8627,very expensive
+8628,very expensive
+8629,very expensive
+8630,moderate
+8631,moderate
+8632,moderate
+8633,moderate
+8634,moderate
+8635,moderate
+8636,expensive
+8637,moderate
+8638,expensive
+8639,moderate
+8640,moderate
+8641,moderate
+8642,moderate
+8643,moderate
+8644,moderate
+8645,moderate
+8646,moderate
+8647,expensive
+8648,moderate
+8649,moderate
+8650,moderate
+8651,moderate
+8652,moderate
+8653,moderate
+8654,moderate
+8655,moderate
+8656,moderate
+8657,moderate
+8658,moderate
+8659,moderate
+8660,moderate
+8661,moderate
+8662,moderate
+8663,expensive
+8664,moderate
+8665,expensive
+8666,expensive
+8667,moderate
+8668,moderate
+8669,moderate
+8670,moderate
+8671,moderate
+8672,moderate
+8673,moderate
+8674,moderate
+8675,moderate
+8676,moderate
+8677,moderate
+8678,moderate
+8679,moderate
+8680,moderate
+8681,moderate
+8682,very expensive
+8683,very expensive
+8684,moderate
+8685,moderate
+8686,moderate
+8687,moderate
+8688,moderate
+8689,moderate
+8690,moderate
+8691,moderate
+8692,moderate
+8693,moderate
+8694,moderate
+8695,moderate
+8696,moderate
+8697,moderate
+8698,moderate
+8699,moderate
+8700,moderate
+8701,moderate
+8702,very expensive
+8703,moderate
+8704,moderate
+8705,moderate
+8706,moderate
+8707,moderate
+8708,moderate
+8709,moderate
+8710,very expensive
+8711,very expensive
+8712,very expensive
+8713,very expensive
+8714,very expensive
+8715,very expensive
+8716,very expensive
+8717,very expensive
+8718,very expensive
+8719,very expensive
+8720,very expensive
+8721,very expensive
+8722,very expensive
+8723,very expensive
+8724,very expensive
+8725,very expensive
+8726,very expensive
+8727,very expensive
+8728,very expensive
+8729,very expensive
+8730,very expensive
+8731,very expensive
+8732,very expensive
+8733,very expensive
+8734,very expensive
+8735,very expensive
+8736,very expensive
+8737,very expensive
+8738,very expensive
+8739,very expensive
+8740,very expensive
+8741,very expensive
+8742,very expensive
+8743,very expensive
+8744,very expensive
+8745,very expensive
+8746,moderate
+8747,very expensive
+8748,very expensive
+8749,very expensive
+8750,very expensive
+8751,very expensive
+8752,very expensive
+8753,very expensive
+8754,very expensive
+8755,very expensive
+8756,very expensive
+8757,very expensive
+8758,very expensive
+8759,very expensive
+8760,very expensive
+8761,very expensive
+8762,very expensive
+8763,very expensive
+8764,very expensive
+8765,very expensive
+8766,very expensive
+8767,very expensive
+8768,very expensive
+8769,very expensive
+8770,very expensive
+8771,very expensive
+8772,very expensive
+8773,very expensive
+8774,very expensive
+8775,very expensive
+8776,very expensive
+8777,very expensive
+8778,very expensive
+8779,very expensive
+8780,very expensive
+8781,very expensive
+8782,very expensive
+8783,very expensive
+8784,very expensive
+8785,very expensive
+8786,very expensive
+8787,very expensive
+8788,very expensive
+8789,very expensive
+8790,very expensive
+8791,very expensive
+8792,very expensive
+8793,very expensive
+8794,very expensive
+8795,very expensive
+8796,very expensive
+8797,very expensive
+8798,very expensive
+8799,very expensive
+8800,very expensive
+8801,very expensive
+8802,moderate
+8803,moderate
+8804,moderate
+8805,moderate
+8806,moderate
+8807,moderate
+8808,moderate
+8809,moderate
+8810,moderate
+8811,very expensive
+8812,moderate
+8813,very expensive
+8814,moderate
+8815,moderate
+8816,moderate
+8817,moderate
+8818,moderate
+8819,moderate
+8820,moderate
+8821,moderate
+8822,moderate
+8823,moderate
+8824,moderate
+8825,moderate
+8826,moderate
+8827,moderate
+8828,moderate
+8829,moderate
+8830,moderate
+8831,moderate
+8832,moderate
+8833,moderate
+8834,moderate
+8835,moderate
+8836,moderate
+8837,moderate
+8838,very expensive
+8839,moderate
+8840,very expensive
+8841,very expensive
+8842,moderate
+8843,moderate
+8844,moderate
+8845,moderate
+8846,moderate
+8847,moderate
+8848,moderate
+8849,moderate
+8850,moderate
+8851,moderate
+8852,moderate
+8853,moderate
+8854,moderate
+8855,moderate
+8856,moderate
+8857,moderate
+8858,moderate
+8859,moderate
+8860,moderate
+8861,moderate
+8862,moderate
+8863,moderate
+8864,moderate
+8865,moderate
+8866,moderate
+8867,moderate
+8868,moderate
+8869,moderate
+8870,moderate
+8871,moderate
+8872,moderate
+8873,moderate
+8874,moderate
+8875,moderate
+8876,moderate
+8877,moderate
+8878,moderate
+8879,very expensive
+8880,moderate
+8881,moderate
+8882,moderate
+8883,very expensive
+8884,very expensive
+8885,very expensive
+8886,very expensive
+8887,very expensive
+8888,very expensive
+8889,very expensive
+8890,very expensive
+8891,very expensive
+8892,very expensive
+8893,very expensive
+8894,very expensive
+8895,very expensive
+8896,very expensive
+8897,very expensive
+8898,moderate
+8899,very expensive
+8900,very expensive
+8901,very expensive
+8902,very expensive
+8903,moderate
+8904,very expensive
+8905,very expensive
+8906,very expensive
+8907,very expensive
+8908,moderate
+8909,very expensive
+8910,very expensive
+8911,very expensive
+8912,very expensive
+8913,very expensive
+8914,very expensive
+8915,moderate
+8916,very expensive
+8917,very expensive
+8918,moderate
+8919,very expensive
+8920,very expensive
+8921,very expensive
+8922,very expensive
+8923,very expensive
+8924,very expensive
+8925,moderate
+8926,very expensive
+8927,very expensive
+8928,moderate
+8929,very expensive
+8930,very expensive
+8931,very expensive
+8932,moderate
+8933,very expensive
+8934,very expensive
+8935,moderate
+8936,very expensive
+8937,very expensive
+8938,very expensive
+8939,very expensive
+8940,very expensive
+8941,moderate
+8942,very expensive
+8943,moderate
+8944,very expensive
+8945,moderate
+8946,moderate
+8947,very expensive
+8948,moderate
+8949,moderate
+8950,moderate
+8951,very expensive
+8952,very expensive
+8953,very expensive
+8954,moderate
+8955,very expensive
+8956,moderate
+8957,very expensive
+8958,moderate
+8959,moderate
+8960,very expensive
+8961,very expensive
+8962,very expensive
+8963,moderate
+8964,moderate
+8965,moderate
+8966,moderate
+8967,moderate
+8968,moderate
+8969,moderate
+8970,moderate
+8971,moderate
+8972,moderate
+8973,moderate
+8974,moderate
+8975,moderate
+8976,moderate
+8977,moderate
+8978,moderate
+8979,moderate
+8980,moderate
+8981,moderate
+8982,moderate
+8983,expensive
+8984,moderate
+8985,moderate
+8986,moderate
+8987,moderate
+8988,moderate
+8989,expensive
+8990,moderate
+8991,moderate
+8992,moderate
+8993,moderate
+8994,moderate
+8995,moderate
+8996,moderate
+8997,moderate
+8998,moderate
+8999,moderate
+9000,moderate
+9001,moderate
+9002,moderate
+9003,moderate
+9004,moderate
+9005,moderate
+9006,very expensive
+9007,moderate
+9008,moderate
+9009,moderate
+9010,moderate
+9011,moderate
+9012,moderate
+9013,moderate
+9014,moderate
+9015,moderate
+9016,moderate
+9017,moderate
+9018,very expensive
+9019,moderate
+9020,moderate
+9021,moderate
+9022,moderate
+9023,moderate
+9024,moderate
+9025,moderate
+9026,moderate
+9027,moderate
+9028,moderate
+9029,very expensive
+9030,moderate
+9031,moderate
+9032,moderate
+9033,moderate
+9034,moderate
+9035,moderate
+9036,moderate
+9037,very expensive
+9038,very expensive
+9039,moderate
+9040,moderate
+9041,moderate
+9042,moderate
+9043,moderate
+9044,moderate
+9045,moderate
+9046,moderate
+9047,moderate
+9048,moderate
+9049,moderate
+9050,moderate
+9051,moderate
+9052,moderate
+9053,moderate
+9054,very expensive
+9055,very expensive
+9056,very expensive
+9057,moderate
+9058,moderate
+9059,moderate
+9060,very expensive
+9061,moderate
+9062,moderate
+9063,moderate
+9064,very expensive
+9065,moderate
+9066,moderate
+9067,moderate
+9068,very expensive
+9069,moderate
+9070,very expensive
+9071,very expensive
+9072,very expensive
+9073,moderate
+9074,very expensive
+9075,moderate
+9076,moderate
+9077,very expensive
+9078,very expensive
+9079,very expensive
+9080,very expensive
+9081,moderate
+9082,very expensive
+9083,moderate
+9084,moderate
+9085,moderate
+9086,moderate
+9087,very expensive
+9088,very expensive
+9089,moderate
+9090,very expensive
+9091,moderate
+9092,moderate
+9093,very expensive
+9094,moderate
+9095,moderate
+9096,moderate
+9097,very expensive
+9098,moderate
+9099,moderate
+9100,very expensive
+9101,moderate
+9102,moderate
+9103,very expensive
+9104,very expensive
+9105,moderate
+9106,moderate
+9107,very expensive
+9108,very expensive
+9109,very expensive
+9110,very expensive
+9111,moderate
+9112,very expensive
+9113,very expensive
+9114,moderate
+9115,moderate
+9116,moderate
+9117,moderate
+9118,very expensive
+9119,very expensive
+9120,moderate
+9121,very expensive
+9122,very expensive
+9123,moderate
+9124,very expensive
+9125,moderate
+9126,moderate
+9127,very expensive
+9128,moderate
+9129,moderate
+9130,very expensive
+9131,very expensive
+9132,moderate
+9133,moderate
+9134,very expensive
+9135,very expensive
+9136,moderate
+9137,very expensive
+9138,moderate
+9139,very expensive
+9140,moderate
+9141,moderate
+9142,moderate
+9143,moderate
+9144,very expensive
+9145,moderate
+9146,moderate
+9147,very expensive
+9148,moderate
+9149,moderate
+9150,moderate
+9151,very expensive
+9152,very expensive
+9153,moderate
+9154,moderate
+9155,very expensive
+9156,moderate
+9157,moderate
+9158,very expensive
+9159,very expensive
+9160,moderate
+9161,moderate
+9162,moderate
+9163,very expensive
+9164,very expensive
+9165,very expensive
+9166,moderate
+9167,very expensive
+9168,very expensive
+9169,very expensive
+9170,moderate
+9171,moderate
+9172,very expensive
+9173,very expensive
+9174,very expensive
+9175,very expensive
+9176,very expensive
+9177,moderate
+9178,very expensive
+9179,very expensive
+9180,moderate
+9181,very expensive
+9182,moderate
+9183,moderate
+9184,very expensive
+9185,very expensive
+9186,very expensive
+9187,very expensive
+9188,very expensive
+9189,very expensive
+9190,very expensive
+9191,moderate
+9192,moderate
+9193,moderate
+9194,very expensive
+9195,moderate
+9196,moderate
+9197,moderate
+9198,moderate
+9199,moderate
+9200,moderate
+9201,moderate
+9202,moderate
+9203,very expensive
+9204,moderate
+9205,very expensive
+9206,moderate
+9207,moderate
+9208,moderate
+9209,very expensive
+9210,moderate
+9211,very expensive
+9212,moderate
+9213,very expensive
+9214,moderate
+9215,moderate
+9216,moderate
+9217,moderate
+9218,moderate
+9219,very expensive
+9220,very expensive
+9221,very expensive
+9222,very expensive
+9223,moderate
+9224,very expensive
+9225,very expensive
+9226,very expensive
+9227,very expensive
+9228,moderate
+9229,moderate
+9230,moderate
+9231,moderate
+9232,moderate
+9233,moderate
+9234,moderate
+9235,moderate
+9236,very expensive
+9237,moderate
+9238,moderate
+9239,moderate
+9240,moderate
+9241,moderate
+9242,moderate
+9243,very expensive
+9244,moderate
+9245,moderate
+9246,moderate
+9247,moderate
+9248,moderate
+9249,very expensive
+9250,very expensive
+9251,moderate
+9252,moderate
+9253,very expensive
+9254,very expensive
+9255,very expensive
+9256,very expensive
+9257,very expensive
+9258,very expensive
+9259,moderate
+9260,very expensive
+9261,very expensive
+9262,moderate
+9263,moderate
+9264,very expensive
+9265,moderate
+9266,very expensive
+9267,very expensive
+9268,moderate
+9269,very expensive
+9270,moderate
+9271,very expensive
+9272,very expensive
+9273,moderate
+9274,very expensive
+9275,very expensive
+9276,very expensive
+9277,very expensive
+9278,very expensive
+9279,very expensive
+9280,very expensive
+9281,very expensive
+9282,very expensive
+9283,very expensive
+9284,very expensive
+9285,very expensive
+9286,very expensive
+9287,very expensive
+9288,very expensive
+9289,very expensive
+9290,very expensive
+9291,moderate
+9292,very expensive
+9293,moderate
+9294,very expensive
+9295,very expensive
+9296,moderate
+9297,moderate
+9298,moderate
+9299,very expensive
+9300,moderate
+9301,very expensive
+9302,moderate
+9303,moderate
+9304,very expensive
+9305,very expensive
+9306,very expensive
+9307,very expensive
+9308,moderate
+9309,very expensive
+9310,very expensive
+9311,very expensive
+9312,very expensive
+9313,very expensive
+9314,very expensive
+9315,very expensive
+9316,moderate
+9317,very expensive
+9318,very expensive
+9319,moderate
+9320,moderate
+9321,very expensive
+9322,moderate
+9323,very expensive
+9324,moderate
+9325,very expensive
+9326,very expensive
+9327,very expensive
+9328,very expensive
+9329,very expensive
+9330,very expensive
+9331,moderate
+9332,moderate
+9333,moderate
+9334,moderate
+9335,moderate
+9336,moderate
+9337,moderate
+9338,moderate
+9339,moderate
+9340,moderate
+9341,moderate
+9342,moderate
+9343,moderate
+9344,very expensive
+9345,moderate
+9346,very expensive
+9347,moderate
+9348,moderate
+9349,very expensive
+9350,moderate
+9351,moderate
+9352,moderate
+9353,moderate
+9354,very expensive
+9355,very expensive
+9356,moderate
+9357,very expensive
+9358,moderate
+9359,moderate
+9360,very expensive
+9361,moderate
+9362,moderate
+9363,moderate
+9364,moderate
+9365,very expensive
+9366,moderate
+9367,moderate
+9368,moderate
+9369,moderate
+9370,moderate
+9371,very expensive
+9372,very expensive
+9373,moderate
+9374,moderate
+9375,moderate
+9376,moderate
+9377,moderate
+9378,moderate
+9379,moderate
+9380,moderate
+9381,moderate
+9382,moderate
+9383,moderate
+9384,moderate
+9385,moderate
+9386,moderate
+9387,moderate
+9388,moderate
+9389,very expensive
+9390,moderate
+9391,moderate
+9392,moderate
+9393,moderate
+9394,moderate
+9395,moderate
+9396,moderate
+9397,moderate
+9398,moderate
+9399,moderate
+9400,moderate
+9401,moderate
+9402,moderate
+9403,moderate
+9404,moderate
+9405,moderate
+9406,moderate
+9407,moderate
+9408,moderate
+9409,moderate
+9410,moderate
+9411,moderate
+9412,moderate
+9413,moderate
+9414,moderate
+9415,moderate
+9416,moderate
+9417,moderate
+9418,moderate
+9419,moderate
+9420,moderate
+9421,moderate
+9422,moderate
+9423,moderate
+9424,moderate
+9425,moderate
+9426,very expensive
+9427,moderate
+9428,moderate
+9429,moderate
+9430,moderate
+9431,moderate
+9432,moderate
+9433,moderate
+9434,moderate
+9435,moderate
+9436,moderate
+9437,moderate
+9438,moderate
+9439,moderate
+9440,moderate
+9441,very expensive
+9442,moderate
+9443,moderate
+9444,moderate
+9445,moderate
+9446,moderate
+9447,moderate
+9448,moderate
+9449,moderate
+9450,moderate
+9451,moderate
+9452,moderate
+9453,moderate
+9454,moderate
+9455,moderate
+9456,moderate
+9457,moderate
+9458,moderate
+9459,moderate
+9460,moderate
+9461,moderate
+9462,moderate
+9463,moderate
+9464,moderate
+9465,moderate
+9466,moderate
+9467,moderate
+9468,moderate
+9469,moderate
+9470,moderate
+9471,moderate
+9472,moderate
+9473,moderate
+9474,moderate
+9475,moderate
+9476,moderate
+9477,moderate
+9478,moderate
+9479,moderate
+9480,moderate
+9481,moderate
+9482,moderate
+9483,moderate
+9484,moderate
+9485,moderate
+9486,moderate
+9487,moderate
+9488,moderate
+9489,moderate
+9490,moderate
+9491,moderate
+9492,moderate
+9493,very expensive
+9494,very expensive
+9495,very expensive
+9496,very expensive
+9497,very expensive
+9498,very expensive
+9499,very expensive
+9500,very expensive
+9501,moderate
+9502,very expensive
+9503,moderate
+9504,moderate
+9505,moderate
+9506,moderate
+9507,very expensive
+9508,moderate
+9509,very expensive
+9510,moderate
+9511,moderate
+9512,moderate
+9513,moderate
+9514,moderate
+9515,very expensive
+9516,moderate
+9517,moderate
+9518,very expensive
+9519,moderate
+9520,very expensive
+9521,very expensive
+9522,very expensive
+9523,very expensive
+9524,very expensive
+9525,very expensive
+9526,very expensive
+9527,very expensive
+9528,very expensive
+9529,very expensive
+9530,very expensive
+9531,very expensive
+9532,very expensive
+9533,very expensive
+9534,very expensive
+9535,very expensive
+9536,very expensive
+9537,very expensive
+9538,very expensive
+9539,very expensive
+9540,expensive
+9541,expensive
+9542,moderate
+9543,moderate
+9544,expensive
+9545,expensive
+9546,expensive
+9547,expensive
+9548,moderate
+9549,moderate
+9550,moderate
+9551,moderate
+9552,moderate
+9553,moderate
+9554,moderate
+9555,moderate
+9556,moderate
+9557,moderate
+9558,moderate
+9559,moderate
+9560,moderate
+9561,moderate
+9562,moderate
+9563,moderate
+9564,moderate
+9565,moderate
+9566,moderate
+9567,moderate
+9568,moderate
+9569,moderate
+9570,moderate
+9571,moderate
+9572,moderate
+9573,moderate
+9574,moderate
+9575,moderate
+9576,moderate
+9577,moderate
+9578,moderate
+9579,moderate
+9580,moderate
+9581,moderate
+9582,moderate
+9583,moderate
+9584,moderate
+9585,moderate
+9586,moderate
+9587,moderate
+9588,moderate
+9589,moderate
+9590,moderate
+9591,moderate
+9592,moderate
+9593,moderate
+9594,moderate
+9595,moderate
+9596,moderate
+9597,moderate
+9598,moderate
+9599,moderate
+9600,moderate
+9601,very expensive
+9602,very expensive
+9603,moderate
+9604,moderate
+9605,moderate
+9606,moderate
+9607,moderate
+9608,moderate
+9609,moderate
+9610,moderate
+9611,moderate
+9612,moderate
+9613,moderate
+9614,moderate
+9615,moderate
+9616,moderate
+9617,moderate
+9618,moderate
+9619,moderate
+9620,moderate
+9621,moderate
+9622,moderate
+9623,moderate
+9624,moderate
+9625,moderate
+9626,moderate
+9627,moderate
+9628,moderate
+9629,expensive
+9630,moderate
+9631,moderate
+9632,moderate
+9633,moderate
+9634,moderate
+9635,moderate
+9636,moderate
+9637,moderate
+9638,moderate
+9639,moderate
+9640,moderate
+9641,moderate
+9642,moderate
+9643,moderate
+9644,moderate
+9645,very expensive
+9646,very expensive
+9647,moderate
+9648,very expensive
+9649,very expensive
+9650,very expensive
+9651,moderate
+9652,moderate
+9653,moderate
+9654,very expensive
+9655,moderate
+9656,very expensive
+9657,moderate
+9658,very expensive
+9659,very expensive
+9660,moderate
+9661,moderate
+9662,very expensive
+9663,very expensive
+9664,very expensive
+9665,moderate
+9666,very expensive
+9667,very expensive
+9668,very expensive
+9669,moderate
+9670,very expensive
+9671,very expensive
+9672,very expensive
+9673,moderate
+9674,very expensive
+9675,moderate
+9676,very expensive
+9677,moderate
+9678,moderate
+9679,moderate
+9680,moderate
+9681,moderate
+9682,very expensive
+9683,moderate
+9684,very expensive
+9685,very expensive
+9686,very expensive
+9687,very expensive
+9688,moderate
+9689,moderate
+9690,very expensive
+9691,very expensive
+9692,moderate
+9693,moderate
+9694,moderate
+9695,moderate
+9696,moderate
+9697,moderate
+9698,moderate
+9699,moderate
+9700,moderate
+9701,moderate
+9702,moderate
+9703,moderate
+9704,moderate
+9705,moderate
+9706,moderate
+9707,moderate
+9708,moderate
+9709,moderate
+9710,moderate
+9711,very expensive
+9712,moderate
+9713,very expensive
+9714,moderate
+9715,moderate
+9716,very expensive
+9717,moderate
+9718,moderate
+9719,moderate
+9720,moderate
+9721,moderate
+9722,moderate
+9723,moderate
+9724,moderate
+9725,moderate
+9726,moderate
+9727,moderate
+9728,moderate
+9729,moderate
+9730,moderate
+9731,moderate
+9732,very expensive
+9733,moderate
+9734,moderate
+9735,moderate
+9736,moderate
+9737,moderate
+9738,moderate
+9739,moderate
+9740,moderate
+9741,moderate
+9742,very expensive
+9743,very expensive
+9744,very expensive
+9745,very expensive
+9746,very expensive
+9747,very expensive
+9748,moderate
+9749,very expensive
+9750,moderate
+9751,moderate
+9752,very expensive
+9753,moderate
+9754,moderate
+9755,moderate
+9756,moderate
+9757,moderate
+9758,moderate
+9759,very expensive
+9760,moderate
+9761,very expensive
+9762,very expensive
+9763,very expensive
+9764,moderate
+9765,moderate
+9766,very expensive
+9767,very expensive
+9768,moderate
+9769,moderate
+9770,moderate
+9771,moderate
+9772,moderate
+9773,moderate
+9774,moderate
+9775,moderate
+9776,moderate
+9777,moderate
+9778,moderate
+9779,moderate
+9780,moderate
+9781,moderate
+9782,moderate
+9783,moderate
+9784,moderate
+9785,moderate
+9786,moderate
+9787,moderate
+9788,moderate
+9789,moderate
+9790,moderate
+9791,moderate
+9792,moderate
+9793,moderate
+9794,moderate
+9795,moderate
+9796,moderate
+9797,moderate
+9798,moderate
+9799,moderate
+9800,very expensive
+9801,moderate
+9802,moderate
+9803,moderate
+9804,moderate
+9805,moderate
+9806,moderate
+9807,moderate
+9808,moderate
+9809,moderate
+9810,moderate
+9811,very expensive
+9812,moderate
+9813,moderate
+9814,very expensive
+9815,moderate
+9816,moderate
+9817,moderate
+9818,moderate
+9819,moderate
+9820,moderate
+9821,moderate
+9822,moderate
+9823,moderate
+9824,moderate
+9825,moderate
+9826,moderate
+9827,moderate
+9828,moderate
+9829,moderate
+9830,moderate
+9831,moderate
+9832,moderate
+9833,moderate
+9834,moderate
+9835,moderate
+9836,moderate
+9837,moderate
+9838,moderate
+9839,moderate
+9840,moderate
+9841,moderate
+9842,moderate
+9843,very expensive
+9844,moderate
+9845,moderate
+9846,moderate
+9847,very expensive
+9848,moderate
+9849,very expensive
+9850,moderate
+9851,very expensive
+9852,very expensive
+9853,moderate
+9854,moderate
+9855,moderate
+9856,very expensive
+9857,moderate
+9858,moderate
+9859,very expensive
+9860,very expensive
+9861,moderate
+9862,moderate
+9863,very expensive
+9864,moderate
+9865,moderate
+9866,moderate
+9867,moderate
+9868,very expensive
+9869,moderate
+9870,moderate
+9871,moderate
+9872,moderate
+9873,moderate
+9874,very expensive
+9875,very expensive
+9876,moderate
+9877,moderate
+9878,moderate
+9879,very expensive
+9880,very expensive
+9881,moderate
+9882,very expensive
+9883,very expensive
+9884,very expensive
+9885,very expensive
+9886,moderate
+9887,moderate
+9888,moderate
+9889,moderate
+9890,expensive
+9891,moderate
+9892,very expensive
+9893,very expensive
+9894,very expensive
+9895,moderate
+9896,very expensive
+9897,very expensive
+9898,moderate
+9899,very expensive
+9900,moderate
+9901,moderate
+9902,moderate
+9903,very expensive
+9904,moderate
+9905,very expensive
+9906,very expensive
+9907,very expensive
+9908,moderate
+9909,expensive
+9910,moderate
+9911,very expensive
+9912,very expensive
+9913,moderate
+9914,very expensive
+9915,very expensive
+9916,moderate
+9917,very expensive
+9918,very expensive
+9919,very expensive
+9920,very expensive
+9921,very expensive
+9922,expensive
+9923,very expensive
+9924,very expensive
+9925,very expensive
+9926,very expensive
+9927,moderate
+9928,very expensive
+9929,very expensive
+9930,moderate
+9931,very expensive
+9932,moderate
+9933,very expensive
+9934,moderate
+9935,very expensive
+9936,very expensive
+9937,very expensive
+9938,very expensive
+9939,moderate
+9940,very expensive
+9941,very expensive
+9942,very expensive
+9943,very expensive
+9944,moderate
+9945,expensive
+9946,moderate
+9947,very expensive
+9948,moderate
+9949,very expensive
+9950,very expensive
+9951,moderate
+9952,moderate
+9953,very expensive
+9954,moderate
+9955,moderate
+9956,moderate
+9957,very expensive
+9958,very expensive
+9959,very expensive
+9960,very expensive
+9961,very expensive
+9962,very expensive
+9963,very expensive
+9964,very expensive
+9965,very expensive
+9966,very expensive
+9967,very expensive
+9968,moderate
+9969,very expensive
+9970,very expensive
+9971,very expensive
+9972,very expensive
+9973,very expensive
+9974,very expensive
+9975,very expensive
+9976,very expensive
+9977,very expensive
+9978,very expensive
+9979,very expensive
+9980,very expensive
+9981,very expensive
+9982,very expensive
+9983,very expensive
+9984,very expensive
+9985,very expensive
+9986,very expensive
+9987,very expensive
+9988,very expensive
+9989,very expensive
+9990,very expensive
+9991,very expensive
+9992,very expensive
+9993,very expensive
+9994,very expensive
+9995,very expensive
+9996,very expensive
+9997,very expensive
+9998,very expensive
+9999,very expensive
+10000,very expensive
+10001,very expensive
+10002,very expensive
+10003,very expensive
+10004,very expensive
+10005,very expensive
+10006,very expensive
+10007,very expensive
+10008,very expensive
+10009,very expensive
+10010,very expensive
+10011,very expensive
+10012,very expensive
+10013,very expensive
+10014,very expensive
+10015,very expensive
+10016,very expensive
+10017,very expensive
+10018,very expensive
+10019,very expensive
+10020,very expensive
+10021,very expensive
+10022,very expensive
+10023,very expensive
+10024,very expensive
+10025,very expensive
+10026,very expensive
+10027,very expensive
+10028,very expensive
+10029,very expensive
+10030,very expensive
+10031,very expensive
+10032,very expensive
+10033,very expensive
+10034,very expensive
+10035,very expensive
+10036,very expensive
+10037,very expensive
+10038,very expensive
+10039,very expensive
+10040,very expensive
+10041,very expensive
+10042,very expensive
+10043,very expensive
+10044,very expensive
+10045,very expensive
+10046,very expensive
+10047,very expensive
+10048,very expensive
+10049,very expensive
+10050,very expensive
+10051,very expensive
+10052,very expensive
+10053,very expensive
+10054,very expensive
+10055,very expensive
+10056,very expensive
+10057,very expensive
+10058,very expensive
+10059,very expensive
+10060,very expensive
+10061,very expensive
+10062,very expensive
+10063,very expensive
+10064,very expensive
+10065,moderate
+10066,very expensive
+10067,very expensive
+10068,very expensive
+10069,very expensive
+10070,very expensive
+10071,very expensive
+10072,very expensive
+10073,very expensive
+10074,very expensive
+10075,moderate
+10076,very expensive
+10077,very expensive
+10078,very expensive
+10079,very expensive
+10080,very expensive
+10081,very expensive
+10082,very expensive
+10083,very expensive
+10084,very expensive
+10085,very expensive
+10086,very expensive
+10087,very expensive
+10088,very expensive
+10089,very expensive
+10090,very expensive
+10091,moderate
+10092,very expensive
+10093,very expensive
+10094,very expensive
+10095,very expensive
+10096,very expensive
+10097,very expensive
+10098,very expensive
+10099,very expensive
+10100,very expensive
+10101,very expensive
+10102,very expensive
+10103,very expensive
+10104,moderate
+10105,moderate
+10106,moderate
+10107,moderate
+10108,moderate
+10109,moderate
+10110,very expensive
+10111,very expensive
+10112,very expensive
+10113,very expensive
+10114,very expensive
+10115,very expensive
+10116,very expensive
+10117,moderate
+10118,very expensive
+10119,very expensive
+10120,very expensive
+10121,very expensive
+10122,very expensive
+10123,very expensive
+10124,very expensive
+10125,moderate
+10126,moderate
+10127,very expensive
+10128,moderate
+10129,moderate
+10130,moderate
+10131,moderate
+10132,moderate
+10133,moderate
+10134,moderate
+10135,moderate
+10136,moderate
+10137,moderate
+10138,very expensive
+10139,very expensive
+10140,very expensive
+10141,very expensive
+10142,very expensive
+10143,moderate
+10144,moderate
+10145,moderate
+10146,moderate
+10147,very expensive
+10148,very expensive
+10149,very expensive
+10150,very expensive
+10151,very expensive
+10152,very expensive
+10153,very expensive
+10154,very expensive
+10155,very expensive
+10156,very expensive
+10157,expensive
+10158,expensive
+10159,very expensive
+10160,very expensive
+10161,very expensive
+10162,very expensive
+10163,very expensive
+10164,moderate
+10165,moderate
+10166,moderate
+10167,moderate
+10168,moderate
+10169,moderate
+10170,moderate
+10171,moderate
+10172,moderate
+10173,moderate
+10174,moderate
+10175,moderate
+10176,moderate
+10177,moderate
+10178,moderate
+10179,moderate
+10180,moderate
+10181,moderate
+10182,moderate
+10183,moderate
+10184,moderate
+10185,moderate
+10186,moderate
+10187,moderate
+10188,moderate
+10189,moderate
+10190,very expensive
+10191,very expensive
+10192,moderate
+10193,very expensive
+10194,moderate
+10195,moderate
+10196,moderate
+10197,moderate
+10198,moderate
+10199,moderate
+10200,moderate
+10201,moderate
+10202,very expensive
+10203,moderate
+10204,moderate
+10205,very expensive
+10206,moderate
+10207,moderate
+10208,moderate
+10209,very expensive
+10210,moderate
+10211,very expensive
+10212,moderate
+10213,moderate
+10214,moderate
+10215,moderate
+10216,very expensive
+10217,moderate
+10218,moderate
+10219,moderate
+10220,moderate
+10221,moderate
+10222,moderate
+10223,very expensive
+10224,very expensive
+10225,moderate
+10226,moderate
+10227,moderate
+10228,moderate
+10229,very expensive
+10230,moderate
+10231,moderate
+10232,very expensive
+10233,moderate
+10234,moderate
+10235,very expensive
+10236,moderate
+10237,moderate
+10238,moderate
+10239,very expensive
+10240,moderate
+10241,moderate
+10242,very expensive
+10243,very expensive
+10244,moderate
+10245,very expensive
+10246,very expensive
+10247,moderate
+10248,moderate
+10249,moderate
+10250,moderate
+10251,very expensive
+10252,moderate
+10253,very expensive
+10254,moderate
+10255,moderate
+10256,moderate
+10257,very expensive
+10258,very expensive
+10259,moderate
+10260,moderate
+10261,moderate
+10262,moderate
+10263,very expensive
+10264,moderate
+10265,very expensive
+10266,very expensive
+10267,very expensive
+10268,moderate
+10269,very expensive
+10270,very expensive
+10271,moderate
+10272,moderate
+10273,moderate
+10274,moderate
+10275,very expensive
+10276,moderate
+10277,moderate
+10278,moderate
+10279,moderate
+10280,moderate
+10281,very expensive
+10282,moderate
+10283,moderate
+10284,moderate
+10285,very expensive
+10286,very expensive
+10287,very expensive
+10288,moderate
+10289,moderate
+10290,moderate
+10291,moderate
+10292,very expensive
+10293,very expensive
+10294,moderate
+10295,very expensive
+10296,moderate
+10297,moderate
+10298,very expensive
+10299,moderate
+10300,very expensive
+10301,moderate
+10302,very expensive
+10303,moderate
+10304,moderate
+10305,moderate
+10306,moderate
+10307,moderate
+10308,very expensive
+10309,moderate
+10310,very expensive
+10311,moderate
+10312,moderate
+10313,moderate
+10314,moderate
+10315,very expensive
+10316,moderate
+10317,very expensive
+10318,very expensive
+10319,very expensive
+10320,moderate
+10321,moderate
+10322,moderate
+10323,moderate
+10324,moderate
+10325,moderate
+10326,moderate
+10327,moderate
+10328,moderate
+10329,very expensive
+10330,very expensive
+10331,moderate
+10332,moderate
+10333,very expensive
+10334,moderate
+10335,moderate
+10336,very expensive
+10337,moderate
+10338,moderate
+10339,moderate
+10340,moderate
+10341,moderate
+10342,very expensive
+10343,moderate
+10344,very expensive
+10345,very expensive
+10346,moderate
+10347,moderate
+10348,very expensive
+10349,very expensive
+10350,very expensive
+10351,moderate
+10352,moderate
+10353,moderate
+10354,moderate
+10355,moderate
+10356,very expensive
+10357,moderate
+10358,very expensive
+10359,moderate
+10360,moderate
+10361,very expensive
+10362,moderate
+10363,moderate
+10364,very expensive
+10365,moderate
+10366,moderate
+10367,moderate
+10368,very expensive
+10369,very expensive
+10370,moderate
+10371,very expensive
+10372,very expensive
+10373,very expensive
+10374,moderate
+10375,very expensive
+10376,moderate
+10377,moderate
+10378,very expensive
+10379,very expensive
+10380,very expensive
+10381,very expensive
+10382,very expensive
+10383,moderate
+10384,very expensive
+10385,very expensive
+10386,very expensive
+10387,very expensive
+10388,very expensive
+10389,very expensive
+10390,very expensive
+10391,moderate
+10392,very expensive
+10393,very expensive
+10394,very expensive
+10395,very expensive
+10396,very expensive
+10397,moderate
+10398,very expensive
+10399,very expensive
+10400,very expensive
+10401,very expensive
+10402,very expensive
+10403,moderate
+10404,moderate
+10405,very expensive
+10406,moderate
+10407,moderate
+10408,very expensive
+10409,moderate
+10410,very expensive
+10411,moderate
+10412,very expensive
+10413,moderate
+10414,moderate
+10415,moderate
+10416,moderate
+10417,moderate
+10418,moderate
+10419,moderate
+10420,moderate
+10421,moderate
+10422,moderate
+10423,moderate
+10424,moderate
+10425,moderate
+10426,moderate
+10427,moderate
+10428,moderate
+10429,moderate
+10430,moderate
+10431,moderate
+10432,moderate
+10433,moderate
+10434,very expensive
+10435,very expensive
+10436,very expensive
+10437,very expensive
+10438,very expensive
+10439,very expensive
+10440,very expensive
+10441,very expensive
+10442,very expensive
+10443,very expensive
+10444,very expensive
+10445,very expensive
+10446,very expensive
+10447,very expensive
+10448,very expensive
+10449,very expensive
+10450,very expensive
+10451,very expensive
+10452,very expensive
+10453,very expensive
+10454,moderate
+10455,very expensive
+10456,moderate
+10457,very expensive
+10458,very expensive
+10459,very expensive
+10460,very expensive
+10461,very expensive
+10462,very expensive
+10463,very expensive
+10464,very expensive
+10465,very expensive
+10466,very expensive
+10467,very expensive
+10468,very expensive
+10469,very expensive
+10470,very expensive
+10471,very expensive
+10472,moderate
+10473,very expensive
+10474,very expensive
+10475,very expensive
+10476,very expensive
+10477,very expensive
+10478,very expensive
+10479,very expensive
+10480,very expensive
+10481,very expensive
+10482,very expensive
+10483,very expensive
+10484,very expensive
+10485,very expensive
+10486,very expensive
+10487,very expensive
+10488,very expensive
+10489,very expensive
+10490,moderate
+10491,very expensive
+10492,very expensive
+10493,very expensive
+10494,very expensive
+10495,very expensive
+10496,very expensive
+10497,very expensive
+10498,very expensive
+10499,very expensive
+10500,moderate
+10501,moderate
+10502,moderate
+10503,moderate
+10504,moderate
+10505,very expensive
+10506,very expensive
+10507,very expensive
+10508,very expensive
+10509,moderate
+10510,very expensive
+10511,very expensive
+10512,very expensive
+10513,very expensive
+10514,very expensive
+10515,very expensive
+10516,very expensive
+10517,very expensive
+10518,very expensive
+10519,very expensive
+10520,very expensive
+10521,very expensive
+10522,very expensive
+10523,very expensive
+10524,very expensive
+10525,very expensive
+10526,very expensive
+10527,very expensive
+10528,very expensive
+10529,very expensive
+10530,very expensive
+10531,very expensive
+10532,very expensive
+10533,very expensive
+10534,very expensive
+10535,very expensive
+10536,very expensive
+10537,very expensive
+10538,very expensive
+10539,very expensive
+10540,expensive
+10541,moderate
+10542,very expensive
+10543,very expensive
+10544,very expensive
+10545,moderate
+10546,moderate
+10547,moderate
+10548,moderate
+10549,moderate
+10550,moderate
+10551,moderate
+10552,moderate
+10553,moderate
+10554,moderate
+10555,moderate
+10556,moderate
+10557,moderate
+10558,moderate
+10559,moderate
+10560,moderate
+10561,moderate
+10562,moderate
+10563,moderate
+10564,moderate
+10565,moderate
+10566,moderate
+10567,moderate
+10568,moderate
+10569,moderate
+10570,moderate
+10571,moderate
+10572,moderate
+10573,moderate
+10574,moderate
+10575,moderate
+10576,moderate
+10577,moderate
+10578,moderate
+10579,moderate
+10580,moderate
+10581,moderate
+10582,moderate
+10583,moderate
+10584,moderate
+10585,moderate
+10586,moderate
+10587,moderate
+10588,moderate
+10589,moderate
+10590,moderate
+10591,moderate
+10592,moderate
+10593,moderate
+10594,moderate
+10595,moderate
+10596,moderate
+10597,moderate
+10598,moderate
+10599,moderate
+10600,moderate
+10601,moderate
+10602,moderate
+10603,moderate
+10604,moderate
+10605,moderate
+10606,moderate
+10607,moderate
+10608,moderate
+10609,moderate
+10610,moderate
+10611,very expensive
+10612,very expensive
+10613,moderate
+10614,moderate
+10615,very expensive
+10616,moderate
+10617,moderate
+10618,moderate
+10619,moderate
+10620,moderate
+10621,moderate
+10622,moderate
+10623,very expensive
+10624,moderate
+10625,very expensive
+10626,very expensive
+10627,moderate
+10628,moderate
+10629,very expensive
+10630,moderate
+10631,very expensive
+10632,very expensive
+10633,moderate
+10634,moderate
+10635,moderate
+10636,moderate
+10637,moderate
+10638,very expensive
+10639,very expensive
+10640,very expensive
+10641,very expensive
+10642,very expensive
+10643,very expensive
+10644,very expensive
+10645,very expensive
+10646,very expensive
+10647,very expensive
+10648,very expensive
+10649,very expensive
+10650,very expensive
+10651,very expensive
+10652,very expensive
+10653,very expensive
+10654,very expensive
+10655,very expensive
+10656,moderate
+10657,very expensive
+10658,very expensive
+10659,very expensive
+10660,very expensive
+10661,very expensive
+10662,very expensive
+10663,very expensive
+10664,very expensive
+10665,very expensive
+10666,very expensive
+10667,very expensive
+10668,very expensive
+10669,very expensive
+10670,very expensive
+10671,very expensive
+10672,very expensive
+10673,very expensive
+10674,very expensive
+10675,very expensive
+10676,very expensive
+10677,very expensive
+10678,very expensive
+10679,very expensive
+10680,very expensive
+10681,very expensive
+10682,moderate
+10683,very expensive
+10684,very expensive
+10685,very expensive
+10686,very expensive
+10687,very expensive
+10688,moderate
+10689,very expensive
+10690,very expensive
+10691,very expensive
+10692,very expensive
+10693,very expensive
+10694,very expensive
+10695,very expensive
+10696,very expensive
+10697,very expensive
+10698,moderate
+10699,very expensive
+10700,very expensive
+10701,moderate
+10702,very expensive
+10703,very expensive
+10704,very expensive
+10705,very expensive
+10706,very expensive
+10707,very expensive
+10708,very expensive
+10709,moderate
+10710,very expensive
+10711,very expensive
+10712,very expensive
+10713,very expensive
+10714,very expensive
+10715,very expensive
+10716,very expensive
+10717,moderate
+10718,very expensive
+10719,very expensive
+10720,very expensive
+10721,very expensive
+10722,very expensive
+10723,very expensive
+10724,very expensive
+10725,very expensive
+10726,very expensive
+10727,very expensive
+10728,very expensive
+10729,very expensive
+10730,very expensive
+10731,very expensive
+10732,very expensive
+10733,very expensive
+10734,very expensive
+10735,very expensive
+10736,very expensive
+10737,very expensive
+10738,very expensive
+10739,very expensive
+10740,very expensive
+10741,very expensive
+10742,moderate
+10743,moderate
+10744,very expensive
+10745,very expensive
+10746,moderate
+10747,very expensive
+10748,moderate
+10749,very expensive
+10750,very expensive
+10751,very expensive
+10752,very expensive
+10753,very expensive
+10754,moderate
+10755,very expensive
+10756,very expensive
+10757,very expensive
+10758,very expensive
+10759,very expensive
+10760,very expensive
+10761,very expensive
+10762,very expensive
+10763,moderate
+10764,very expensive
+10765,very expensive
+10766,moderate
+10767,moderate
+10768,very expensive
+10769,very expensive
+10770,moderate
+10771,very expensive
+10772,moderate
+10773,moderate
+10774,very expensive
+10775,very expensive
+10776,very expensive
+10777,very expensive
+10778,very expensive
+10779,moderate
+10780,very expensive
+10781,moderate
+10782,very expensive
+10783,moderate
+10784,moderate
+10785,very expensive
+10786,moderate
+10787,moderate
+10788,very expensive
+10789,very expensive
+10790,moderate
+10791,very expensive
+10792,moderate
+10793,very expensive
+10794,very expensive
+10795,very expensive
+10796,very expensive
+10797,very expensive
+10798,moderate
+10799,moderate
+10800,very expensive
+10801,very expensive
+10802,very expensive
+10803,very expensive
+10804,moderate
+10805,very expensive
+10806,very expensive
+10807,moderate
+10808,very expensive
+10809,moderate
+10810,very expensive
+10811,very expensive
+10812,very expensive
+10813,very expensive
+10814,moderate
+10815,very expensive
+10816,moderate
+10817,moderate
+10818,very expensive
+10819,moderate
+10820,very expensive
+10821,very expensive
+10822,moderate
+10823,very expensive
+10824,very expensive
+10825,very expensive
+10826,very expensive
+10827,moderate
+10828,very expensive
+10829,moderate
+10830,moderate
+10831,very expensive
+10832,very expensive
+10833,very expensive
+10834,very expensive
+10835,very expensive
+10836,very expensive
+10837,moderate
+10838,very expensive
+10839,moderate
+10840,very expensive
+10841,very expensive
+10842,very expensive
+10843,moderate
+10844,moderate
+10845,very expensive
+10846,very expensive
+10847,very expensive
+10848,very expensive
+10849,very expensive
+10850,very expensive
+10851,moderate
+10852,moderate
+10853,moderate
+10854,moderate
+10855,moderate
+10856,moderate
+10857,moderate
+10858,moderate
+10859,moderate
+10860,moderate
+10861,moderate
+10862,moderate
+10863,moderate
+10864,very expensive
+10865,very expensive
+10866,moderate
+10867,moderate
+10868,moderate
+10869,moderate
+10870,moderate
+10871,moderate
+10872,moderate
+10873,moderate
+10874,moderate
+10875,moderate
+10876,moderate
+10877,moderate
+10878,moderate
+10879,moderate
+10880,moderate
+10881,moderate
+10882,moderate
+10883,moderate
+10884,moderate
+10885,moderate
+10886,moderate
+10887,moderate
+10888,very expensive
+10889,very expensive
+10890,moderate
+10891,moderate
+10892,very expensive
+10893,moderate
+10894,moderate
+10895,moderate
+10896,moderate
+10897,moderate
+10898,moderate
+10899,moderate
+10900,moderate
+10901,moderate
+10902,very expensive
+10903,very expensive
+10904,moderate
+10905,moderate
+10906,moderate
+10907,very expensive
+10908,moderate
+10909,moderate
+10910,very expensive
+10911,very expensive
+10912,moderate
+10913,moderate
+10914,very expensive
+10915,very expensive
+10916,moderate
+10917,moderate
+10918,moderate
+10919,very expensive
+10920,moderate
+10921,very expensive
+10922,moderate
+10923,very expensive
+10924,very expensive
+10925,moderate
+10926,very expensive
+10927,very expensive
+10928,very expensive
+10929,moderate
+10930,very expensive
+10931,moderate
+10932,very expensive
+10933,moderate
+10934,moderate
+10935,moderate
+10936,very expensive
+10937,moderate
+10938,moderate
+10939,moderate
+10940,moderate
+10941,moderate
+10942,moderate
+10943,moderate
+10944,moderate
+10945,moderate
+10946,moderate
+10947,moderate
+10948,moderate
+10949,moderate
+10950,moderate
+10951,very expensive
+10952,very expensive
+10953,very expensive
+10954,very expensive
+10955,very expensive
+10956,very expensive
+10957,very expensive
+10958,very expensive
+10959,very expensive
+10960,very expensive
+10961,very expensive
+10962,very expensive
+10963,very expensive
+10964,very expensive
+10965,very expensive
+10966,very expensive
+10967,very expensive
+10968,very expensive
+10969,moderate
+10970,very expensive
+10971,very expensive
+10972,moderate
+10973,moderate
+10974,very expensive
+10975,moderate
+10976,moderate
+10977,moderate
+10978,moderate
+10979,moderate
+10980,moderate
+10981,moderate
+10982,moderate
+10983,moderate
+10984,moderate
+10985,moderate
+10986,moderate
+10987,moderate
+10988,moderate
+10989,moderate
+10990,moderate
+10991,moderate
+10992,moderate
+10993,moderate
+10994,moderate
+10995,moderate
+10996,moderate
+10997,moderate
+10998,moderate
+10999,moderate
+11000,moderate
+11001,moderate
+11002,moderate
+11003,moderate
+11004,moderate
+11005,moderate
+11006,moderate
+11007,moderate
+11008,moderate
+11009,moderate
+11010,moderate
+11011,moderate
+11012,moderate
+11013,moderate
+11014,moderate
+11015,moderate
+11016,moderate
+11017,moderate
+11018,moderate
+11019,moderate
+11020,moderate
+11021,moderate
+11022,moderate
+11023,moderate
+11024,moderate
+11025,moderate
+11026,moderate
+11027,moderate
+11028,moderate
+11029,moderate
+11030,moderate
+11031,moderate
+11032,moderate
+11033,moderate
+11034,moderate
+11035,moderate
+11036,moderate
+11037,moderate
+11038,moderate
+11039,moderate
+11040,moderate
+11041,moderate
+11042,moderate
+11043,moderate
+11044,moderate
+11045,moderate
+11046,moderate
+11047,moderate
+11048,moderate
+11049,moderate
+11050,moderate
+11051,moderate
+11052,moderate
+11053,moderate
+11054,moderate
+11055,moderate
+11056,moderate
+11057,expensive
+11058,moderate
+11059,moderate
+11060,moderate
+11061,moderate
+11062,moderate
+11063,moderate
+11064,moderate
+11065,moderate
+11066,moderate
+11067,moderate
+11068,moderate
+11069,moderate
+11070,moderate
+11071,moderate
+11072,moderate
+11073,moderate
+11074,moderate
+11075,moderate
+11076,expensive
+11077,moderate
+11078,moderate
+11079,moderate
+11080,moderate
+11081,moderate
+11082,moderate
+11083,moderate
+11084,moderate
+11085,moderate
+11086,expensive
+11087,moderate
+11088,moderate
+11089,moderate
+11090,moderate
+11091,moderate
+11092,moderate
+11093,moderate
+11094,moderate
+11095,moderate
+11096,moderate
+11097,moderate
+11098,very expensive
+11099,very expensive
+11100,moderate
+11101,moderate
+11102,moderate
+11103,moderate
+11104,moderate
+11105,moderate
+11106,very expensive
+11107,very expensive
+11108,moderate
+11109,moderate
+11110,moderate
+11111,very expensive
+11112,very expensive
+11113,moderate
+11114,very expensive
+11115,very expensive
+11116,moderate
+11117,moderate
+11118,moderate
+11119,very expensive
+11120,very expensive
+11121,very expensive
+11122,very expensive
+11123,very expensive
+11124,very expensive
+11125,very expensive
+11126,very expensive
+11127,very expensive
+11128,very expensive
+11129,very expensive
+11130,moderate
+11131,very expensive
+11132,very expensive
+11133,very expensive
+11134,very expensive
+11135,very expensive
+11136,moderate
+11137,very expensive
+11138,very expensive
+11139,very expensive
+11140,very expensive
+11141,very expensive
+11142,very expensive
+11143,very expensive
+11144,very expensive
+11145,very expensive
+11146,moderate
+11147,very expensive
+11148,moderate
+11149,very expensive
+11150,very expensive
+11151,moderate
+11152,very expensive
+11153,moderate
+11154,moderate
+11155,very expensive
+11156,moderate
+11157,very expensive
+11158,very expensive
+11159,very expensive
+11160,moderate
+11161,very expensive
+11162,very expensive
+11163,very expensive
+11164,very expensive
+11165,very expensive
+11166,very expensive
+11167,very expensive
+11168,moderate
+11169,very expensive
+11170,very expensive
+11171,very expensive
+11172,very expensive
+11173,very expensive
+11174,very expensive
+11175,very expensive
+11176,very expensive
+11177,moderate
+11178,very expensive
+11179,moderate
+11180,very expensive
+11181,very expensive
+11182,very expensive
+11183,very expensive
+11184,very expensive
+11185,very expensive
+11186,very expensive
+11187,very expensive
+11188,very expensive
+11189,very expensive
+11190,very expensive
+11191,very expensive
+11192,very expensive
+11193,very expensive
+11194,very expensive
+11195,very expensive
+11196,very expensive
+11197,very expensive
+11198,moderate
+11199,very expensive
+11200,moderate
+11201,very expensive
+11202,moderate
+11203,very expensive
+11204,moderate
+11205,very expensive
+11206,very expensive
+11207,moderate
+11208,very expensive
+11209,very expensive
+11210,very expensive
+11211,very expensive
+11212,moderate
+11213,very expensive
+11214,very expensive
+11215,very expensive
+11216,very expensive
+11217,very expensive
+11218,very expensive
+11219,moderate
+11220,very expensive
+11221,very expensive
+11222,very expensive
+11223,very expensive
+11224,very expensive
+11225,moderate
+11226,very expensive
+11227,very expensive
+11228,very expensive
+11229,very expensive
+11230,moderate
+11231,moderate
+11232,very expensive
+11233,very expensive
+11234,very expensive
+11235,very expensive
+11236,very expensive
+11237,very expensive
+11238,very expensive
+11239,very expensive
+11240,very expensive
+11241,moderate
+11242,very expensive
+11243,moderate
+11244,moderate
+11245,very expensive
+11246,very expensive
+11247,very expensive
+11248,very expensive
